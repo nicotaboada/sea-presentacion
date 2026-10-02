@@ -1,0 +1,65 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8">
+<title>Planilla de asistencia</title>
+<style>
+  @page { size: A4 landscape; margin: 12mm; }
+  * { box-sizing: border-box; }
+  body { font-family: Georgia, 'Times New Roman', serif; color:#000; background:#fff; margin:0; }
+  .hoja { width: 273mm; }
+  header { display:flex; justify-content:space-between; align-items:flex-end;
+           border-bottom:2px solid #000; padding-bottom:6px; margin-bottom:4px; }
+  h1 { font-size:15pt; margin:0 0 2px; letter-spacing:.5px; }
+  .sub { font-size:9.5pt; }
+  .meta { font-size:9.5pt; text-align:right; line-height:1.6; }
+  .meta b { font-weight:normal; border-bottom:1px solid #000; display:inline-block; min-width:38mm; }
+  table { border-collapse:collapse; width:100%; margin-top:8px; }
+  th, td { border:1px solid #000; height:9.5mm; }
+  th { font-size:9pt; font-weight:normal; background:#f0f0f0; }
+  th.n  { width:9mm; }
+  th.al { width:62mm; text-align:left; padding-left:5px; }
+  th.f  { width:13mm; }
+  th.t  { width:17mm; }
+  td.al { text-align:left; padding-left:5px; font-size:10.5pt; }
+  td.n  { text-align:center; font-size:9pt; color:#444; }
+  tr.libre td { background:#fcfcfc; }
+  .pie { display:flex; justify-content:space-between; margin-top:10px; font-size:9pt; }
+  .obs { width:60%; }
+  .obs .lin { border-bottom:1px solid #000; height:7mm; }
+  .firma { width:32%; text-align:center; }
+  .firma .lin { border-bottom:1px solid #000; height:14mm; }
+  .ref { font-size:8.5pt; margin-top:5px; }
+</style></head><body><div class="hoja">
+<header>
+  <div>
+    <h1>INSTITUTO ALBORADA</h1>
+    <div class="sub">Planilla de asistencia &middot; Sede Norte &middot; Maip&uacute; 1240, Vicente L&oacute;pez</div>
+  </div>
+  <div class="meta">
+    Comisi&oacute;n <b>ING-T1-N-T</b> &nbsp; Nivel <b>Teens 1</b><br>
+    Docente <b>&nbsp;</b> &nbsp; Mes <b>&nbsp;</b>
+  </div>
+</header>
+<table>
+  <tr>
+    <th class="n">N&deg;</th><th class="al">Apellido y nombre</th>
+    <th class="f">1</th><th class="f">3</th><th class="f">8</th><th class="f">10</th><th class="f">15</th>
+    <th class="f">17</th><th class="f">22</th><th class="f">24</th><th class="f">29</th>
+    <th class="t">Total aus.</th>
+  </tr>
+  <tr><td class="n">1</td><td class="al">Barrios, Rodrigo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td class="n">2</td><td class="al">Vel&aacute;zquez, Julia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td class="n">3</td><td class="al">Olivera, Dante</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td class="n">4</td><td class="al">Herrera, Gaspar</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td class="n">5</td><td class="al">Herrera, Enzo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td class="n">6</td><td class="al">Falc&oacute;n, Alma</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td class="n">7</td><td class="al">Montenegro, Ramiro</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td class="n">8</td><td class="al">G&oacute;mez, Abril</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td class="n">9</td><td class="al">Rivero, Delfina</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr class="libre"><td class="n">10</td><td class="al"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr class="libre"><td class="n">11</td><td class="al"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+<div class="ref">Referencias: P presente &nbsp;&middot;&nbsp; A ausente &nbsp;&middot;&nbsp; T tarde &nbsp;&middot;&nbsp; J ausencia justificada</div>
+<div class="pie">
+  <div class="obs">Observaciones<div class="lin"></div><div class="lin"></div></div>
+  <div class="firma">Firma del docente<div class="lin"></div></div>
+</div>
+</div></body></html>

@@ -1,0 +1,1364 @@
+legajo,apellido_y_nombre,comision,periodo,concepto,vencimiento,importe,recargo_mora,fecha_pago,medio,estado
+0301,"Coronel, Milagros",ING-K1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Mercado Pago,pagado
+0301,"Coronel, Milagros",ING-K1-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-06,Efectivo,pagado
+0301,"Coronel, Milagros",ING-K1-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-05,Efectivo,pagado
+0301,"Coronel, Milagros",ING-K1-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-06,Efectivo,pagado
+0301,"Coronel, Milagros",ING-K1-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-07,Mercado Pago,pagado
+0301,"Coronel, Milagros",ING-K1-T,2026-07,Cuota julio,2026-07-10,68000,3400,2026-07-19,Efectivo,pagado
+0301,"Coronel, Milagros",ING-K1-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-04,Mercado Pago,pagado
+0301,"Coronel, Milagros",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,68000,0,,,pendiente
+0302,"Coronel, Renata",ING-K1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Debito automatico,pagado
+0302,"Coronel, Renata",ING-K1-T,2026-03,Cuota marzo,2026-03-10,57800,0,2026-03-10,Mercado Pago,pagado
+0302,"Coronel, Renata",ING-K1-T,2026-04,Cuota abril,2026-04-10,57800,2890,2026-04-12,Transferencia,pagado
+0302,"Coronel, Renata",ING-K1-T,2026-05,Cuota mayo,2026-05-10,57800,0,2026-05-09,Transferencia,pagado
+0302,"Coronel, Renata",ING-K1-T,2026-06,Cuota junio,2026-06-10,57800,0,2026-06-02,Efectivo,pagado
+0302,"Coronel, Renata",ING-K1-T,2026-07,Cuota julio,2026-07-10,57800,2890,2026-07-18,Transferencia,pagado
+0302,"Coronel, Renata",ING-K1-T,2026-08,Cuota agosto,2026-08-10,57800,0,2026-08-09,Transferencia,pagado
+0302,"Coronel, Renata",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,57800,2890,2026-09-14,Transferencia,pagado
+0303,"Ortiz, Rocio",ING-K1-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-09,Efectivo,pagado
+0303,"Ortiz, Rocio",ING-K1-T,2026-03,Cuota marzo,2026-03-10,68000,3400,2026-03-23,Transferencia,pagado
+0303,"Ortiz, Rocio",ING-K1-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-03,Transferencia,pagado
+0303,"Ortiz, Rocio",ING-K1-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-03,Efectivo,pagado
+0303,"Ortiz, Rocio",ING-K1-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-08,Mercado Pago,pagado
+0303,"Ortiz, Rocio",ING-K1-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-09,Efectivo,pagado
+0303,"Ortiz, Rocio",ING-K1-T,2026-08,Cuota agosto,2026-08-10,68000,3400,2026-08-15,Mercado Pago,pagado
+0303,"Ortiz, Rocio",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,68000,0,,,pendiente
+0304,"Sosa, Alma",ING-K1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Transferencia,pagado
+0304,"Sosa, Alma",ING-K1-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-08,Debito automatico,pagado
+0304,"Sosa, Alma",ING-K1-T,2026-04,Cuota abril,2026-04-10,68000,3400,2026-04-18,Mercado Pago,pagado
+0304,"Sosa, Alma",ING-K1-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-07,Debito automatico,pagado
+0304,"Sosa, Alma",ING-K1-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-05,Mercado Pago,pagado
+0304,"Sosa, Alma",ING-K1-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-06,Mercado Pago,pagado
+0304,"Sosa, Alma",ING-K1-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-03,Transferencia,pagado
+0304,"Sosa, Alma",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-07,Mercado Pago,pagado
+0305,"Sosa, Valentin",ING-K1-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-08,Efectivo,pagado
+0305,"Sosa, Valentin",ING-K1-T,2026-03,Cuota marzo,2026-03-10,57800,2890,2026-03-11,Debito automatico,pagado
+0305,"Sosa, Valentin",ING-K1-T,2026-04,Cuota abril,2026-04-10,57800,0,2026-04-03,Efectivo,pagado
+0305,"Sosa, Valentin",ING-K1-T,2026-05,Cuota mayo,2026-05-10,57800,0,2026-05-08,Transferencia,pagado
+0305,"Sosa, Valentin",ING-K1-T,2026-06,Cuota junio,2026-06-10,57800,0,2026-06-05,Efectivo,pagado
+0305,"Sosa, Valentin",ING-K1-T,2026-07,Cuota julio,2026-07-10,57800,0,2026-07-03,Transferencia,pagado
+0305,"Sosa, Valentin",ING-K1-T,2026-08,Cuota agosto,2026-08-10,57800,2890,2026-08-24,Debito automatico,pagado
+0305,"Sosa, Valentin",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,57800,0,2026-09-08,Debito automatico,pagado
+0306,"Figueroa, Maximo",ING-K1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Efectivo,pagado
+0306,"Figueroa, Maximo",ING-K1-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-06,Efectivo,pagado
+0306,"Figueroa, Maximo",ING-K1-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-10,Debito automatico,pagado
+0306,"Figueroa, Maximo",ING-K1-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-07,Mercado Pago,pagado
+0306,"Figueroa, Maximo",ING-K1-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-05,Mercado Pago,pagado
+0306,"Figueroa, Maximo",ING-K1-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-02,Transferencia,pagado
+0306,"Figueroa, Maximo",ING-K1-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-02,Mercado Pago,pagado
+0306,"Figueroa, Maximo",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-10,Efectivo,pagado
+0307,"Perez, Facundo",ING-K1-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-09,Debito automatico,pagado
+0307,"Perez, Facundo",ING-K1-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-05,Transferencia,pagado
+0307,"Perez, Facundo",ING-K1-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-02,Debito automatico,pagado
+0307,"Perez, Facundo",ING-K1-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-07,Mercado Pago,pagado
+0307,"Perez, Facundo",ING-K1-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-03,Transferencia,pagado
+0307,"Perez, Facundo",ING-K1-T,2026-07,Cuota julio,2026-07-10,68000,3400,2026-07-21,Transferencia,pagado
+0307,"Perez, Facundo",ING-K1-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-09,Efectivo,pagado
+0307,"Perez, Facundo",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,54400,0,2026-09-07,Debito automatico,pagado
+0308,"Perez, Simon",ING-K1-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-04,Debito automatico,pagado
+0308,"Perez, Simon",ING-K1-T,2026-03,Cuota marzo,2026-03-10,57800,0,2026-03-02,Efectivo,pagado
+0308,"Perez, Simon",ING-K1-T,2026-04,Cuota abril,2026-04-10,57800,0,2026-04-08,Mercado Pago,pagado
+0308,"Perez, Simon",ING-K1-T,2026-05,Cuota mayo,2026-05-10,57800,0,2026-05-02,Transferencia,pagado
+0308,"Perez, Simon",ING-K1-T,2026-06,Cuota junio,2026-06-10,57800,2890,2026-06-24,Efectivo,pagado
+0308,"Perez, Simon",ING-K1-T,2026-07,Cuota julio,2026-07-10,57800,0,2026-07-05,Debito automatico,pagado
+0308,"Perez, Simon",ING-K1-T,2026-08,Cuota agosto,2026-08-10,57800,0,2026-08-05,Transferencia,pagado
+0308,"Perez, Simon",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,57800,0,2026-09-09,Transferencia,pagado
+0309,"Sosa, Nicolas",ING-K1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Debito automatico,pagado
+0309,"Sosa, Nicolas",ING-K1-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-07,Transferencia,pagado
+0309,"Sosa, Nicolas",ING-K1-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-04,Transferencia,pagado
+0309,"Sosa, Nicolas",ING-K1-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-05,Debito automatico,pagado
+0309,"Sosa, Nicolas",ING-K1-T,2026-06,Cuota junio,2026-06-10,68000,3400,2026-06-20,Transferencia,pagado
+0309,"Sosa, Nicolas",ING-K1-T,2026-07,Cuota julio,2026-07-10,68000,3400,2026-07-18,Mercado Pago,pagado
+0309,"Sosa, Nicolas",ING-K1-T,2026-08,Cuota agosto,2026-08-10,68000,3400,2026-08-13,Transferencia,pagado
+0309,"Sosa, Nicolas",ING-K1-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-05,Debito automatico,pagado
+0310,"Coronel, Leonardo",ING-K2-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-05,Mercado Pago,pagado
+0310,"Coronel, Leonardo",ING-K2-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-07,Mercado Pago,pagado
+0310,"Coronel, Leonardo",ING-K2-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-03,Efectivo,pagado
+0310,"Coronel, Leonardo",ING-K2-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-07,Efectivo,pagado
+0310,"Coronel, Leonardo",ING-K2-T,2026-06,Cuota junio,2026-06-10,68000,3400,2026-06-19,Efectivo,pagado
+0310,"Coronel, Leonardo",ING-K2-T,2026-07,Cuota julio,2026-07-10,68000,0,,,pendiente
+0310,"Coronel, Leonardo",ING-K2-T,2026-08,Cuota agosto,2026-08-10,68000,0,,,pendiente
+0310,"Coronel, Leonardo",ING-K2-T,2026-09,Cuota septiembre,2026-09-10,68000,0,,,pendiente
+0311,"Coronel, Mora",ING-K2-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Mercado Pago,pagado
+0311,"Coronel, Mora",ING-K2-T,2026-03,Cuota marzo,2026-03-10,57800,2890,2026-03-24,Transferencia,pagado
+0311,"Coronel, Mora",ING-K2-T,2026-04,Cuota abril,2026-04-10,57800,2890,2026-04-13,Efectivo,pagado
+0311,"Coronel, Mora",ING-K2-T,2026-05,Cuota mayo,2026-05-10,57800,0,2026-05-10,Efectivo,pagado
+0311,"Coronel, Mora",ING-K2-T,2026-06,Cuota junio,2026-06-10,57800,0,2026-06-07,Efectivo,pagado
+0311,"Coronel, Mora",ING-K2-T,2026-07,Cuota julio,2026-07-10,57800,0,2026-07-10,Mercado Pago,pagado
+0311,"Coronel, Mora",ING-K2-T,2026-08,Cuota agosto,2026-08-10,57800,0,2026-08-09,Mercado Pago,pagado
+0311,"Coronel, Mora",ING-K2-T,2026-09,Cuota septiembre,2026-09-10,57800,0,2026-09-10,Mercado Pago,pagado
+0312,"Orellana, Josefina",ING-K2-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Debito automatico,pagado
+0312,"Orellana, Josefina",ING-K2-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-06,Transferencia,pagado
+0312,"Orellana, Josefina",ING-K2-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-05,Debito automatico,pagado
+0312,"Orellana, Josefina",ING-K2-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-09,Transferencia,pagado
+0312,"Orellana, Josefina",ING-K2-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-07,Mercado Pago,pagado
+0312,"Orellana, Josefina",ING-K2-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-09,Efectivo,pagado
+0312,"Orellana, Josefina",ING-K2-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-04,Debito automatico,pagado
+0312,"Orellana, Josefina",ING-K2-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-06,Mercado Pago,pagado
+0313,"Andrade, Emma",ING-T1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Efectivo,pagado
+0313,"Andrade, Emma",ING-T1-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-08,Mercado Pago,pagado
+0313,"Andrade, Emma",ING-T1-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-09,Transferencia,pagado
+0313,"Andrade, Emma",ING-T1-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-09,Debito automatico,pagado
+0313,"Andrade, Emma",ING-T1-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-06,Mercado Pago,pagado
+0313,"Andrade, Emma",ING-T1-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-08,Transferencia,pagado
+0313,"Andrade, Emma",ING-T1-T,2026-08,Cuota agosto,2026-08-10,84000,4200,2026-08-19,Transferencia,pagado
+0313,"Andrade, Emma",ING-T1-T,2026-09,Cuota septiembre,2026-09-10,84000,4200,2026-09-20,Debito automatico,pagado
+0314,"Andrade, Ciro",ING-T1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Debito automatico,pagado
+0314,"Andrade, Ciro",ING-T1-T,2026-03,Cuota marzo,2026-03-10,71400,0,2026-03-05,Mercado Pago,pagado
+0314,"Andrade, Ciro",ING-T1-T,2026-04,Cuota abril,2026-04-10,71400,3570,2026-04-16,Debito automatico,pagado
+0314,"Andrade, Ciro",ING-T1-T,2026-05,Cuota mayo,2026-05-10,71400,3570,2026-05-16,Transferencia,pagado
+0314,"Andrade, Ciro",ING-T1-T,2026-06,Cuota junio,2026-06-10,71400,0,2026-06-05,Mercado Pago,pagado
+0314,"Andrade, Ciro",ING-T1-T,2026-07,Cuota julio,2026-07-10,71400,3570,2026-07-13,Efectivo,pagado
+0314,"Andrade, Ciro",ING-T1-T,2026-08,Cuota agosto,2026-08-10,71400,0,2026-08-03,Mercado Pago,pagado
+0314,"Andrade, Ciro",ING-T1-T,2026-09,Cuota septiembre,2026-09-10,71400,0,2026-09-06,Mercado Pago,pagado
+0315,"Vega, Julia",ING-T1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-04,Efectivo,pagado
+0315,"Vega, Julia",ING-T1-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-07,Debito automatico,pagado
+0315,"Vega, Julia",ING-T1-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-03,Debito automatico,pagado
+0315,"Vega, Julia",ING-T1-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-07,Transferencia,pagado
+0315,"Vega, Julia",ING-T1-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-06,Transferencia,pagado
+0315,"Vega, Julia",ING-T1-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-02,Efectivo,pagado
+0315,"Vega, Julia",ING-T1-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-02,Transferencia,pagado
+0315,"Vega, Julia",ING-T1-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-03,Transferencia,pagado
+0316,"Saavedra, Liam",ING-T1-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-08,Debito automatico,pagado
+0316,"Saavedra, Liam",ING-T1-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-05,Mercado Pago,pagado
+0316,"Saavedra, Liam",ING-T1-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-10,Mercado Pago,pagado
+0316,"Saavedra, Liam",ING-T1-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-06,Debito automatico,pagado
+0316,"Saavedra, Liam",ING-T1-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-03,Transferencia,pagado
+0316,"Saavedra, Liam",ING-T1-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-05,Efectivo,pagado
+0316,"Saavedra, Liam",ING-T1-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-09,Debito automatico,pagado
+0316,"Saavedra, Liam",ING-T1-T,2026-09,Cuota septiembre,2026-09-10,84000,4200,2026-09-13,Debito automatico,pagado
+0317,"Saavedra, Juan",ING-T1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Mercado Pago,pagado
+0317,"Saavedra, Juan",ING-T1-T,2026-03,Cuota marzo,2026-03-10,71400,0,2026-03-08,Mercado Pago,pagado
+0317,"Saavedra, Juan",ING-T1-T,2026-04,Cuota abril,2026-04-10,71400,0,2026-04-05,Debito automatico,pagado
+0317,"Saavedra, Juan",ING-T1-T,2026-05,Cuota mayo,2026-05-10,71400,0,2026-05-02,Efectivo,pagado
+0317,"Saavedra, Juan",ING-T1-T,2026-06,Cuota junio,2026-06-10,71400,0,2026-06-07,Efectivo,pagado
+0317,"Saavedra, Juan",ING-T1-T,2026-07,Cuota julio,2026-07-10,71400,3570,2026-07-13,Transferencia,pagado
+0317,"Saavedra, Juan",ING-T1-T,2026-08,Cuota agosto,2026-08-10,71400,0,2026-08-03,Efectivo,pagado
+0317,"Saavedra, Juan",ING-T1-T,2026-09,Cuota septiembre,2026-09-10,71400,0,2026-09-06,Efectivo,pagado
+0318,"Ledesma, Dante",ING-T1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Mercado Pago,pagado
+0318,"Ledesma, Dante",ING-T1-T,2026-03,Cuota marzo,2026-03-10,0,0,2026-03-09,Efectivo,pagado
+0318,"Ledesma, Dante",ING-T1-T,2026-04,Cuota abril,2026-04-10,0,0,2026-04-05,Mercado Pago,pagado
+0318,"Ledesma, Dante",ING-T1-T,2026-05,Cuota mayo,2026-05-10,0,0,2026-05-08,Mercado Pago,pagado
+0318,"Ledesma, Dante",ING-T1-T,2026-06,Cuota junio,2026-06-10,0,0,2026-06-07,Efectivo,pagado
+0318,"Ledesma, Dante",ING-T1-T,2026-07,Cuota julio,2026-07-10,0,0,2026-07-09,Mercado Pago,pagado
+0318,"Ledesma, Dante",ING-T1-T,2026-08,Cuota agosto,2026-08-10,0,0,2026-08-18,Efectivo,pagado
+0318,"Ledesma, Dante",ING-T1-T,2026-09,Cuota septiembre,2026-09-10,0,0,2026-09-02,Debito automatico,pagado
+0319,"Coronel, Mia",ING-T1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Transferencia,pagado
+0319,"Coronel, Mia",ING-T1-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-02,Debito automatico,pagado
+0319,"Coronel, Mia",ING-T1-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-07,Mercado Pago,pagado
+0319,"Coronel, Mia",ING-T1-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-08,Transferencia,pagado
+0319,"Coronel, Mia",ING-T1-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-02,Efectivo,pagado
+0319,"Coronel, Mia",ING-T1-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-10,Mercado Pago,pagado
+0319,"Coronel, Mia",ING-T1-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-06,Efectivo,pagado
+0319,"Coronel, Mia",ING-T1-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-03,Transferencia,pagado
+0320,"Ibarra, Manuela",ING-T1-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Debito automatico,pagado
+0320,"Ibarra, Manuela",ING-T1-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-10,Efectivo,pagado
+0320,"Ibarra, Manuela",ING-T1-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-07,Mercado Pago,pagado
+0320,"Ibarra, Manuela",ING-T1-T,2026-05,Cuota mayo,2026-05-10,84000,4200,2026-05-20,Transferencia,pagado
+0320,"Ibarra, Manuela",ING-T1-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-06,Efectivo,pagado
+0320,"Ibarra, Manuela",ING-T1-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-10,Transferencia,pagado
+0320,"Ibarra, Manuela",ING-T1-T,2026-08,Cuota agosto,2026-08-10,84000,4200,2026-08-14,Debito automatico,pagado
+0320,"Ibarra, Manuela",ING-T1-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-02,Debito automatico,pagado
+0321,"Miranda, Renata",ING-A1-M,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-07,Debito automatico,pagado
+0321,"Miranda, Renata",ING-A1-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Efectivo,pagado
+0321,"Miranda, Renata",ING-A1-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-02,Transferencia,pagado
+0321,"Miranda, Renata",ING-A1-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-10,Efectivo,pagado
+0321,"Miranda, Renata",ING-A1-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-09,Mercado Pago,pagado
+0321,"Miranda, Renata",ING-A1-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-06,Debito automatico,pagado
+0321,"Miranda, Renata",ING-A1-M,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-19,Mercado Pago,pagado
+0321,"Miranda, Renata",ING-A1-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Debito automatico,pagado
+0322,"Galvan, Maria",ING-A1-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Mercado Pago,pagado
+0322,"Galvan, Maria",ING-A1-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Mercado Pago,pagado
+0322,"Galvan, Maria",ING-A1-M,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-16,Mercado Pago,pagado
+0322,"Galvan, Maria",ING-A1-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Efectivo,pagado
+0323,"Martinez, Lautaro",ING-A1-M,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Efectivo,pagado
+0323,"Martinez, Lautaro",ING-A1-M,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-15,Efectivo,pagado
+0323,"Martinez, Lautaro",ING-A1-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Debito automatico,pagado
+0323,"Martinez, Lautaro",ING-A1-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-02,Mercado Pago,pagado
+0323,"Martinez, Lautaro",ING-A1-M,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-12,Mercado Pago,pagado
+0323,"Martinez, Lautaro",ING-A1-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-04,Mercado Pago,pagado
+0323,"Martinez, Lautaro",ING-A1-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-10,Efectivo,pagado
+0323,"Martinez, Lautaro",ING-A1-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-07,Debito automatico,pagado
+0324,"Rivero, Agustin",ING-A1-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Mercado Pago,pagado
+0324,"Rivero, Agustin",ING-A1-M,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-24,Transferencia,pagado
+0324,"Rivero, Agustin",ING-A1-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-07,Transferencia,pagado
+0324,"Rivero, Agustin",ING-A1-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Mercado Pago,pagado
+0324,"Rivero, Agustin",ING-A1-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-02,Efectivo,pagado
+0324,"Rivero, Agustin",ING-A1-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Efectivo,pagado
+0324,"Rivero, Agustin",ING-A1-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-02,Debito automatico,pagado
+0324,"Rivero, Agustin",ING-A1-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-04,Debito automatico,pagado
+0325,"Acosta, Lautaro",ING-A1-M,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-06,Mercado Pago,pagado
+0325,"Acosta, Lautaro",ING-A1-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-05,Efectivo,pagado
+0325,"Acosta, Lautaro",ING-A1-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-08,Efectivo,pagado
+0325,"Acosta, Lautaro",ING-A1-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-04,Mercado Pago,pagado
+0325,"Acosta, Lautaro",ING-A1-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-09,Debito automatico,pagado
+0325,"Acosta, Lautaro",ING-A1-M,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-23,Debito automatico,pagado
+0325,"Acosta, Lautaro",ING-A1-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-09,Debito automatico,pagado
+0325,"Acosta, Lautaro",ING-A1-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-06,Mercado Pago,pagado
+0326,"Paez, Bruno",ING-A1-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-04,Efectivo,pagado
+0326,"Paez, Bruno",ING-A1-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-07,Debito automatico,pagado
+0326,"Paez, Bruno",ING-A1-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Transferencia,pagado
+0326,"Paez, Bruno",ING-A1-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Transferencia,pagado
+0326,"Paez, Bruno",ING-A1-M,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-17,Debito automatico,pagado
+0326,"Paez, Bruno",ING-A1-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-02,Debito automatico,pagado
+0326,"Paez, Bruno",ING-A1-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-04,Transferencia,pagado
+0326,"Paez, Bruno",ING-A1-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-04,Efectivo,pagado
+0327,"Torres, Jazmin",ING-A1-M,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Debito automatico,pagado
+0327,"Torres, Jazmin",ING-A1-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Debito automatico,pagado
+0327,"Torres, Jazmin",ING-A1-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-02,Debito automatico,pagado
+0327,"Torres, Jazmin",ING-A1-M,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-17,Transferencia,pagado
+0327,"Torres, Jazmin",ING-A1-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Transferencia,pagado
+0327,"Torres, Jazmin",ING-A1-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-10,Debito automatico,pagado
+0327,"Torres, Jazmin",ING-A1-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Mercado Pago,pagado
+0327,"Torres, Jazmin",ING-A1-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-04,Debito automatico,pagado
+0328,"Lucero, Maximo",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Transferencia,pagado
+0328,"Lucero, Maximo",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Transferencia,pagado
+0328,"Lucero, Maximo",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-10,Mercado Pago,pagado
+0328,"Lucero, Maximo",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Transferencia,pagado
+0328,"Lucero, Maximo",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,0,,,pendiente
+0328,"Lucero, Maximo",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,0,,,pendiente
+0328,"Lucero, Maximo",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,0,,,pendiente
+0328,"Lucero, Maximo",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,,,pendiente
+0329,"Acosta, Luna",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Debito automatico,pagado
+0329,"Acosta, Luna",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-06,Transferencia,pagado
+0329,"Acosta, Luna",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-05,Debito automatico,pagado
+0329,"Acosta, Luna",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Mercado Pago,pagado
+0329,"Acosta, Luna",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-24,Efectivo,pagado
+0329,"Acosta, Luna",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-06,Debito automatico,pagado
+0329,"Acosta, Luna",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-09,Debito automatico,pagado
+0329,"Acosta, Luna",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Transferencia,pagado
+0330,"Suarez, Jazmin",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Debito automatico,pagado
+0330,"Suarez, Jazmin",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-02,Transferencia,pagado
+0330,"Suarez, Jazmin",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-04,Efectivo,pagado
+0330,"Suarez, Jazmin",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-02,Mercado Pago,pagado
+0330,"Suarez, Jazmin",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-06,Debito automatico,pagado
+0330,"Suarez, Jazmin",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-14,Debito automatico,pagado
+0330,"Suarez, Jazmin",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,0,,,pendiente
+0330,"Suarez, Jazmin",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,,,pendiente
+0331,"Andrade, Gonzalo",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Efectivo,pagado
+0331,"Andrade, Gonzalo",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-06,Efectivo,pagado
+0331,"Andrade, Gonzalo",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-08,Debito automatico,pagado
+0331,"Andrade, Gonzalo",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Mercado Pago,pagado
+0331,"Andrade, Gonzalo",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Transferencia,pagado
+0331,"Andrade, Gonzalo",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-10,Debito automatico,pagado
+0331,"Andrade, Gonzalo",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-13,Efectivo,pagado
+0331,"Andrade, Gonzalo",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-09,Efectivo,pagado
+0332,"Olivera, Renata",ING-A2-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-09,Efectivo,pagado
+0332,"Olivera, Renata",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-04,Mercado Pago,pagado
+0332,"Olivera, Renata",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-06,Efectivo,pagado
+0332,"Olivera, Renata",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-06,Efectivo,pagado
+0332,"Olivera, Renata",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-02,Debito automatico,pagado
+0332,"Olivera, Renata",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-05,Debito automatico,pagado
+0332,"Olivera, Renata",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Efectivo,pagado
+0332,"Olivera, Renata",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-06,Transferencia,pagado
+0333,"Galvan, Abril",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-04,Efectivo,pagado
+0333,"Galvan, Abril",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-23,Transferencia,pagado
+0333,"Galvan, Abril",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-07,Debito automatico,pagado
+0333,"Galvan, Abril",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-11,Efectivo,pagado
+0333,"Galvan, Abril",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-16,Efectivo,pagado
+0333,"Galvan, Abril",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-07,Debito automatico,pagado
+0333,"Galvan, Abril",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Mercado Pago,pagado
+0333,"Galvan, Abril",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-02,Transferencia,pagado
+0334,"Nuñez, Tomas",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Mercado Pago,pagado
+0334,"Nuñez, Tomas",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-17,Debito automatico,pagado
+0334,"Nuñez, Tomas",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-13,Debito automatico,pagado
+0334,"Nuñez, Tomas",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-22,Transferencia,pagado
+0334,"Nuñez, Tomas",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-02,Mercado Pago,pagado
+0334,"Nuñez, Tomas",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-06,Mercado Pago,pagado
+0334,"Nuñez, Tomas",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-04,Transferencia,pagado
+0334,"Nuñez, Tomas",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-05,Debito automatico,pagado
+0335,"Lamas, Paula",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Efectivo,pagado
+0335,"Lamas, Paula",ING-A2-N,2026-03,Cuota marzo,2026-03-10,82800,0,2026-03-02,Transferencia,pagado
+0335,"Lamas, Paula",ING-A2-N,2026-04,Cuota abril,2026-04-10,82800,0,2026-04-06,Efectivo,pagado
+0335,"Lamas, Paula",ING-A2-N,2026-05,Cuota mayo,2026-05-10,82800,0,2026-05-03,Debito automatico,pagado
+0335,"Lamas, Paula",ING-A2-N,2026-06,Cuota junio,2026-06-10,82800,4140,2026-06-17,Efectivo,pagado
+0335,"Lamas, Paula",ING-A2-N,2026-07,Cuota julio,2026-07-10,82800,0,2026-07-04,Transferencia,pagado
+0335,"Lamas, Paula",ING-A2-N,2026-08,Cuota agosto,2026-08-10,82800,0,2026-08-05,Transferencia,pagado
+0335,"Lamas, Paula",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,82800,0,2026-09-02,Efectivo,pagado
+0336,"Arias, Luca",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Efectivo,pagado
+0336,"Arias, Luca",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-22,Transferencia,pagado
+0336,"Arias, Luca",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-06,Mercado Pago,pagado
+0336,"Arias, Luca",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-08,Transferencia,pagado
+0336,"Arias, Luca",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-08,Efectivo,pagado
+0336,"Arias, Luca",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Debito automatico,pagado
+0336,"Arias, Luca",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-22,Efectivo,pagado
+0336,"Arias, Luca",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Efectivo,pagado
+0337,"Rios, Milagros",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Efectivo,pagado
+0337,"Rios, Milagros",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-07,Efectivo,pagado
+0337,"Rios, Milagros",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-11,Transferencia,pagado
+0337,"Rios, Milagros",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Debito automatico,pagado
+0337,"Rios, Milagros",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Debito automatico,pagado
+0337,"Rios, Milagros",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-04,Debito automatico,pagado
+0337,"Rios, Milagros",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-13,Mercado Pago,pagado
+0337,"Rios, Milagros",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-06,Debito automatico,pagado
+0338,"Vargas, Rodrigo",ING-A2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-04,Transferencia,pagado
+0338,"Vargas, Rodrigo",ING-A2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-05,Mercado Pago,pagado
+0338,"Vargas, Rodrigo",ING-A2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-06,Mercado Pago,pagado
+0338,"Vargas, Rodrigo",ING-A2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-07,Mercado Pago,pagado
+0338,"Vargas, Rodrigo",ING-A2-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-18,Debito automatico,pagado
+0338,"Vargas, Rodrigo",ING-A2-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-11,Transferencia,pagado
+0338,"Vargas, Rodrigo",ING-A2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Transferencia,pagado
+0338,"Vargas, Rodrigo",ING-A2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-02,Transferencia,pagado
+0339,"Roldan, Zoe",ING-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Mercado Pago,pagado
+0339,"Roldan, Zoe",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-04,Debito automatico,pagado
+0339,"Roldan, Zoe",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-16,Transferencia,pagado
+0339,"Roldan, Zoe",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-10,Transferencia,pagado
+0339,"Roldan, Zoe",ING-B1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-04,Debito automatico,pagado
+0339,"Roldan, Zoe",ING-B1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-10,Mercado Pago,pagado
+0339,"Roldan, Zoe",ING-B1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Transferencia,pagado
+0339,"Roldan, Zoe",ING-B1-N,2026-09,Cuota septiembre,2026-09-10,73600,0,2026-09-02,Transferencia,pagado
+0340,"Gonzalez, Constanza",ING-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Transferencia,pagado
+0340,"Gonzalez, Constanza",ING-B1-N,2026-03,Cuota marzo,2026-03-10,82800,4140,2026-03-17,Efectivo,pagado
+0340,"Gonzalez, Constanza",ING-B1-N,2026-04,Cuota abril,2026-04-10,82800,0,2026-04-09,Efectivo,pagado
+0340,"Gonzalez, Constanza",ING-B1-N,2026-05,Cuota mayo,2026-05-10,82800,0,2026-05-05,Efectivo,pagado
+0340,"Gonzalez, Constanza",ING-B1-N,2026-06,Cuota junio,2026-06-10,82800,4140,2026-06-15,Debito automatico,pagado
+0340,"Gonzalez, Constanza",ING-B1-N,2026-07,Cuota julio,2026-07-10,82800,0,2026-07-09,Mercado Pago,pagado
+0340,"Gonzalez, Constanza",ING-B1-N,2026-08,Cuota agosto,2026-08-10,82800,0,2026-08-06,Mercado Pago,pagado
+0340,"Gonzalez, Constanza",ING-B1-N,2026-09,Cuota septiembre,2026-09-10,82800,0,2026-09-09,Transferencia,pagado
+0341,"Ramos, Alma",ING-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Debito automatico,pagado
+0341,"Ramos, Alma",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-07,Mercado Pago,pagado
+0341,"Ramos, Alma",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-08,Debito automatico,pagado
+0341,"Ramos, Alma",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-06,Transferencia,pagado
+0341,"Ramos, Alma",ING-B1-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-19,Debito automatico,pagado
+0341,"Ramos, Alma",ING-B1-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-22,Debito automatico,pagado
+0341,"Ramos, Alma",ING-B1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Debito automatico,pagado
+0341,"Ramos, Alma",ING-B1-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-17,Mercado Pago,pagado
+0342,"Ruiz, Dylan",ING-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Mercado Pago,pagado
+0342,"Ruiz, Dylan",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Transferencia,pagado
+0342,"Ruiz, Dylan",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-06,Mercado Pago,pagado
+0342,"Ruiz, Dylan",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-21,Mercado Pago,pagado
+0342,"Ruiz, Dylan",ING-B1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-07,Debito automatico,pagado
+0342,"Ruiz, Dylan",ING-B1-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-21,Mercado Pago,pagado
+0342,"Ruiz, Dylan",ING-B1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-10,Efectivo,pagado
+0342,"Ruiz, Dylan",ING-B1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-04,Transferencia,pagado
+0343,"Quiroga, Rodrigo",ING-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Debito automatico,pagado
+0343,"Quiroga, Rodrigo",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-07,Transferencia,pagado
+0343,"Quiroga, Rodrigo",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-06,Transferencia,pagado
+0343,"Quiroga, Rodrigo",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-04,Transferencia,pagado
+0343,"Quiroga, Rodrigo",ING-B1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-04,Debito automatico,pagado
+0343,"Quiroga, Rodrigo",ING-B1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Transferencia,pagado
+0343,"Quiroga, Rodrigo",ING-B1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Debito automatico,pagado
+0343,"Quiroga, Rodrigo",ING-B1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Debito automatico,pagado
+0344,"Perez, Delfina",ING-B1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-09,Mercado Pago,pagado
+0344,"Perez, Delfina",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-13,Transferencia,pagado
+0344,"Perez, Delfina",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-10,Debito automatico,pagado
+0344,"Perez, Delfina",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Mercado Pago,pagado
+0345,"Villalba, Isabella",ING-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Debito automatico,pagado
+0345,"Villalba, Isabella",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-08,Debito automatico,pagado
+0345,"Villalba, Isabella",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-07,Transferencia,pagado
+0345,"Villalba, Isabella",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-03,Efectivo,pagado
+0345,"Villalba, Isabella",ING-B1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-10,Debito automatico,pagado
+0345,"Villalba, Isabella",ING-B1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-02,Mercado Pago,pagado
+0345,"Villalba, Isabella",ING-B1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Mercado Pago,pagado
+0345,"Villalba, Isabella",ING-B1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-07,Mercado Pago,pagado
+0346,"Martinez, Valentina",ING-B1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-05,Debito automatico,pagado
+0346,"Martinez, Valentina",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-19,Efectivo,pagado
+0346,"Martinez, Valentina",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-05,Debito automatico,pagado
+0346,"Martinez, Valentina",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-07,Transferencia,pagado
+0346,"Martinez, Valentina",ING-B1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-06,Transferencia,pagado
+0346,"Martinez, Valentina",ING-B1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Debito automatico,pagado
+0346,"Martinez, Valentina",ING-B1-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-14,Efectivo,pagado
+0347,"Martinez, Tomas",ING-B1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Mercado Pago,pagado
+0347,"Martinez, Tomas",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-10,Transferencia,pagado
+0347,"Martinez, Tomas",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-12,Mercado Pago,pagado
+0347,"Martinez, Tomas",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-02,Transferencia,pagado
+0347,"Martinez, Tomas",ING-B1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-08,Mercado Pago,pagado
+0347,"Martinez, Tomas",ING-B1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-10,Mercado Pago,pagado
+0347,"Martinez, Tomas",ING-B1-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-20,Mercado Pago,pagado
+0347,"Martinez, Tomas",ING-B1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-08,Debito automatico,pagado
+0348,"Caceres, Manuela",ING-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Transferencia,pagado
+0348,"Caceres, Manuela",ING-B1-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-21,Efectivo,pagado
+0348,"Caceres, Manuela",ING-B1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Efectivo,pagado
+0348,"Caceres, Manuela",ING-B1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-06,Transferencia,pagado
+0348,"Caceres, Manuela",ING-B1-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-23,Transferencia,pagado
+0348,"Caceres, Manuela",ING-B1-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-19,Transferencia,pagado
+0348,"Caceres, Manuela",ING-B1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-08,Mercado Pago,pagado
+0348,"Caceres, Manuela",ING-B1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-02,Mercado Pago,pagado
+0349,"Palacios, Paula",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Debito automatico,pagado
+0349,"Palacios, Paula",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-06,Mercado Pago,pagado
+0349,"Palacios, Paula",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-08,Debito automatico,pagado
+0349,"Palacios, Paula",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Debito automatico,pagado
+0349,"Palacios, Paula",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-07,Mercado Pago,pagado
+0349,"Palacios, Paula",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-02,Transferencia,pagado
+0349,"Palacios, Paula",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-15,Efectivo,pagado
+0349,"Palacios, Paula",ING-B2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-02,Transferencia,pagado
+0350,"Marino, Josefina",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Efectivo,pagado
+0350,"Marino, Josefina",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-06,Mercado Pago,pagado
+0350,"Marino, Josefina",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Efectivo,pagado
+0350,"Marino, Josefina",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-10,Efectivo,pagado
+0350,"Marino, Josefina",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-04,Mercado Pago,pagado
+0350,"Marino, Josefina",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-06,Efectivo,pagado
+0350,"Marino, Josefina",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-02,Debito automatico,pagado
+0350,"Marino, Josefina",ING-B2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-02,Mercado Pago,pagado
+0351,"Ortiz, Trinidad",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Transferencia,pagado
+0351,"Ortiz, Trinidad",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-04,Mercado Pago,pagado
+0351,"Ortiz, Trinidad",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-04,Efectivo,pagado
+0351,"Ortiz, Trinidad",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-04,Mercado Pago,pagado
+0351,"Ortiz, Trinidad",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Transferencia,pagado
+0351,"Ortiz, Trinidad",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Debito automatico,pagado
+0351,"Ortiz, Trinidad",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-02,Mercado Pago,pagado
+0351,"Ortiz, Trinidad",ING-B2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,,,pendiente
+0352,"Ayala, Delfina",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Mercado Pago,pagado
+0352,"Ayala, Delfina",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-08,Mercado Pago,pagado
+0352,"Ayala, Delfina",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-08,Debito automatico,pagado
+0352,"Ayala, Delfina",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-07,Debito automatico,pagado
+0352,"Ayala, Delfina",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Efectivo,pagado
+0352,"Ayala, Delfina",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Transferencia,pagado
+0352,"Ayala, Delfina",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Transferencia,pagado
+0352,"Ayala, Delfina",ING-B2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-02,Debito automatico,pagado
+0353,"Caceres, Simon",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Transferencia,pagado
+0353,"Caceres, Simon",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-10,Transferencia,pagado
+0353,"Caceres, Simon",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-20,Debito automatico,pagado
+0353,"Caceres, Simon",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Transferencia,pagado
+0353,"Caceres, Simon",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-13,Transferencia,pagado
+0353,"Caceres, Simon",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-02,Debito automatico,pagado
+0353,"Caceres, Simon",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-04,Mercado Pago,pagado
+0354,"Vega, Alvaro",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Debito automatico,pagado
+0354,"Vega, Alvaro",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-15,Debito automatico,pagado
+0354,"Vega, Alvaro",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Debito automatico,pagado
+0354,"Vega, Alvaro",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Efectivo,pagado
+0354,"Vega, Alvaro",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-09,Efectivo,pagado
+0354,"Vega, Alvaro",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-03,Mercado Pago,pagado
+0354,"Vega, Alvaro",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-07,Transferencia,pagado
+0354,"Vega, Alvaro",ING-B2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-06,Debito automatico,pagado
+0355,"Ortiz, Luna",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Mercado Pago,pagado
+0355,"Ortiz, Luna",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-18,Efectivo,pagado
+0355,"Ortiz, Luna",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-24,Mercado Pago,pagado
+0355,"Ortiz, Luna",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-06,Mercado Pago,pagado
+0355,"Ortiz, Luna",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Transferencia,pagado
+0355,"Ortiz, Luna",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-23,Efectivo,pagado
+0355,"Ortiz, Luna",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Debito automatico,pagado
+0355,"Ortiz, Luna",ING-B2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-04,Debito automatico,pagado
+0356,"Arias, Antonella",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Transferencia,pagado
+0356,"Arias, Antonella",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-22,Transferencia,pagado
+0356,"Arias, Antonella",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-10,Efectivo,pagado
+0356,"Arias, Antonella",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Mercado Pago,pagado
+0356,"Arias, Antonella",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Transferencia,pagado
+0356,"Arias, Antonella",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-03,Transferencia,pagado
+0356,"Arias, Antonella",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Debito automatico,pagado
+0356,"Arias, Antonella",ING-B2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,,,pendiente
+0357,"Castro, Simon",ING-B2-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Mercado Pago,pagado
+0357,"Castro, Simon",ING-B2-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-07,Efectivo,pagado
+0357,"Castro, Simon",ING-B2-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-07,Efectivo,pagado
+0357,"Castro, Simon",ING-B2-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-10,Efectivo,pagado
+0357,"Castro, Simon",ING-B2-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-17,Efectivo,pagado
+0357,"Castro, Simon",ING-B2-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-15,Transferencia,pagado
+0357,"Castro, Simon",ING-B2-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-08,Mercado Pago,pagado
+0357,"Castro, Simon",ING-B2-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Transferencia,pagado
+0358,"Molina, Dante",ING-C1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-09,Efectivo,pagado
+0358,"Molina, Dante",ING-C1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-09,Mercado Pago,pagado
+0358,"Molina, Dante",ING-C1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-07,Transferencia,pagado
+0358,"Molina, Dante",ING-C1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-02,Transferencia,pagado
+0358,"Molina, Dante",ING-C1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-08,Transferencia,pagado
+0358,"Molina, Dante",ING-C1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-08,Mercado Pago,pagado
+0358,"Molina, Dante",ING-C1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-08,Mercado Pago,pagado
+0358,"Molina, Dante",ING-C1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-06,Efectivo,pagado
+0359,"Lamas, Camila",ING-C1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Efectivo,pagado
+0359,"Lamas, Camila",ING-C1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-06,Transferencia,pagado
+0359,"Lamas, Camila",ING-C1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Debito automatico,pagado
+0359,"Lamas, Camila",ING-C1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-03,Mercado Pago,pagado
+0359,"Lamas, Camila",ING-C1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-06,Mercado Pago,pagado
+0359,"Lamas, Camila",ING-C1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-04,Debito automatico,pagado
+0359,"Lamas, Camila",ING-C1-N,2026-08,Cuota agosto,2026-08-10,92000,0,,,pendiente
+0359,"Lamas, Camila",ING-C1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,,,pendiente
+0360,"Palacios, Noah",ING-C1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-03,Efectivo,pagado
+0360,"Palacios, Noah",ING-C1-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-20,Debito automatico,pagado
+0360,"Palacios, Noah",ING-C1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-04,Transferencia,pagado
+0360,"Palacios, Noah",ING-C1-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-22,Debito automatico,pagado
+0360,"Palacios, Noah",ING-C1-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-23,Debito automatico,pagado
+0360,"Palacios, Noah",ING-C1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-04,Efectivo,pagado
+0360,"Palacios, Noah",ING-C1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-02,Mercado Pago,pagado
+0360,"Palacios, Noah",ING-C1-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-24,Efectivo,pagado
+0361,"Orellana, Marcos",ING-C1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Debito automatico,pagado
+0361,"Orellana, Marcos",ING-C1-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-22,Transferencia,pagado
+0361,"Orellana, Marcos",ING-C1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-04,Efectivo,pagado
+0361,"Orellana, Marcos",ING-C1-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-02,Mercado Pago,pagado
+0361,"Orellana, Marcos",ING-C1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Mercado Pago,pagado
+0361,"Orellana, Marcos",ING-C1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-02,Mercado Pago,pagado
+0361,"Orellana, Marcos",ING-C1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Mercado Pago,pagado
+0361,"Orellana, Marcos",ING-C1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-08,Mercado Pago,pagado
+0362,"Franco, Julian",ING-C1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-07,Mercado Pago,pagado
+0362,"Franco, Julian",ING-C1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Efectivo,pagado
+0362,"Franco, Julian",ING-C1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Mercado Pago,pagado
+0362,"Franco, Julian",ING-C1-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-21,Transferencia,pagado
+0362,"Franco, Julian",ING-C1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-02,Efectivo,pagado
+0362,"Franco, Julian",ING-C1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-10,Transferencia,pagado
+0362,"Franco, Julian",ING-C1-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Debito automatico,pagado
+0362,"Franco, Julian",ING-C1-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-04,Transferencia,pagado
+0363,"Mendez, Gael",ING-C1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-04,Efectivo,pagado
+0363,"Mendez, Gael",ING-C1-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-10,Efectivo,pagado
+0363,"Mendez, Gael",ING-C1-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-02,Efectivo,pagado
+0363,"Mendez, Gael",ING-C1-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-12,Mercado Pago,pagado
+0363,"Mendez, Gael",ING-C1-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-02,Mercado Pago,pagado
+0363,"Mendez, Gael",ING-C1-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Efectivo,pagado
+0363,"Mendez, Gael",ING-C1-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-11,Efectivo,pagado
+0364,"Ojeda, Mora",ING-CONV,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-05,Transferencia,pagado
+0364,"Ojeda, Mora",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,0,2026-03-04,Debito automatico,pagado
+0364,"Ojeda, Mora",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-05,Efectivo,pagado
+0364,"Ojeda, Mora",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-04,Transferencia,pagado
+0364,"Ojeda, Mora",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-02,Transferencia,pagado
+0364,"Ojeda, Mora",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,0,2026-07-08,Efectivo,pagado
+0364,"Ojeda, Mora",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,2800,2026-08-14,Debito automatico,pagado
+0364,"Ojeda, Mora",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-09,Mercado Pago,pagado
+0365,"Rivero, Jazmin",ING-CONV,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Debito automatico,pagado
+0365,"Rivero, Jazmin",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,0,2026-03-10,Mercado Pago,pagado
+0365,"Rivero, Jazmin",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-06,Efectivo,pagado
+0365,"Rivero, Jazmin",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-04,Debito automatico,pagado
+0365,"Rivero, Jazmin",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,2800,2026-06-12,Debito automatico,pagado
+0365,"Rivero, Jazmin",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,2800,2026-07-16,Transferencia,pagado
+0365,"Rivero, Jazmin",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-05,Efectivo,pagado
+0365,"Rivero, Jazmin",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-10,Efectivo,pagado
+0366,"Carrizo, Alan",ING-CONV,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Efectivo,pagado
+0366,"Carrizo, Alan",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,0,2026-03-04,Debito automatico,pagado
+0366,"Carrizo, Alan",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-05,Mercado Pago,pagado
+0366,"Carrizo, Alan",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,2800,2026-05-19,Debito automatico,pagado
+0366,"Carrizo, Alan",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,2800,2026-06-21,Debito automatico,pagado
+0366,"Carrizo, Alan",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,2800,2026-07-12,Transferencia,pagado
+0366,"Carrizo, Alan",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-04,Efectivo,pagado
+0366,"Carrizo, Alan",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,2800,2026-09-17,Efectivo,pagado
+0367,"Ramos, Emma",ING-CONV,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Efectivo,pagado
+0367,"Ramos, Emma",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,2800,2026-03-19,Debito automatico,pagado
+0367,"Ramos, Emma",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,2800,2026-04-12,Debito automatico,pagado
+0367,"Ramos, Emma",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-05,Mercado Pago,pagado
+0367,"Ramos, Emma",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-07,Transferencia,pagado
+0367,"Ramos, Emma",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,0,2026-07-07,Efectivo,pagado
+0367,"Ramos, Emma",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-09,Transferencia,pagado
+0367,"Ramos, Emma",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-04,Debito automatico,pagado
+0368,"Vera, Agostina",ING-CONV,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Mercado Pago,pagado
+0368,"Vera, Agostina",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,2800,2026-03-11,Transferencia,pagado
+0368,"Vera, Agostina",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-09,Mercado Pago,pagado
+0368,"Vera, Agostina",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-05,Mercado Pago,pagado
+0368,"Vera, Agostina",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,2800,2026-06-15,Efectivo,pagado
+0368,"Vera, Agostina",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,2800,2026-07-18,Mercado Pago,pagado
+0369,"Franco, Camila",ING-CONV,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-07,Debito automatico,pagado
+0369,"Franco, Camila",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,2800,2026-03-21,Debito automatico,pagado
+0369,"Franco, Camila",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-04,Efectivo,pagado
+0369,"Franco, Camila",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-02,Mercado Pago,pagado
+0369,"Franco, Camila",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,2800,2026-06-13,Mercado Pago,pagado
+0369,"Franco, Camila",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,2800,2026-07-24,Efectivo,pagado
+0369,"Franco, Camila",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-07,Efectivo,pagado
+0369,"Franco, Camila",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-05,Mercado Pago,pagado
+0370,"Fernandez, Catalina",ING-CONV,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Mercado Pago,pagado
+0370,"Fernandez, Catalina",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,0,2026-03-05,Debito automatico,pagado
+0370,"Fernandez, Catalina",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-04,Mercado Pago,pagado
+0370,"Fernandez, Catalina",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-07,Transferencia,pagado
+0370,"Fernandez, Catalina",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-02,Mercado Pago,pagado
+0370,"Fernandez, Catalina",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,0,2026-07-06,Debito automatico,pagado
+0370,"Fernandez, Catalina",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-06,Transferencia,pagado
+0370,"Fernandez, Catalina",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,2800,2026-09-21,Efectivo,pagado
+0371,"Blanco, Camila",ING-CONV,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-09,Efectivo,pagado
+0371,"Blanco, Camila",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,2800,2026-03-22,Efectivo,pagado
+0371,"Blanco, Camila",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-04,Transferencia,pagado
+0371,"Blanco, Camila",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-08,Debito automatico,pagado
+0371,"Blanco, Camila",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-03,Efectivo,pagado
+0371,"Blanco, Camila",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,0,2026-07-10,Mercado Pago,pagado
+0371,"Blanco, Camila",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-09,Debito automatico,pagado
+0371,"Blanco, Camila",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,2800,2026-09-13,Transferencia,pagado
+0372,"Garcia, Bruno",ING-CONV,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Efectivo,pagado
+0372,"Garcia, Bruno",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,0,2026-03-08,Efectivo,pagado
+0372,"Garcia, Bruno",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,2800,2026-04-15,Debito automatico,pagado
+0372,"Garcia, Bruno",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-08,Debito automatico,pagado
+0372,"Garcia, Bruno",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-10,Mercado Pago,pagado
+0372,"Garcia, Bruno",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,0,2026-07-06,Efectivo,pagado
+0372,"Garcia, Bruno",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-07,Debito automatico,pagado
+0372,"Garcia, Bruno",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-07,Transferencia,pagado
+0373,"Maldonado, Manuela",ING-CONV,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Debito automatico,pagado
+0373,"Maldonado, Manuela",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,2800,2026-03-11,Efectivo,pagado
+0373,"Maldonado, Manuela",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-08,Transferencia,pagado
+0373,"Maldonado, Manuela",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-06,Debito automatico,pagado
+0373,"Maldonado, Manuela",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-10,Transferencia,pagado
+0373,"Maldonado, Manuela",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,2800,2026-07-20,Mercado Pago,pagado
+0373,"Maldonado, Manuela",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-03,Debito automatico,pagado
+0373,"Maldonado, Manuela",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-08,Transferencia,pagado
+0374,"Carrizo, Leonardo",ING-CONV,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Debito automatico,pagado
+0374,"Carrizo, Leonardo",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,0,2026-03-07,Transferencia,pagado
+0374,"Carrizo, Leonardo",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-04,Mercado Pago,pagado
+0374,"Carrizo, Leonardo",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-08,Transferencia,pagado
+0374,"Carrizo, Leonardo",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-09,Mercado Pago,pagado
+0374,"Carrizo, Leonardo",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,2800,2026-07-18,Mercado Pago,pagado
+0374,"Carrizo, Leonardo",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,2800,2026-08-13,Mercado Pago,pagado
+0374,"Carrizo, Leonardo",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-04,Transferencia,pagado
+0375,"Cruz, Julia",ING-FCE,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Mercado Pago,pagado
+0375,"Cruz, Julia",ING-FCE,2026-03,Cuota marzo,2026-03-10,105000,0,2026-03-07,Transferencia,pagado
+0375,"Cruz, Julia",ING-FCE,2026-04,Cuota abril,2026-04-10,105000,0,2026-04-06,Mercado Pago,pagado
+0375,"Cruz, Julia",ING-FCE,2026-05,Cuota mayo,2026-05-10,105000,0,2026-05-09,Debito automatico,pagado
+0375,"Cruz, Julia",ING-FCE,2026-06,Cuota junio,2026-06-10,105000,0,2026-06-10,Transferencia,pagado
+0375,"Cruz, Julia",ING-FCE,2026-07,Cuota julio,2026-07-10,105000,0,2026-07-09,Mercado Pago,pagado
+0375,"Cruz, Julia",ING-FCE,2026-08,Cuota agosto,2026-08-10,105000,5250,2026-08-11,Efectivo,pagado
+0375,"Cruz, Julia",ING-FCE,2026-09,Cuota septiembre,2026-09-10,105000,0,2026-09-09,Transferencia,pagado
+0376,"Acosta, Micaela",ING-FCE,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Efectivo,pagado
+0376,"Acosta, Micaela",ING-FCE,2026-03,Cuota marzo,2026-03-10,105000,0,2026-03-10,Mercado Pago,pagado
+0376,"Acosta, Micaela",ING-FCE,2026-04,Cuota abril,2026-04-10,105000,0,2026-04-02,Mercado Pago,pagado
+0376,"Acosta, Micaela",ING-FCE,2026-05,Cuota mayo,2026-05-10,105000,0,2026-05-04,Transferencia,pagado
+0376,"Acosta, Micaela",ING-FCE,2026-06,Cuota junio,2026-06-10,105000,0,,,pendiente
+0376,"Acosta, Micaela",ING-FCE,2026-07,Cuota julio,2026-07-10,105000,0,,,pendiente
+0376,"Acosta, Micaela",ING-FCE,2026-08,Cuota agosto,2026-08-10,105000,0,,,pendiente
+0376,"Acosta, Micaela",ING-FCE,2026-09,Cuota septiembre,2026-09-10,105000,0,,,pendiente
+0377,"Ponce, Mateo",ING-FCE,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-04,Efectivo,pagado
+0377,"Ponce, Mateo",ING-FCE,2026-03,Cuota marzo,2026-03-10,105000,5250,2026-03-22,Efectivo,pagado
+0377,"Ponce, Mateo",ING-FCE,2026-04,Cuota abril,2026-04-10,105000,0,2026-04-03,Debito automatico,pagado
+0377,"Ponce, Mateo",ING-FCE,2026-05,Cuota mayo,2026-05-10,105000,0,2026-05-07,Mercado Pago,pagado
+0377,"Ponce, Mateo",ING-FCE,2026-06,Cuota junio,2026-06-10,105000,0,2026-06-04,Efectivo,pagado
+0378,"Olivera, Pedro",ING-FCE,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Debito automatico,pagado
+0378,"Olivera, Pedro",ING-FCE,2026-03,Cuota marzo,2026-03-10,105000,0,2026-03-09,Mercado Pago,pagado
+0378,"Olivera, Pedro",ING-FCE,2026-04,Cuota abril,2026-04-10,105000,5250,2026-04-18,Debito automatico,pagado
+0378,"Olivera, Pedro",ING-FCE,2026-05,Cuota mayo,2026-05-10,105000,0,2026-05-07,Mercado Pago,pagado
+0378,"Olivera, Pedro",ING-FCE,2026-06,Cuota junio,2026-06-10,105000,5250,2026-06-23,Transferencia,pagado
+0378,"Olivera, Pedro",ING-FCE,2026-07,Cuota julio,2026-07-10,105000,0,2026-07-03,Mercado Pago,pagado
+0378,"Olivera, Pedro",ING-FCE,2026-08,Cuota agosto,2026-08-10,105000,5250,2026-08-24,Transferencia,pagado
+0378,"Olivera, Pedro",ING-FCE,2026-09,Cuota septiembre,2026-09-10,105000,0,2026-09-07,Mercado Pago,pagado
+0379,"Salas, Noah",ING-FCE,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-05,Debito automatico,pagado
+0379,"Salas, Noah",ING-FCE,2026-03,Cuota marzo,2026-03-10,94500,0,2026-03-07,Mercado Pago,pagado
+0379,"Salas, Noah",ING-FCE,2026-04,Cuota abril,2026-04-10,94500,4725,2026-04-22,Mercado Pago,pagado
+0379,"Salas, Noah",ING-FCE,2026-05,Cuota mayo,2026-05-10,94500,0,2026-05-04,Efectivo,pagado
+0379,"Salas, Noah",ING-FCE,2026-06,Cuota junio,2026-06-10,94500,0,2026-06-09,Debito automatico,pagado
+0379,"Salas, Noah",ING-FCE,2026-07,Cuota julio,2026-07-10,94500,4725,2026-07-24,Transferencia,pagado
+0379,"Salas, Noah",ING-FCE,2026-08,Cuota agosto,2026-08-10,94500,0,2026-08-10,Debito automatico,pagado
+0379,"Salas, Noah",ING-FCE,2026-09,Cuota septiembre,2026-09-10,94500,0,2026-09-10,Transferencia,pagado
+0380,"Lopez, Emilia",ING-FCE,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-10,Mercado Pago,pagado
+0380,"Lopez, Emilia",ING-FCE,2026-03,Cuota marzo,2026-03-10,105000,0,2026-03-05,Mercado Pago,pagado
+0380,"Lopez, Emilia",ING-FCE,2026-04,Cuota abril,2026-04-10,105000,0,2026-04-07,Efectivo,pagado
+0380,"Lopez, Emilia",ING-FCE,2026-05,Cuota mayo,2026-05-10,105000,0,2026-05-10,Efectivo,pagado
+0380,"Lopez, Emilia",ING-FCE,2026-06,Cuota junio,2026-06-10,105000,0,2026-06-08,Mercado Pago,pagado
+0381,"Vega, Catalina",ING-FCE,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Debito automatico,pagado
+0381,"Vega, Catalina",ING-FCE,2026-03,Cuota marzo,2026-03-10,105000,0,2026-03-07,Debito automatico,pagado
+0381,"Vega, Catalina",ING-FCE,2026-04,Cuota abril,2026-04-10,105000,0,2026-04-05,Efectivo,pagado
+0381,"Vega, Catalina",ING-FCE,2026-05,Cuota mayo,2026-05-10,105000,0,2026-05-03,Debito automatico,pagado
+0381,"Vega, Catalina",ING-FCE,2026-06,Cuota junio,2026-06-10,105000,5250,2026-06-22,Mercado Pago,pagado
+0381,"Vega, Catalina",ING-FCE,2026-07,Cuota julio,2026-07-10,105000,0,2026-07-07,Debito automatico,pagado
+0381,"Vega, Catalina",ING-FCE,2026-08,Cuota agosto,2026-08-10,105000,0,2026-08-06,Transferencia,pagado
+0381,"Vega, Catalina",ING-FCE,2026-09,Cuota septiembre,2026-09-10,105000,0,2026-09-07,Mercado Pago,pagado
+0382,"Garcia, Juana",ING-FCE,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-07,Mercado Pago,pagado
+0382,"Garcia, Juana",ING-FCE,2026-03,Cuota marzo,2026-03-10,105000,0,2026-03-07,Transferencia,pagado
+0382,"Garcia, Juana",ING-FCE,2026-04,Cuota abril,2026-04-10,105000,0,2026-04-02,Transferencia,pagado
+0382,"Garcia, Juana",ING-FCE,2026-05,Cuota mayo,2026-05-10,105000,0,2026-05-10,Mercado Pago,pagado
+0382,"Garcia, Juana",ING-FCE,2026-06,Cuota junio,2026-06-10,105000,0,2026-06-04,Efectivo,pagado
+0382,"Garcia, Juana",ING-FCE,2026-07,Cuota julio,2026-07-10,105000,0,2026-07-08,Efectivo,pagado
+0382,"Garcia, Juana",ING-FCE,2026-08,Cuota agosto,2026-08-10,105000,0,2026-08-03,Debito automatico,pagado
+0382,"Garcia, Juana",ING-FCE,2026-09,Cuota septiembre,2026-09-10,105000,0,2026-09-02,Mercado Pago,pagado
+0383,"Mercado, Milagros",POR-A1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-09,Efectivo,pagado
+0383,"Mercado, Milagros",POR-A1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-05,Debito automatico,pagado
+0383,"Mercado, Milagros",POR-A1-N,2026-04,Cuota abril,2026-04-10,88000,4400,2026-04-24,Mercado Pago,pagado
+0383,"Mercado, Milagros",POR-A1-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-04,Transferencia,pagado
+0383,"Mercado, Milagros",POR-A1-N,2026-06,Cuota junio,2026-06-10,88000,0,,,pendiente
+0383,"Mercado, Milagros",POR-A1-N,2026-07,Cuota julio,2026-07-10,88000,0,,,pendiente
+0383,"Mercado, Milagros",POR-A1-N,2026-08,Cuota agosto,2026-08-10,88000,0,,,pendiente
+0383,"Mercado, Milagros",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,,,pendiente
+0384,"Rios, Martina",POR-A1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Efectivo,pagado
+0384,"Rios, Martina",POR-A1-N,2026-03,Cuota marzo,2026-03-10,79200,0,2026-03-08,Efectivo,pagado
+0384,"Rios, Martina",POR-A1-N,2026-04,Cuota abril,2026-04-10,79200,0,2026-04-06,Mercado Pago,pagado
+0384,"Rios, Martina",POR-A1-N,2026-05,Cuota mayo,2026-05-10,79200,0,2026-05-07,Efectivo,pagado
+0384,"Rios, Martina",POR-A1-N,2026-06,Cuota junio,2026-06-10,79200,0,2026-06-02,Debito automatico,pagado
+0384,"Rios, Martina",POR-A1-N,2026-07,Cuota julio,2026-07-10,79200,0,2026-07-04,Efectivo,pagado
+0384,"Rios, Martina",POR-A1-N,2026-08,Cuota agosto,2026-08-10,79200,0,2026-08-08,Debito automatico,pagado
+0384,"Rios, Martina",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,79200,0,2026-09-03,Debito automatico,pagado
+0385,"Sarmiento, Ana",POR-A1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Transferencia,pagado
+0385,"Sarmiento, Ana",POR-A1-N,2026-03,Cuota marzo,2026-03-10,0,0,2026-03-24,Efectivo,pagado
+0385,"Sarmiento, Ana",POR-A1-N,2026-04,Cuota abril,2026-04-10,0,0,2026-04-03,Transferencia,pagado
+0385,"Sarmiento, Ana",POR-A1-N,2026-05,Cuota mayo,2026-05-10,0,0,2026-05-10,Efectivo,pagado
+0385,"Sarmiento, Ana",POR-A1-N,2026-06,Cuota junio,2026-06-10,0,0,2026-06-10,Debito automatico,pagado
+0385,"Sarmiento, Ana",POR-A1-N,2026-07,Cuota julio,2026-07-10,0,0,2026-07-05,Debito automatico,pagado
+0385,"Sarmiento, Ana",POR-A1-N,2026-08,Cuota agosto,2026-08-10,0,0,2026-08-02,Transferencia,pagado
+0385,"Sarmiento, Ana",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,0,0,2026-09-03,Mercado Pago,pagado
+0386,"Herrera, Santino",POR-A1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-03,Transferencia,pagado
+0386,"Herrera, Santino",POR-A1-N,2026-03,Cuota marzo,2026-03-10,74800,0,2026-03-04,Efectivo,pagado
+0386,"Herrera, Santino",POR-A1-N,2026-04,Cuota abril,2026-04-10,74800,0,2026-04-04,Mercado Pago,pagado
+0386,"Herrera, Santino",POR-A1-N,2026-05,Cuota mayo,2026-05-10,74800,0,2026-05-09,Efectivo,pagado
+0386,"Herrera, Santino",POR-A1-N,2026-06,Cuota junio,2026-06-10,74800,0,2026-06-02,Mercado Pago,pagado
+0386,"Herrera, Santino",POR-A1-N,2026-07,Cuota julio,2026-07-10,74800,0,2026-07-08,Debito automatico,pagado
+0386,"Herrera, Santino",POR-A1-N,2026-08,Cuota agosto,2026-08-10,74800,0,2026-08-07,Debito automatico,pagado
+0386,"Herrera, Santino",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,74800,3740,2026-09-21,Debito automatico,pagado
+0387,"Caceres, Rocio",POR-A1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Debito automatico,pagado
+0387,"Caceres, Rocio",POR-A1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-08,Transferencia,pagado
+0387,"Caceres, Rocio",POR-A1-N,2026-04,Cuota abril,2026-04-10,88000,4400,2026-04-13,Transferencia,pagado
+0387,"Caceres, Rocio",POR-A1-N,2026-05,Cuota mayo,2026-05-10,88000,4400,2026-05-15,Debito automatico,pagado
+0387,"Caceres, Rocio",POR-A1-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-10,Debito automatico,pagado
+0387,"Caceres, Rocio",POR-A1-N,2026-07,Cuota julio,2026-07-10,88000,4400,2026-07-22,Transferencia,pagado
+0387,"Caceres, Rocio",POR-A1-N,2026-08,Cuota agosto,2026-08-10,88000,4400,2026-08-24,Mercado Pago,pagado
+0387,"Caceres, Rocio",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-04,Debito automatico,pagado
+0388,"Calvo, Trinidad",POR-A1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-09,Debito automatico,pagado
+0388,"Calvo, Trinidad",POR-A1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-03,Mercado Pago,pagado
+0388,"Calvo, Trinidad",POR-A1-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-02,Mercado Pago,pagado
+0388,"Calvo, Trinidad",POR-A1-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-08,Transferencia,pagado
+0388,"Calvo, Trinidad",POR-A1-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-02,Mercado Pago,pagado
+0388,"Calvo, Trinidad",POR-A1-N,2026-07,Cuota julio,2026-07-10,88000,0,,,pendiente
+0388,"Calvo, Trinidad",POR-A1-N,2026-08,Cuota agosto,2026-08-10,88000,0,,,pendiente
+0388,"Calvo, Trinidad",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,,,pendiente
+0389,"Figueroa, Mora",POR-A1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Debito automatico,pagado
+0389,"Figueroa, Mora",POR-A1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-02,Debito automatico,pagado
+0389,"Figueroa, Mora",POR-A1-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-06,Debito automatico,pagado
+0389,"Figueroa, Mora",POR-A1-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-03,Efectivo,pagado
+0389,"Figueroa, Mora",POR-A1-N,2026-06,Cuota junio,2026-06-10,88000,0,,,pendiente
+0389,"Figueroa, Mora",POR-A1-N,2026-07,Cuota julio,2026-07-10,88000,0,,,pendiente
+0389,"Figueroa, Mora",POR-A1-N,2026-08,Cuota agosto,2026-08-10,88000,0,,,pendiente
+0389,"Figueroa, Mora",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,,,pendiente
+0390,"Garcia, Josefina",POR-A1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Mercado Pago,pagado
+0390,"Garcia, Josefina",POR-A1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-06,Debito automatico,pagado
+0390,"Garcia, Josefina",POR-A1-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-10,Efectivo,pagado
+0390,"Garcia, Josefina",POR-A1-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-04,Mercado Pago,pagado
+0390,"Garcia, Josefina",POR-A1-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-10,Mercado Pago,pagado
+0390,"Garcia, Josefina",POR-A1-N,2026-07,Cuota julio,2026-07-10,88000,4400,2026-07-18,Debito automatico,pagado
+0390,"Garcia, Josefina",POR-A1-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-03,Transferencia,pagado
+0390,"Garcia, Josefina",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-10,Debito automatico,pagado
+0391,"Romero, Maite",POR-A1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Mercado Pago,pagado
+0391,"Romero, Maite",POR-A1-N,2026-03,Cuota marzo,2026-03-10,88000,4400,2026-03-19,Debito automatico,pagado
+0391,"Romero, Maite",POR-A1-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-05,Mercado Pago,pagado
+0391,"Romero, Maite",POR-A1-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-03,Transferencia,pagado
+0391,"Romero, Maite",POR-A1-N,2026-06,Cuota junio,2026-06-10,88000,4400,2026-06-24,Debito automatico,pagado
+0391,"Romero, Maite",POR-A1-N,2026-07,Cuota julio,2026-07-10,88000,4400,2026-07-20,Transferencia,pagado
+0391,"Romero, Maite",POR-A1-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-04,Transferencia,pagado
+0391,"Romero, Maite",POR-A1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-05,Debito automatico,pagado
+0392,"Arias, Julia",POR-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Debito automatico,pagado
+0392,"Arias, Julia",POR-B1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-02,Transferencia,pagado
+0392,"Arias, Julia",POR-B1-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-09,Mercado Pago,pagado
+0392,"Arias, Julia",POR-B1-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-02,Efectivo,pagado
+0392,"Arias, Julia",POR-B1-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-09,Debito automatico,pagado
+0392,"Arias, Julia",POR-B1-N,2026-07,Cuota julio,2026-07-10,88000,0,2026-07-10,Mercado Pago,pagado
+0392,"Arias, Julia",POR-B1-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-02,Mercado Pago,pagado
+0393,"Giménez, Enzo",POR-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Efectivo,pagado
+0393,"Giménez, Enzo",POR-B1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-07,Efectivo,pagado
+0393,"Giménez, Enzo",POR-B1-N,2026-04,Cuota abril,2026-04-10,88000,4400,2026-04-13,Debito automatico,pagado
+0393,"Giménez, Enzo",POR-B1-N,2026-05,Cuota mayo,2026-05-10,88000,4400,2026-05-22,Mercado Pago,pagado
+0393,"Giménez, Enzo",POR-B1-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-10,Debito automatico,pagado
+0393,"Giménez, Enzo",POR-B1-N,2026-07,Cuota julio,2026-07-10,88000,0,2026-07-10,Debito automatico,pagado
+0393,"Giménez, Enzo",POR-B1-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-03,Efectivo,pagado
+0393,"Giménez, Enzo",POR-B1-N,2026-09,Cuota septiembre,2026-09-10,70400,0,2026-09-08,Mercado Pago,pagado
+0394,"Silva, Florencia",POR-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Efectivo,pagado
+0394,"Silva, Florencia",POR-B1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-04,Mercado Pago,pagado
+0394,"Silva, Florencia",POR-B1-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-06,Transferencia,pagado
+0394,"Silva, Florencia",POR-B1-N,2026-05,Cuota mayo,2026-05-10,88000,4400,2026-05-12,Efectivo,pagado
+0394,"Silva, Florencia",POR-B1-N,2026-06,Cuota junio,2026-06-10,88000,4400,2026-06-16,Debito automatico,pagado
+0394,"Silva, Florencia",POR-B1-N,2026-07,Cuota julio,2026-07-10,88000,4400,2026-07-12,Transferencia,pagado
+0394,"Silva, Florencia",POR-B1-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-04,Debito automatico,pagado
+0394,"Silva, Florencia",POR-B1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-08,Efectivo,pagado
+0395,"Silva, Guadalupe",POR-B1-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-04,Debito automatico,pagado
+0395,"Silva, Guadalupe",POR-B1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-02,Transferencia,pagado
+0395,"Silva, Guadalupe",POR-B1-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-04,Efectivo,pagado
+0395,"Silva, Guadalupe",POR-B1-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-07,Debito automatico,pagado
+0395,"Silva, Guadalupe",POR-B1-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-02,Mercado Pago,pagado
+0395,"Silva, Guadalupe",POR-B1-N,2026-07,Cuota julio,2026-07-10,88000,4400,2026-07-13,Efectivo,pagado
+0395,"Silva, Guadalupe",POR-B1-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-06,Debito automatico,pagado
+0395,"Silva, Guadalupe",POR-B1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-04,Debito automatico,pagado
+0396,"Sandoval, Dante",POR-B1-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Mercado Pago,pagado
+0396,"Sandoval, Dante",POR-B1-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-03,Transferencia,pagado
+0396,"Sandoval, Dante",POR-B1-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-08,Efectivo,pagado
+0396,"Sandoval, Dante",POR-B1-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-03,Debito automatico,pagado
+0396,"Sandoval, Dante",POR-B1-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-07,Efectivo,pagado
+0396,"Sandoval, Dante",POR-B1-N,2026-07,Cuota julio,2026-07-10,88000,4400,2026-07-23,Mercado Pago,pagado
+0396,"Sandoval, Dante",POR-B1-N,2026-08,Cuota agosto,2026-08-10,88000,4400,2026-08-23,Transferencia,pagado
+0396,"Sandoval, Dante",POR-B1-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-09,Mercado Pago,pagado
+0397,"Salas, Florencia",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-08,Debito automatico,pagado
+0397,"Salas, Florencia",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,68000,3400,2026-03-14,Transferencia,pagado
+0397,"Salas, Florencia",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,68000,3400,2026-04-22,Mercado Pago,pagado
+0397,"Salas, Florencia",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-04,Efectivo,pagado
+0397,"Salas, Florencia",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-06,Debito automatico,pagado
+0397,"Salas, Florencia",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-03,Efectivo,pagado
+0397,"Salas, Florencia",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-08,Mercado Pago,pagado
+0397,"Salas, Florencia",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-08,Transferencia,pagado
+0398,"Pereyra, Valentin",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Transferencia,pagado
+0398,"Pereyra, Valentin",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,57800,0,2026-03-09,Efectivo,pagado
+0398,"Pereyra, Valentin",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,57800,0,2026-04-05,Mercado Pago,pagado
+0398,"Pereyra, Valentin",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,57800,0,2026-05-03,Debito automatico,pagado
+0398,"Pereyra, Valentin",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,57800,0,2026-06-09,Transferencia,pagado
+0398,"Pereyra, Valentin",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,57800,0,2026-07-08,Efectivo,pagado
+0398,"Pereyra, Valentin",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,57800,2890,2026-08-16,Debito automatico,pagado
+0398,"Pereyra, Valentin",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,57800,0,2026-09-09,Efectivo,pagado
+0399,"Ortiz, Martina",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Debito automatico,pagado
+0399,"Ortiz, Martina",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-07,Efectivo,pagado
+0399,"Ortiz, Martina",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-06,Efectivo,pagado
+0399,"Ortiz, Martina",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-09,Transferencia,pagado
+0399,"Ortiz, Martina",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-05,Efectivo,pagado
+0399,"Ortiz, Martina",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-02,Efectivo,pagado
+0399,"Ortiz, Martina",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-05,Mercado Pago,pagado
+0399,"Ortiz, Martina",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,68000,3400,2026-09-23,Mercado Pago,pagado
+0400,"Aguirre, Pilar",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-10,Efectivo,pagado
+0400,"Aguirre, Pilar",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,68000,3400,2026-03-18,Transferencia,pagado
+0400,"Aguirre, Pilar",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-08,Efectivo,pagado
+0400,"Aguirre, Pilar",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-07,Efectivo,pagado
+0400,"Aguirre, Pilar",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-08,Efectivo,pagado
+0400,"Aguirre, Pilar",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-03,Transferencia,pagado
+0400,"Aguirre, Pilar",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-07,Efectivo,pagado
+0400,"Aguirre, Pilar",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-10,Efectivo,pagado
+0401,"Lopez, Bautista",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-10,Efectivo,pagado
+0401,"Lopez, Bautista",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-02,Mercado Pago,pagado
+0401,"Lopez, Bautista",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-07,Debito automatico,pagado
+0401,"Lopez, Bautista",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,68000,3400,2026-05-17,Debito automatico,pagado
+0401,"Lopez, Bautista",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,68000,3400,2026-06-11,Mercado Pago,pagado
+0401,"Lopez, Bautista",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-08,Mercado Pago,pagado
+0401,"Lopez, Bautista",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-02,Mercado Pago,pagado
+0401,"Lopez, Bautista",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-08,Debito automatico,pagado
+0402,"Olivera, Sofia",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-09,Efectivo,pagado
+0402,"Olivera, Sofia",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-08,Efectivo,pagado
+0402,"Olivera, Sofia",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,68000,3400,2026-04-20,Mercado Pago,pagado
+0402,"Olivera, Sofia",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-02,Transferencia,pagado
+0402,"Olivera, Sofia",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-02,Efectivo,pagado
+0402,"Olivera, Sofia",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,68000,0,2026-07-06,Mercado Pago,pagado
+0402,"Olivera, Sofia",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-08,Mercado Pago,pagado
+0402,"Olivera, Sofia",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-04,Transferencia,pagado
+0403,"Pereyra, Guadalupe",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Mercado Pago,pagado
+0403,"Pereyra, Guadalupe",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-03,Mercado Pago,pagado
+0403,"Pereyra, Guadalupe",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-09,Debito automatico,pagado
+0403,"Pereyra, Guadalupe",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-09,Efectivo,pagado
+0403,"Pereyra, Guadalupe",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,68000,3400,2026-06-14,Transferencia,pagado
+0403,"Pereyra, Guadalupe",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,68000,3400,2026-07-23,Mercado Pago,pagado
+0403,"Pereyra, Guadalupe",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-10,Mercado Pago,pagado
+0403,"Pereyra, Guadalupe",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-03,Transferencia,pagado
+0404,"Gomez, Bruno",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-06,Transferencia,pagado
+0404,"Gomez, Bruno",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,68000,3400,2026-03-23,Transferencia,pagado
+0404,"Gomez, Bruno",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,68000,3400,2026-04-21,Mercado Pago,pagado
+0404,"Gomez, Bruno",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,68000,3400,2026-05-12,Transferencia,pagado
+0404,"Gomez, Bruno",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,68000,0,2026-06-10,Mercado Pago,pagado
+0404,"Gomez, Bruno",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,68000,3400,2026-07-24,Transferencia,pagado
+0404,"Gomez, Bruno",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-03,Transferencia,pagado
+0404,"Gomez, Bruno",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,68000,0,2026-09-03,Efectivo,pagado
+0405,"Barrios, Rodrigo",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Mercado Pago,pagado
+0405,"Barrios, Rodrigo",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-08,Mercado Pago,pagado
+0405,"Barrios, Rodrigo",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,84000,4200,2026-04-22,Efectivo,pagado
+0405,"Barrios, Rodrigo",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-10,Efectivo,pagado
+0405,"Barrios, Rodrigo",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-02,Transferencia,pagado
+0405,"Barrios, Rodrigo",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-02,Mercado Pago,pagado
+0405,"Barrios, Rodrigo",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,,,pendiente
+0405,"Barrios, Rodrigo",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,,,pendiente
+0406,"Velazquez, Julia",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-09,Efectivo,pagado
+0406,"Velazquez, Julia",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-05,Transferencia,pagado
+0406,"Velazquez, Julia",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-07,Mercado Pago,pagado
+0406,"Velazquez, Julia",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,84000,4200,2026-05-22,Debito automatico,pagado
+0406,"Velazquez, Julia",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,84000,4200,2026-06-23,Mercado Pago,pagado
+0406,"Velazquez, Julia",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,84000,4200,2026-07-20,Mercado Pago,pagado
+0406,"Velazquez, Julia",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,84000,4200,2026-08-14,Mercado Pago,pagado
+0406,"Velazquez, Julia",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-05,Transferencia,pagado
+0407,"Olivera, Dante",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-07,Efectivo,pagado
+0407,"Olivera, Dante",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-02,Debito automatico,pagado
+0407,"Olivera, Dante",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-05,Efectivo,pagado
+0407,"Olivera, Dante",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-06,Mercado Pago,pagado
+0407,"Olivera, Dante",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,84000,4200,2026-06-16,Debito automatico,pagado
+0407,"Olivera, Dante",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,84000,4200,2026-07-23,Transferencia,pagado
+0407,"Olivera, Dante",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-03,Efectivo,pagado
+0407,"Olivera, Dante",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-05,Efectivo,pagado
+0408,"Herrera, Gaspar",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-10,Debito automatico,pagado
+0408,"Herrera, Gaspar",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,75600,0,2026-03-07,Efectivo,pagado
+0408,"Herrera, Gaspar",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,75600,0,2026-04-03,Debito automatico,pagado
+0408,"Herrera, Gaspar",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,75600,0,2026-05-05,Efectivo,pagado
+0408,"Herrera, Gaspar",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,75600,0,2026-06-04,Debito automatico,pagado
+0408,"Herrera, Gaspar",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,75600,0,2026-07-10,Mercado Pago,pagado
+0408,"Herrera, Gaspar",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,75600,0,2026-08-09,Debito automatico,pagado
+0408,"Herrera, Gaspar",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,75600,3780,2026-09-23,Efectivo,pagado
+0409,"Herrera, Enzo",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Efectivo,pagado
+0409,"Herrera, Enzo",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,84000,4200,2026-03-17,Efectivo,pagado
+0409,"Herrera, Enzo",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-03,Efectivo,pagado
+0409,"Herrera, Enzo",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-07,Mercado Pago,pagado
+0409,"Herrera, Enzo",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-08,Efectivo,pagado
+0409,"Herrera, Enzo",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-08,Efectivo,pagado
+0409,"Herrera, Enzo",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-06,Transferencia,pagado
+0409,"Herrera, Enzo",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-05,Efectivo,pagado
+0410,"Falcon, Alma",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Debito automatico,pagado
+0410,"Falcon, Alma",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,84000,4200,2026-03-22,Transferencia,pagado
+0410,"Falcon, Alma",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,84000,4200,2026-04-12,Transferencia,pagado
+0410,"Falcon, Alma",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-10,Mercado Pago,pagado
+0410,"Falcon, Alma",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-03,Debito automatico,pagado
+0410,"Falcon, Alma",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-05,Debito automatico,pagado
+0410,"Falcon, Alma",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-09,Debito automatico,pagado
+0410,"Falcon, Alma",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-08,Mercado Pago,pagado
+0411,"Montenegro, Ramiro",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-05,Debito automatico,pagado
+0411,"Montenegro, Ramiro",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-09,Efectivo,pagado
+0411,"Montenegro, Ramiro",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-04,Efectivo,pagado
+0411,"Montenegro, Ramiro",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-02,Mercado Pago,pagado
+0411,"Montenegro, Ramiro",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,84000,4200,2026-06-11,Transferencia,pagado
+0411,"Montenegro, Ramiro",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-03,Mercado Pago,pagado
+0411,"Montenegro, Ramiro",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-10,Efectivo,pagado
+0411,"Montenegro, Ramiro",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-03,Mercado Pago,pagado
+0412,"Gomez, Abril",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Efectivo,pagado
+0412,"Gomez, Abril",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-04,Mercado Pago,pagado
+0412,"Gomez, Abril",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-07,Transferencia,pagado
+0412,"Gomez, Abril",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-04,Efectivo,pagado
+0412,"Gomez, Abril",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-09,Mercado Pago,pagado
+0412,"Gomez, Abril",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-07,Mercado Pago,pagado
+0412,"Gomez, Abril",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-06,Efectivo,pagado
+0412,"Gomez, Abril",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-06,Mercado Pago,pagado
+0413,"Rivero, Delfina",ING-T1-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-04,Efectivo,pagado
+0413,"Rivero, Delfina",ING-T1-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-02,Debito automatico,pagado
+0413,"Rivero, Delfina",ING-T1-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-08,Efectivo,pagado
+0413,"Rivero, Delfina",ING-T1-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-07,Mercado Pago,pagado
+0413,"Rivero, Delfina",ING-T1-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-08,Efectivo,pagado
+0413,"Rivero, Delfina",ING-T1-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-07,Transferencia,pagado
+0413,"Rivero, Delfina",ING-T1-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-08,Efectivo,pagado
+0413,"Rivero, Delfina",ING-T1-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-02,Mercado Pago,pagado
+0414,"Acosta, Mora",ING-T2-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-05,Debito automatico,pagado
+0414,"Acosta, Mora",ING-T2-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-09,Efectivo,pagado
+0414,"Acosta, Mora",ING-T2-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-06,Transferencia,pagado
+0414,"Acosta, Mora",ING-T2-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-10,Debito automatico,pagado
+0414,"Acosta, Mora",ING-T2-N-T,2026-06,Cuota junio,2026-06-10,84000,4200,2026-06-18,Transferencia,pagado
+0414,"Acosta, Mora",ING-T2-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-04,Mercado Pago,pagado
+0414,"Acosta, Mora",ING-T2-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-10,Debito automatico,pagado
+0414,"Acosta, Mora",ING-T2-N-T,2026-09,Cuota septiembre,2026-09-10,67200,0,2026-09-06,Transferencia,pagado
+0415,"Perez, Gaspar",ING-T2-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-08,Efectivo,pagado
+0415,"Perez, Gaspar",ING-T2-N-T,2026-03,Cuota marzo,2026-03-10,71400,3570,2026-03-15,Debito automatico,pagado
+0415,"Perez, Gaspar",ING-T2-N-T,2026-04,Cuota abril,2026-04-10,71400,0,2026-04-05,Efectivo,pagado
+0415,"Perez, Gaspar",ING-T2-N-T,2026-05,Cuota mayo,2026-05-10,71400,0,2026-05-09,Transferencia,pagado
+0415,"Perez, Gaspar",ING-T2-N-T,2026-06,Cuota junio,2026-06-10,71400,0,2026-06-03,Efectivo,pagado
+0415,"Perez, Gaspar",ING-T2-N-T,2026-07,Cuota julio,2026-07-10,71400,0,2026-07-08,Debito automatico,pagado
+0415,"Perez, Gaspar",ING-T2-N-T,2026-08,Cuota agosto,2026-08-10,71400,0,2026-08-10,Mercado Pago,pagado
+0415,"Perez, Gaspar",ING-T2-N-T,2026-09,Cuota septiembre,2026-09-10,71400,0,,,pendiente
+0416,"Correa, Clara",ING-T2-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Transferencia,pagado
+0416,"Correa, Clara",ING-T2-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-04,Mercado Pago,pagado
+0416,"Correa, Clara",ING-T2-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-05,Efectivo,pagado
+0416,"Correa, Clara",ING-T2-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-10,Debito automatico,pagado
+0416,"Correa, Clara",ING-T2-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-08,Efectivo,pagado
+0416,"Correa, Clara",ING-T2-N-T,2026-07,Cuota julio,2026-07-10,84000,4200,2026-07-21,Transferencia,pagado
+0416,"Correa, Clara",ING-T2-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-07,Mercado Pago,pagado
+0416,"Correa, Clara",ING-T2-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-08,Efectivo,pagado
+0417,"Montenegro, Brisa",ING-T2-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Transferencia,pagado
+0417,"Montenegro, Brisa",ING-T2-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-02,Mercado Pago,pagado
+0417,"Montenegro, Brisa",ING-T2-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-08,Debito automatico,pagado
+0417,"Montenegro, Brisa",ING-T2-N-T,2026-05,Cuota mayo,2026-05-10,84000,0,2026-05-07,Debito automatico,pagado
+0417,"Montenegro, Brisa",ING-T2-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-07,Efectivo,pagado
+0417,"Montenegro, Brisa",ING-T2-N-T,2026-07,Cuota julio,2026-07-10,84000,4200,2026-07-19,Mercado Pago,pagado
+0417,"Montenegro, Brisa",ING-T2-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-10,Efectivo,pagado
+0417,"Montenegro, Brisa",ING-T2-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-03,Transferencia,pagado
+0418,"Andrade, Julia",ING-T2-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Transferencia,pagado
+0418,"Andrade, Julia",ING-T2-N-T,2026-03,Cuota marzo,2026-03-10,75600,0,2026-03-03,Mercado Pago,pagado
+0418,"Andrade, Julia",ING-T2-N-T,2026-04,Cuota abril,2026-04-10,75600,0,2026-04-06,Transferencia,pagado
+0418,"Andrade, Julia",ING-T2-N-T,2026-05,Cuota mayo,2026-05-10,75600,3780,2026-05-22,Transferencia,pagado
+0418,"Andrade, Julia",ING-T2-N-T,2026-06,Cuota junio,2026-06-10,75600,3780,2026-06-19,Efectivo,pagado
+0418,"Andrade, Julia",ING-T2-N-T,2026-07,Cuota julio,2026-07-10,75600,3780,2026-07-17,Efectivo,pagado
+0418,"Andrade, Julia",ING-T2-N-T,2026-08,Cuota agosto,2026-08-10,75600,0,2026-08-08,Debito automatico,pagado
+0418,"Andrade, Julia",ING-T2-N-T,2026-09,Cuota septiembre,2026-09-10,75600,0,2026-09-08,Mercado Pago,pagado
+0419,"Nuñez, Bianca",ING-T2-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Efectivo,pagado
+0419,"Nuñez, Bianca",ING-T2-N-T,2026-03,Cuota marzo,2026-03-10,84000,0,2026-03-04,Debito automatico,pagado
+0419,"Nuñez, Bianca",ING-T2-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-04,Transferencia,pagado
+0419,"Nuñez, Bianca",ING-T2-N-T,2026-05,Cuota mayo,2026-05-10,84000,4200,2026-05-17,Mercado Pago,pagado
+0419,"Nuñez, Bianca",ING-T2-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-06,Mercado Pago,pagado
+0419,"Nuñez, Bianca",ING-T2-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-10,Debito automatico,pagado
+0419,"Nuñez, Bianca",ING-T2-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-10,Mercado Pago,pagado
+0419,"Nuñez, Bianca",ING-T2-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-03,Mercado Pago,pagado
+0420,"Leiva, Vicente",ING-T2-N-T,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Debito automatico,pagado
+0420,"Leiva, Vicente",ING-T2-N-T,2026-03,Cuota marzo,2026-03-10,84000,4200,2026-03-16,Transferencia,pagado
+0420,"Leiva, Vicente",ING-T2-N-T,2026-04,Cuota abril,2026-04-10,84000,0,2026-04-05,Debito automatico,pagado
+0420,"Leiva, Vicente",ING-T2-N-T,2026-05,Cuota mayo,2026-05-10,84000,4200,2026-05-14,Mercado Pago,pagado
+0420,"Leiva, Vicente",ING-T2-N-T,2026-06,Cuota junio,2026-06-10,84000,0,2026-06-06,Debito automatico,pagado
+0420,"Leiva, Vicente",ING-T2-N-T,2026-07,Cuota julio,2026-07-10,84000,0,2026-07-04,Transferencia,pagado
+0420,"Leiva, Vicente",ING-T2-N-T,2026-08,Cuota agosto,2026-08-10,84000,0,2026-08-10,Transferencia,pagado
+0420,"Leiva, Vicente",ING-T2-N-T,2026-09,Cuota septiembre,2026-09-10,84000,0,2026-09-05,Efectivo,pagado
+0421,"Torres, Agustin",ING-A1-N-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Transferencia,pagado
+0421,"Torres, Agustin",ING-A1-N-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-05,Mercado Pago,pagado
+0421,"Torres, Agustin",ING-A1-N-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Debito automatico,pagado
+0421,"Torres, Agustin",ING-A1-N-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Mercado Pago,pagado
+0421,"Torres, Agustin",ING-A1-N-M,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-20,Mercado Pago,pagado
+0421,"Torres, Agustin",ING-A1-N-M,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-18,Transferencia,pagado
+0421,"Torres, Agustin",ING-A1-N-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Mercado Pago,pagado
+0421,"Torres, Agustin",ING-A1-N-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-02,Debito automatico,pagado
+0422,"Olivera, Alma",ING-A1-N-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Transferencia,pagado
+0422,"Olivera, Alma",ING-A1-N-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-10,Efectivo,pagado
+0422,"Olivera, Alma",ING-A1-N-M,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-12,Debito automatico,pagado
+0422,"Olivera, Alma",ING-A1-N-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Mercado Pago,pagado
+0422,"Olivera, Alma",ING-A1-N-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-02,Debito automatico,pagado
+0422,"Olivera, Alma",ING-A1-N-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-05,Efectivo,pagado
+0422,"Olivera, Alma",ING-A1-N-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-04,Debito automatico,pagado
+0422,"Olivera, Alma",ING-A1-N-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-04,Efectivo,pagado
+0423,"Ponce, Olivia",ING-A1-N-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Transferencia,pagado
+0423,"Ponce, Olivia",ING-A1-N-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-04,Mercado Pago,pagado
+0423,"Ponce, Olivia",ING-A1-N-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Mercado Pago,pagado
+0423,"Ponce, Olivia",ING-A1-N-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-10,Mercado Pago,pagado
+0423,"Ponce, Olivia",ING-A1-N-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-10,Transferencia,pagado
+0423,"Ponce, Olivia",ING-A1-N-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-06,Mercado Pago,pagado
+0423,"Ponce, Olivia",ING-A1-N-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-02,Efectivo,pagado
+0423,"Ponce, Olivia",ING-A1-N-M,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-11,Efectivo,pagado
+0424,"Giménez, Ramiro",ING-A1-N-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Debito automatico,pagado
+0424,"Giménez, Ramiro",ING-A1-N-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-09,Debito automatico,pagado
+0424,"Giménez, Ramiro",ING-A1-N-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Transferencia,pagado
+0424,"Giménez, Ramiro",ING-A1-N-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Efectivo,pagado
+0424,"Giménez, Ramiro",ING-A1-N-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-04,Debito automatico,pagado
+0424,"Giménez, Ramiro",ING-A1-N-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Efectivo,pagado
+0424,"Giménez, Ramiro",ING-A1-N-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-08,Mercado Pago,pagado
+0424,"Giménez, Ramiro",ING-A1-N-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Debito automatico,pagado
+0425,"Romero, Bianca",ING-A1-N-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Mercado Pago,pagado
+0425,"Romero, Bianca",ING-A1-N-M,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-07,Efectivo,pagado
+0425,"Romero, Bianca",ING-A1-N-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-10,Transferencia,pagado
+0425,"Romero, Bianca",ING-A1-N-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-06,Mercado Pago,pagado
+0425,"Romero, Bianca",ING-A1-N-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-10,Debito automatico,pagado
+0425,"Romero, Bianca",ING-A1-N-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-07,Transferencia,pagado
+0425,"Romero, Bianca",ING-A1-N-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-08,Mercado Pago,pagado
+0425,"Romero, Bianca",ING-A1-N-M,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-14,Debito automatico,pagado
+0426,"Orellana, Bruno",ING-A1-N-M,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Debito automatico,pagado
+0426,"Orellana, Bruno",ING-A1-N-M,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-18,Mercado Pago,pagado
+0426,"Orellana, Bruno",ING-A1-N-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Efectivo,pagado
+0426,"Orellana, Bruno",ING-A1-N-M,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-20,Transferencia,pagado
+0426,"Orellana, Bruno",ING-A1-N-M,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-11,Debito automatico,pagado
+0426,"Orellana, Bruno",ING-A1-N-M,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-06,Efectivo,pagado
+0426,"Orellana, Bruno",ING-A1-N-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-10,Transferencia,pagado
+0426,"Orellana, Bruno",ING-A1-N-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-05,Mercado Pago,pagado
+0427,"Acosta, Maria",ING-A1-N-M,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-04,Efectivo,pagado
+0427,"Acosta, Maria",ING-A1-N-M,2026-03,Cuota marzo,2026-03-10,82800,0,2026-03-08,Transferencia,pagado
+0427,"Acosta, Maria",ING-A1-N-M,2026-04,Cuota abril,2026-04-10,82800,4140,2026-04-21,Mercado Pago,pagado
+0427,"Acosta, Maria",ING-A1-N-M,2026-05,Cuota mayo,2026-05-10,82800,0,2026-05-04,Debito automatico,pagado
+0427,"Acosta, Maria",ING-A1-N-M,2026-06,Cuota junio,2026-06-10,82800,0,2026-06-07,Transferencia,pagado
+0427,"Acosta, Maria",ING-A1-N-M,2026-07,Cuota julio,2026-07-10,82800,0,2026-07-07,Debito automatico,pagado
+0427,"Acosta, Maria",ING-A1-N-M,2026-08,Cuota agosto,2026-08-10,82800,0,2026-08-05,Transferencia,pagado
+0427,"Acosta, Maria",ING-A1-N-M,2026-09,Cuota septiembre,2026-09-10,82800,0,,,pendiente
+0428,"Calvo, Bruno",ING-A1-N-M,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Efectivo,pagado
+0428,"Calvo, Bruno",ING-A1-N-M,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-12,Mercado Pago,pagado
+0428,"Calvo, Bruno",ING-A1-N-M,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-06,Transferencia,pagado
+0428,"Calvo, Bruno",ING-A1-N-M,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-10,Transferencia,pagado
+0428,"Calvo, Bruno",ING-A1-N-M,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-06,Efectivo,pagado
+0428,"Calvo, Bruno",ING-A1-N-M,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-16,Mercado Pago,pagado
+0428,"Calvo, Bruno",ING-A1-N-M,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-06,Transferencia,pagado
+0428,"Calvo, Bruno",ING-A1-N-M,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-05,Transferencia,pagado
+0429,"Chaves, Isabella",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-06,Transferencia,pagado
+0429,"Chaves, Isabella",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-09,Mercado Pago,pagado
+0429,"Chaves, Isabella",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-13,Debito automatico,pagado
+0429,"Chaves, Isabella",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-04,Transferencia,pagado
+0429,"Chaves, Isabella",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-05,Debito automatico,pagado
+0429,"Chaves, Isabella",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-12,Debito automatico,pagado
+0429,"Chaves, Isabella",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,,,pendiente
+0429,"Chaves, Isabella",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,,,pendiente
+0430,"Aguirre, Franco",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Efectivo,pagado
+0430,"Aguirre, Franco",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-04,Transferencia,pagado
+0430,"Aguirre, Franco",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Debito automatico,pagado
+0430,"Aguirre, Franco",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Mercado Pago,pagado
+0430,"Aguirre, Franco",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-09,Efectivo,pagado
+0430,"Aguirre, Franco",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-19,Debito automatico,pagado
+0430,"Aguirre, Franco",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Debito automatico,pagado
+0430,"Aguirre, Franco",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-09,Debito automatico,pagado
+0431,"Saavedra, Leonardo",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Transferencia,pagado
+0431,"Saavedra, Leonardo",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-08,Debito automatico,pagado
+0431,"Saavedra, Leonardo",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-20,Transferencia,pagado
+0431,"Saavedra, Leonardo",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-04,Transferencia,pagado
+0431,"Saavedra, Leonardo",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-02,Efectivo,pagado
+0431,"Saavedra, Leonardo",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-03,Transferencia,pagado
+0431,"Saavedra, Leonardo",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-04,Debito automatico,pagado
+0431,"Saavedra, Leonardo",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-10,Debito automatico,pagado
+0432,"Muñoz, Camila",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-10,Mercado Pago,pagado
+0432,"Muñoz, Camila",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,78200,0,2026-03-08,Debito automatico,pagado
+0432,"Muñoz, Camila",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,78200,0,2026-04-08,Debito automatico,pagado
+0432,"Muñoz, Camila",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,78200,3910,2026-05-22,Transferencia,pagado
+0432,"Muñoz, Camila",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,78200,0,2026-06-02,Efectivo,pagado
+0432,"Muñoz, Camila",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,78200,0,2026-07-08,Efectivo,pagado
+0432,"Muñoz, Camila",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,78200,0,2026-08-06,Debito automatico,pagado
+0432,"Muñoz, Camila",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,78200,0,2026-09-09,Debito automatico,pagado
+0433,"Correa, Julia",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-10,Debito automatico,pagado
+0433,"Correa, Julia",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-15,Mercado Pago,pagado
+0433,"Correa, Julia",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Mercado Pago,pagado
+0433,"Correa, Julia",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Efectivo,pagado
+0433,"Correa, Julia",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-10,Debito automatico,pagado
+0433,"Correa, Julia",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-08,Transferencia,pagado
+0433,"Correa, Julia",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-03,Transferencia,pagado
+0433,"Correa, Julia",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-10,Mercado Pago,pagado
+0434,"Vega, Sofia",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Transferencia,pagado
+0434,"Vega, Sofia",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-20,Transferencia,pagado
+0434,"Vega, Sofia",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-16,Debito automatico,pagado
+0434,"Vega, Sofia",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-24,Mercado Pago,pagado
+0434,"Vega, Sofia",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-08,Debito automatico,pagado
+0434,"Vega, Sofia",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-04,Debito automatico,pagado
+0434,"Vega, Sofia",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-12,Transferencia,pagado
+0434,"Vega, Sofia",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-14,Transferencia,pagado
+0435,"Toledo, Ian",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Transferencia,pagado
+0435,"Toledo, Ian",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-10,Efectivo,pagado
+0435,"Toledo, Ian",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-04,Debito automatico,pagado
+0435,"Toledo, Ian",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-07,Debito automatico,pagado
+0435,"Toledo, Ian",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-07,Debito automatico,pagado
+0435,"Toledo, Ian",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-13,Transferencia,pagado
+0435,"Toledo, Ian",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,4600,2026-08-14,Transferencia,pagado
+0435,"Toledo, Ian",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-08,Mercado Pago,pagado
+0436,"Campos, Candela",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Efectivo,pagado
+0436,"Campos, Candela",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-02,Transferencia,pagado
+0436,"Campos, Candela",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Mercado Pago,pagado
+0436,"Campos, Candela",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-04,Transferencia,pagado
+0436,"Campos, Candela",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-05,Transferencia,pagado
+0436,"Campos, Candela",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-14,Mercado Pago,pagado
+0436,"Campos, Candela",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Efectivo,pagado
+0436,"Campos, Candela",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Debito automatico,pagado
+0437,"Palacios, Trinidad",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Transferencia,pagado
+0437,"Palacios, Trinidad",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Efectivo,pagado
+0437,"Palacios, Trinidad",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Transferencia,pagado
+0437,"Palacios, Trinidad",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-20,Debito automatico,pagado
+0437,"Palacios, Trinidad",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-05,Transferencia,pagado
+0437,"Palacios, Trinidad",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-17,Mercado Pago,pagado
+0437,"Palacios, Trinidad",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-02,Transferencia,pagado
+0437,"Palacios, Trinidad",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-08,Transferencia,pagado
+0438,"Godoy, Guadalupe",ING-A2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Transferencia,pagado
+0438,"Godoy, Guadalupe",ING-A2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-05,Transferencia,pagado
+0438,"Godoy, Guadalupe",ING-A2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-04,Mercado Pago,pagado
+0438,"Godoy, Guadalupe",ING-A2-N-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-17,Transferencia,pagado
+0438,"Godoy, Guadalupe",ING-A2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-04,Mercado Pago,pagado
+0438,"Godoy, Guadalupe",ING-A2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-07,Debito automatico,pagado
+0438,"Godoy, Guadalupe",ING-A2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-06,Efectivo,pagado
+0438,"Godoy, Guadalupe",ING-A2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Efectivo,pagado
+0439,"Muñoz, Paula",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Transferencia,pagado
+0439,"Muñoz, Paula",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-05,Debito automatico,pagado
+0439,"Muñoz, Paula",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-08,Transferencia,pagado
+0439,"Muñoz, Paula",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-10,Debito automatico,pagado
+0439,"Muñoz, Paula",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-21,Mercado Pago,pagado
+0439,"Muñoz, Paula",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-02,Mercado Pago,pagado
+0439,"Muñoz, Paula",ING-B1-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,,,pendiente
+0439,"Muñoz, Paula",ING-B1-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,,,pendiente
+0440,"Sanchez, Lucia",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-04,Transferencia,pagado
+0440,"Sanchez, Lucia",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-10,Debito automatico,pagado
+0440,"Sanchez, Lucia",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-04,Mercado Pago,pagado
+0440,"Sanchez, Lucia",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-15,Efectivo,pagado
+0440,"Sanchez, Lucia",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-05,Efectivo,pagado
+0440,"Sanchez, Lucia",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-06,Efectivo,pagado
+0440,"Sanchez, Lucia",ING-B1-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Mercado Pago,pagado
+0440,"Sanchez, Lucia",ING-B1-N-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-13,Mercado Pago,pagado
+0441,"Lucero, Sofia",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Mercado Pago,pagado
+0441,"Lucero, Sofia",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-05,Transferencia,pagado
+0441,"Lucero, Sofia",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-07,Efectivo,pagado
+0441,"Lucero, Sofia",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-08,Transferencia,pagado
+0441,"Lucero, Sofia",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-08,Mercado Pago,pagado
+0441,"Lucero, Sofia",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Transferencia,pagado
+0441,"Lucero, Sofia",ING-B1-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-06,Debito automatico,pagado
+0441,"Lucero, Sofia",ING-B1-N-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-21,Mercado Pago,pagado
+0442,"Saavedra, Gaspar",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Transferencia,pagado
+0442,"Saavedra, Gaspar",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-08,Transferencia,pagado
+0442,"Saavedra, Gaspar",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Mercado Pago,pagado
+0442,"Saavedra, Gaspar",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-06,Efectivo,pagado
+0442,"Saavedra, Gaspar",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-05,Debito automatico,pagado
+0442,"Saavedra, Gaspar",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-05,Mercado Pago,pagado
+0442,"Saavedra, Gaspar",ING-B1-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-02,Mercado Pago,pagado
+0442,"Saavedra, Gaspar",ING-B1-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-07,Mercado Pago,pagado
+0443,"Cruz, Dylan",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Transferencia,pagado
+0443,"Cruz, Dylan",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Efectivo,pagado
+0443,"Cruz, Dylan",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-23,Transferencia,pagado
+0443,"Cruz, Dylan",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Efectivo,pagado
+0443,"Cruz, Dylan",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-10,Debito automatico,pagado
+0443,"Cruz, Dylan",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-21,Efectivo,pagado
+0443,"Cruz, Dylan",ING-B1-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-09,Mercado Pago,pagado
+0443,"Cruz, Dylan",ING-B1-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-09,Debito automatico,pagado
+0444,"Galvan, Isabella",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Mercado Pago,pagado
+0444,"Galvan, Isabella",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Efectivo,pagado
+0444,"Galvan, Isabella",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-02,Debito automatico,pagado
+0444,"Galvan, Isabella",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-04,Debito automatico,pagado
+0444,"Galvan, Isabella",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-14,Efectivo,pagado
+0444,"Galvan, Isabella",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-05,Mercado Pago,pagado
+0444,"Galvan, Isabella",ING-B1-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Efectivo,pagado
+0444,"Galvan, Isabella",ING-B1-N-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-22,Debito automatico,pagado
+0445,"Cruz, Ian",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Efectivo,pagado
+0445,"Cruz, Ian",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-08,Transferencia,pagado
+0445,"Cruz, Ian",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-18,Debito automatico,pagado
+0445,"Cruz, Ian",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-21,Debito automatico,pagado
+0445,"Cruz, Ian",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-17,Transferencia,pagado
+0445,"Cruz, Ian",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-04,Mercado Pago,pagado
+0446,"Sanchez, Valentina",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-04,Debito automatico,pagado
+0446,"Sanchez, Valentina",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-10,Transferencia,pagado
+0446,"Sanchez, Valentina",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-03,Transferencia,pagado
+0446,"Sanchez, Valentina",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-20,Mercado Pago,pagado
+0446,"Sanchez, Valentina",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-08,Mercado Pago,pagado
+0446,"Sanchez, Valentina",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,0,,,pendiente
+0446,"Sanchez, Valentina",ING-B1-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,,,pendiente
+0446,"Sanchez, Valentina",ING-B1-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,,,pendiente
+0447,"Juarez, Martina",ING-B1-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-07,Debito automatico,pagado
+0447,"Juarez, Martina",ING-B1-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-02,Debito automatico,pagado
+0447,"Juarez, Martina",ING-B1-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-06,Transferencia,pagado
+0447,"Juarez, Martina",ING-B1-N-N,2026-05,Cuota mayo,2026-05-10,92000,4600,2026-05-14,Transferencia,pagado
+0447,"Juarez, Martina",ING-B1-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-07,Debito automatico,pagado
+0447,"Juarez, Martina",ING-B1-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-10,Mercado Pago,pagado
+0447,"Juarez, Martina",ING-B1-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-07,Efectivo,pagado
+0447,"Juarez, Martina",ING-B1-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-08,Debito automatico,pagado
+0448,"Sosa, Zoe",ING-B2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Mercado Pago,pagado
+0448,"Sosa, Zoe",ING-B2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-05,Mercado Pago,pagado
+0448,"Sosa, Zoe",ING-B2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Debito automatico,pagado
+0448,"Sosa, Zoe",ING-B2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-05,Transferencia,pagado
+0448,"Sosa, Zoe",ING-B2-N-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-15,Debito automatico,pagado
+0448,"Sosa, Zoe",ING-B2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-03,Efectivo,pagado
+0448,"Sosa, Zoe",ING-B2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-04,Transferencia,pagado
+0448,"Sosa, Zoe",ING-B2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-03,Mercado Pago,pagado
+0449,"Silva, Maite",ING-B2-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-10,Mercado Pago,pagado
+0449,"Silva, Maite",ING-B2-N-N,2026-03,Cuota marzo,2026-03-10,82800,0,2026-03-04,Debito automatico,pagado
+0449,"Silva, Maite",ING-B2-N-N,2026-04,Cuota abril,2026-04-10,82800,0,2026-04-03,Efectivo,pagado
+0449,"Silva, Maite",ING-B2-N-N,2026-05,Cuota mayo,2026-05-10,82800,0,2026-05-03,Debito automatico,pagado
+0449,"Silva, Maite",ING-B2-N-N,2026-06,Cuota junio,2026-06-10,82800,0,2026-06-02,Debito automatico,pagado
+0449,"Silva, Maite",ING-B2-N-N,2026-07,Cuota julio,2026-07-10,82800,0,2026-07-02,Mercado Pago,pagado
+0449,"Silva, Maite",ING-B2-N-N,2026-08,Cuota agosto,2026-08-10,82800,0,2026-08-09,Efectivo,pagado
+0449,"Silva, Maite",ING-B2-N-N,2026-09,Cuota septiembre,2026-09-10,82800,0,2026-09-08,Transferencia,pagado
+0450,"Andrade, Enzo",ING-B2-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-06,Transferencia,pagado
+0450,"Andrade, Enzo",ING-B2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Debito automatico,pagado
+0450,"Andrade, Enzo",ING-B2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-09,Transferencia,pagado
+0450,"Andrade, Enzo",ING-B2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-09,Transferencia,pagado
+0450,"Andrade, Enzo",ING-B2-N-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-22,Efectivo,pagado
+0450,"Andrade, Enzo",ING-B2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-08,Transferencia,pagado
+0450,"Andrade, Enzo",ING-B2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-06,Transferencia,pagado
+0450,"Andrade, Enzo",ING-B2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-10,Debito automatico,pagado
+0451,"Blanco, Valentina",ING-B2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Efectivo,pagado
+0451,"Blanco, Valentina",ING-B2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-04,Mercado Pago,pagado
+0451,"Blanco, Valentina",ING-B2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-10,Debito automatico,pagado
+0451,"Blanco, Valentina",ING-B2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-08,Mercado Pago,pagado
+0451,"Blanco, Valentina",ING-B2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-04,Transferencia,pagado
+0451,"Blanco, Valentina",ING-B2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-05,Mercado Pago,pagado
+0451,"Blanco, Valentina",ING-B2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-10,Efectivo,pagado
+0451,"Blanco, Valentina",ING-B2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-08,Debito automatico,pagado
+0452,"Toledo, Ambar",ING-B2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-07,Transferencia,pagado
+0452,"Toledo, Ambar",ING-B2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-03,Efectivo,pagado
+0452,"Toledo, Ambar",ING-B2-N-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-21,Transferencia,pagado
+0452,"Toledo, Ambar",ING-B2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-02,Transferencia,pagado
+0452,"Toledo, Ambar",ING-B2-N-N,2026-06,Cuota junio,2026-06-10,92000,4600,2026-06-15,Transferencia,pagado
+0452,"Toledo, Ambar",ING-B2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-08,Efectivo,pagado
+0452,"Toledo, Ambar",ING-B2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-09,Debito automatico,pagado
+0452,"Toledo, Ambar",ING-B2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,0,2026-09-02,Mercado Pago,pagado
+0453,"Alvarez, Ciro",ING-B2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Debito automatico,pagado
+0453,"Alvarez, Ciro",ING-B2-N-N,2026-03,Cuota marzo,2026-03-10,92000,4600,2026-03-20,Transferencia,pagado
+0453,"Alvarez, Ciro",ING-B2-N-N,2026-04,Cuota abril,2026-04-10,92000,0,2026-04-10,Efectivo,pagado
+0453,"Alvarez, Ciro",ING-B2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-02,Efectivo,pagado
+0453,"Alvarez, Ciro",ING-B2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-08,Efectivo,pagado
+0453,"Alvarez, Ciro",ING-B2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-02,Mercado Pago,pagado
+0453,"Alvarez, Ciro",ING-B2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-04,Debito automatico,pagado
+0453,"Alvarez, Ciro",ING-B2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-11,Debito automatico,pagado
+0454,"Salas, Sofia",ING-B2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Efectivo,pagado
+0454,"Salas, Sofia",ING-B2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-08,Transferencia,pagado
+0454,"Salas, Sofia",ING-B2-N-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-17,Mercado Pago,pagado
+0454,"Salas, Sofia",ING-B2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-03,Mercado Pago,pagado
+0454,"Salas, Sofia",ING-B2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-03,Mercado Pago,pagado
+0454,"Salas, Sofia",ING-B2-N-N,2026-07,Cuota julio,2026-07-10,92000,4600,2026-07-13,Debito automatico,pagado
+0454,"Salas, Sofia",ING-B2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-05,Efectivo,pagado
+0454,"Salas, Sofia",ING-B2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-22,Debito automatico,pagado
+0454,"Salas, Sofia",ING-CONV,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Debito automatico,pagado
+0454,"Salas, Sofia",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,0,2026-03-09,Debito automatico,pagado
+0454,"Salas, Sofia",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,0,2026-04-09,Mercado Pago,pagado
+0454,"Salas, Sofia",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-09,Debito automatico,pagado
+0454,"Salas, Sofia",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-04,Efectivo,pagado
+0454,"Salas, Sofia",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,2800,2026-07-20,Mercado Pago,pagado
+0454,"Salas, Sofia",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-10,Transferencia,pagado
+0454,"Salas, Sofia",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-06,Transferencia,pagado
+0455,"Salas, Benjamin",ING-B2-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-09,Mercado Pago,pagado
+0455,"Salas, Benjamin",ING-B2-N-N,2026-03,Cuota marzo,2026-03-10,92000,0,2026-03-08,Efectivo,pagado
+0455,"Salas, Benjamin",ING-B2-N-N,2026-04,Cuota abril,2026-04-10,92000,4600,2026-04-19,Mercado Pago,pagado
+0455,"Salas, Benjamin",ING-B2-N-N,2026-05,Cuota mayo,2026-05-10,92000,0,2026-05-04,Debito automatico,pagado
+0455,"Salas, Benjamin",ING-B2-N-N,2026-06,Cuota junio,2026-06-10,92000,0,2026-06-10,Transferencia,pagado
+0455,"Salas, Benjamin",ING-B2-N-N,2026-07,Cuota julio,2026-07-10,92000,0,2026-07-09,Efectivo,pagado
+0455,"Salas, Benjamin",ING-B2-N-N,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-07,Mercado Pago,pagado
+0455,"Salas, Benjamin",ING-B2-N-N,2026-09,Cuota septiembre,2026-09-10,92000,4600,2026-09-21,Debito automatico,pagado
+0456,"Molina, Luca",ING-INT-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Debito automatico,pagado
+0456,"Molina, Luca",ING-INT-N,2026-03,Cuota marzo,2026-03-10,148000,0,2026-03-04,Debito automatico,pagado
+0456,"Molina, Luca",ING-INT-N,2026-04,Cuota abril,2026-04-10,148000,7400,2026-04-11,Transferencia,pagado
+0456,"Molina, Luca",ING-INT-N,2026-05,Cuota mayo,2026-05-10,148000,0,2026-05-02,Efectivo,pagado
+0456,"Molina, Luca",ING-INT-N,2026-06,Cuota junio,2026-06-10,148000,0,2026-06-07,Debito automatico,pagado
+0456,"Molina, Luca",ING-INT-N,2026-07,Cuota julio,2026-07-10,148000,0,2026-07-02,Efectivo,pagado
+0456,"Molina, Luca",ING-INT-N,2026-08,Cuota agosto,2026-08-10,148000,7400,2026-08-12,Mercado Pago,pagado
+0456,"Molina, Luca",ING-INT-N,2026-09,Cuota septiembre,2026-09-10,148000,0,2026-09-05,Transferencia,pagado
+0457,"Godoy, Rodrigo",ING-INT-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-05,Debito automatico,pagado
+0457,"Godoy, Rodrigo",ING-INT-N,2026-03,Cuota marzo,2026-03-10,148000,0,2026-03-09,Efectivo,pagado
+0457,"Godoy, Rodrigo",ING-INT-N,2026-04,Cuota abril,2026-04-10,148000,0,2026-04-10,Efectivo,pagado
+0457,"Godoy, Rodrigo",ING-INT-N,2026-05,Cuota mayo,2026-05-10,148000,0,2026-05-02,Transferencia,pagado
+0457,"Godoy, Rodrigo",ING-INT-N,2026-06,Cuota junio,2026-06-10,148000,0,2026-06-02,Mercado Pago,pagado
+0457,"Godoy, Rodrigo",ING-INT-N,2026-07,Cuota julio,2026-07-10,148000,7400,2026-07-18,Transferencia,pagado
+0457,"Godoy, Rodrigo",ING-INT-N,2026-08,Cuota agosto,2026-08-10,148000,0,2026-08-09,Transferencia,pagado
+0457,"Godoy, Rodrigo",ING-INT-N,2026-09,Cuota septiembre,2026-09-10,148000,0,2026-09-02,Efectivo,pagado
+0458,"Cruz, Federico",ING-INT-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Debito automatico,pagado
+0458,"Cruz, Federico",ING-INT-N,2026-03,Cuota marzo,2026-03-10,148000,0,2026-03-04,Debito automatico,pagado
+0458,"Cruz, Federico",ING-INT-N,2026-04,Cuota abril,2026-04-10,148000,0,2026-04-05,Mercado Pago,pagado
+0458,"Cruz, Federico",ING-INT-N,2026-05,Cuota mayo,2026-05-10,148000,0,2026-05-08,Transferencia,pagado
+0458,"Cruz, Federico",ING-INT-N,2026-06,Cuota junio,2026-06-10,148000,0,2026-06-10,Transferencia,pagado
+0458,"Cruz, Federico",ING-INT-N,2026-07,Cuota julio,2026-07-10,148000,7400,2026-07-17,Efectivo,pagado
+0458,"Cruz, Federico",ING-INT-N,2026-08,Cuota agosto,2026-08-10,148000,0,2026-08-02,Transferencia,pagado
+0458,"Cruz, Federico",ING-INT-N,2026-09,Cuota septiembre,2026-09-10,148000,0,2026-09-08,Efectivo,pagado
+0459,"Fernandez, Ciro",ING-INT-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Transferencia,pagado
+0459,"Fernandez, Ciro",ING-INT-N,2026-03,Cuota marzo,2026-03-10,148000,0,2026-03-10,Efectivo,pagado
+0459,"Fernandez, Ciro",ING-INT-N,2026-04,Cuota abril,2026-04-10,148000,7400,2026-04-12,Mercado Pago,pagado
+0459,"Fernandez, Ciro",ING-INT-N,2026-05,Cuota mayo,2026-05-10,148000,0,2026-05-07,Debito automatico,pagado
+0459,"Fernandez, Ciro",ING-INT-N,2026-06,Cuota junio,2026-06-10,148000,0,2026-06-08,Mercado Pago,pagado
+0459,"Fernandez, Ciro",ING-INT-N,2026-07,Cuota julio,2026-07-10,148000,0,2026-07-06,Efectivo,pagado
+0459,"Fernandez, Ciro",ING-INT-N,2026-08,Cuota agosto,2026-08-10,148000,7400,2026-08-14,Mercado Pago,pagado
+0459,"Fernandez, Ciro",ING-INT-N,2026-09,Cuota septiembre,2026-09-10,148000,7400,2026-09-17,Debito automatico,pagado
+0460,"Suarez, Luca",ING-INT-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-10,Efectivo,pagado
+0460,"Suarez, Luca",ING-INT-N,2026-03,Cuota marzo,2026-03-10,148000,0,2026-03-10,Efectivo,pagado
+0460,"Suarez, Luca",ING-INT-N,2026-04,Cuota abril,2026-04-10,148000,0,2026-04-05,Mercado Pago,pagado
+0460,"Suarez, Luca",ING-INT-N,2026-05,Cuota mayo,2026-05-10,148000,7400,2026-05-18,Transferencia,pagado
+0460,"Suarez, Luca",ING-INT-N,2026-06,Cuota junio,2026-06-10,148000,0,2026-06-07,Mercado Pago,pagado
+0460,"Suarez, Luca",ING-INT-N,2026-07,Cuota julio,2026-07-10,148000,0,2026-07-06,Mercado Pago,pagado
+0460,"Suarez, Luca",ING-INT-N,2026-08,Cuota agosto,2026-08-10,148000,0,2026-08-09,Debito automatico,pagado
+0460,"Suarez, Luca",ING-INT-N,2026-09,Cuota septiembre,2026-09-10,148000,0,2026-09-04,Transferencia,pagado
+0461,"Sanchez, Federico",ING-INT-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Efectivo,pagado
+0461,"Sanchez, Federico",ING-INT-N,2026-03,Cuota marzo,2026-03-10,148000,0,2026-03-06,Mercado Pago,pagado
+0461,"Sanchez, Federico",ING-INT-N,2026-04,Cuota abril,2026-04-10,148000,0,2026-04-09,Debito automatico,pagado
+0461,"Sanchez, Federico",ING-INT-N,2026-05,Cuota mayo,2026-05-10,148000,0,2026-05-08,Efectivo,pagado
+0461,"Sanchez, Federico",ING-INT-N,2026-06,Cuota junio,2026-06-10,148000,0,2026-06-09,Transferencia,pagado
+0461,"Sanchez, Federico",ING-INT-N,2026-07,Cuota julio,2026-07-10,148000,0,2026-07-09,Efectivo,pagado
+0461,"Sanchez, Federico",ING-INT-N,2026-08,Cuota agosto,2026-08-10,148000,0,2026-08-05,Debito automatico,pagado
+0461,"Sanchez, Federico",ING-INT-N,2026-09,Cuota septiembre,2026-09-10,148000,0,2026-09-08,Mercado Pago,pagado
+0462,"Ferreyra, Antonella",ING-INT-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Debito automatico,pagado
+0462,"Ferreyra, Antonella",ING-INT-N,2026-03,Cuota marzo,2026-03-10,148000,0,2026-03-09,Mercado Pago,pagado
+0462,"Ferreyra, Antonella",ING-INT-N,2026-04,Cuota abril,2026-04-10,148000,7400,2026-04-20,Debito automatico,pagado
+0462,"Ferreyra, Antonella",ING-INT-N,2026-05,Cuota mayo,2026-05-10,148000,0,2026-05-06,Efectivo,pagado
+0462,"Ferreyra, Antonella",ING-INT-N,2026-06,Cuota junio,2026-06-10,148000,0,2026-06-08,Debito automatico,pagado
+0462,"Ferreyra, Antonella",ING-INT-N,2026-07,Cuota julio,2026-07-10,148000,7400,2026-07-13,Efectivo,pagado
+0462,"Ferreyra, Antonella",ING-INT-N,2026-08,Cuota agosto,2026-08-10,148000,7400,2026-08-13,Mercado Pago,pagado
+0462,"Ferreyra, Antonella",ING-INT-N,2026-09,Cuota septiembre,2026-09-10,148000,0,2026-09-04,Debito automatico,pagado
+0463,"Mendez, Vicente",POR-A1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-03,Transferencia,pagado
+0463,"Mendez, Vicente",POR-A1-N-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-03,Debito automatico,pagado
+0463,"Mendez, Vicente",POR-A1-N-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-04,Transferencia,pagado
+0463,"Mendez, Vicente",POR-A1-N-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-10,Efectivo,pagado
+0463,"Mendez, Vicente",POR-A1-N-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-05,Mercado Pago,pagado
+0463,"Mendez, Vicente",POR-A1-N-N,2026-07,Cuota julio,2026-07-10,88000,0,2026-07-02,Efectivo,pagado
+0463,"Mendez, Vicente",POR-A1-N-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-10,Transferencia,pagado
+0463,"Mendez, Vicente",POR-A1-N-N,2026-09,Cuota septiembre,2026-09-10,88000,4400,2026-09-12,Debito automatico,pagado
+0464,"Ledesma, Ciro",POR-A1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-06,Debito automatico,pagado
+0464,"Ledesma, Ciro",POR-A1-N-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-05,Debito automatico,pagado
+0464,"Ledesma, Ciro",POR-A1-N-N,2026-04,Cuota abril,2026-04-10,88000,4400,2026-04-15,Efectivo,pagado
+0464,"Ledesma, Ciro",POR-A1-N-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-07,Transferencia,pagado
+0464,"Ledesma, Ciro",POR-A1-N-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-07,Debito automatico,pagado
+0464,"Ledesma, Ciro",POR-A1-N-N,2026-07,Cuota julio,2026-07-10,88000,0,2026-07-08,Transferencia,pagado
+0464,"Ledesma, Ciro",POR-A1-N-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-09,Mercado Pago,pagado
+0464,"Ledesma, Ciro",POR-A1-N-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-03,Debito automatico,pagado
+0465,"Rivero, Valentina",POR-A1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-08,Mercado Pago,pagado
+0465,"Rivero, Valentina",POR-A1-N-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-10,Debito automatico,pagado
+0465,"Rivero, Valentina",POR-A1-N-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-05,Debito automatico,pagado
+0465,"Rivero, Valentina",POR-A1-N-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-02,Debito automatico,pagado
+0465,"Rivero, Valentina",POR-A1-N-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-03,Debito automatico,pagado
+0465,"Rivero, Valentina",POR-A1-N-N,2026-07,Cuota julio,2026-07-10,88000,0,2026-07-05,Transferencia,pagado
+0465,"Rivero, Valentina",POR-A1-N-N,2026-08,Cuota agosto,2026-08-10,88000,4400,2026-08-18,Transferencia,pagado
+0465,"Rivero, Valentina",POR-A1-N-N,2026-09,Cuota septiembre,2026-09-10,70400,0,2026-09-02,Transferencia,pagado
+0466,"Perez, Valentina",POR-A1-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Efectivo,pagado
+0466,"Perez, Valentina",POR-A1-N-N,2026-03,Cuota marzo,2026-03-10,88000,4400,2026-03-19,Debito automatico,pagado
+0466,"Perez, Valentina",POR-A1-N-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-04,Debito automatico,pagado
+0466,"Perez, Valentina",POR-A1-N-N,2026-05,Cuota mayo,2026-05-10,88000,4400,2026-05-20,Debito automatico,pagado
+0466,"Perez, Valentina",POR-A1-N-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-03,Efectivo,pagado
+0466,"Perez, Valentina",POR-A1-N-N,2026-07,Cuota julio,2026-07-10,88000,4400,2026-07-12,Mercado Pago,pagado
+0466,"Perez, Valentina",POR-A1-N-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-09,Debito automatico,pagado
+0466,"Perez, Valentina",POR-A1-N-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-04,Transferencia,pagado
+0467,"Santillan, Julian",POR-A1-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-08,Mercado Pago,pagado
+0467,"Santillan, Julian",POR-A1-N-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-04,Efectivo,pagado
+0467,"Santillan, Julian",POR-A1-N-N,2026-04,Cuota abril,2026-04-10,88000,0,2026-04-10,Debito automatico,pagado
+0467,"Santillan, Julian",POR-A1-N-N,2026-05,Cuota mayo,2026-05-10,88000,4400,2026-05-21,Transferencia,pagado
+0467,"Santillan, Julian",POR-A1-N-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-09,Debito automatico,pagado
+0467,"Santillan, Julian",POR-A1-N-N,2026-07,Cuota julio,2026-07-10,88000,4400,2026-07-22,Debito automatico,pagado
+0467,"Santillan, Julian",POR-A1-N-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-08,Mercado Pago,pagado
+0467,"Santillan, Julian",POR-A1-N-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-09,Mercado Pago,pagado
+0468,"Maldonado, Martina",POR-A1-N-N,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-09,Transferencia,pagado
+0468,"Maldonado, Martina",POR-A1-N-N,2026-03,Cuota marzo,2026-03-10,79200,3960,2026-03-12,Transferencia,pagado
+0468,"Maldonado, Martina",POR-A1-N-N,2026-04,Cuota abril,2026-04-10,79200,0,2026-04-02,Debito automatico,pagado
+0468,"Maldonado, Martina",POR-A1-N-N,2026-05,Cuota mayo,2026-05-10,79200,0,2026-05-06,Mercado Pago,pagado
+0468,"Maldonado, Martina",POR-A1-N-N,2026-06,Cuota junio,2026-06-10,79200,0,2026-06-02,Debito automatico,pagado
+0468,"Maldonado, Martina",POR-A1-N-N,2026-07,Cuota julio,2026-07-10,79200,0,2026-07-10,Mercado Pago,pagado
+0468,"Maldonado, Martina",POR-A1-N-N,2026-08,Cuota agosto,2026-08-10,79200,0,2026-08-07,Mercado Pago,pagado
+0468,"Maldonado, Martina",POR-A1-N-N,2026-09,Cuota septiembre,2026-09-10,79200,0,2026-09-03,Mercado Pago,pagado
+0469,"Salas, Franco",POR-A1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Efectivo,pagado
+0469,"Salas, Franco",POR-A1-N-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-03,Mercado Pago,pagado
+0469,"Salas, Franco",POR-A1-N-N,2026-04,Cuota abril,2026-04-10,88000,4400,2026-04-23,Debito automatico,pagado
+0469,"Salas, Franco",POR-A1-N-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-07,Efectivo,pagado
+0469,"Salas, Franco",POR-A1-N-N,2026-06,Cuota junio,2026-06-10,88000,4400,2026-06-20,Transferencia,pagado
+0469,"Salas, Franco",POR-A1-N-N,2026-07,Cuota julio,2026-07-10,88000,0,2026-07-10,Transferencia,pagado
+0469,"Salas, Franco",POR-A1-N-N,2026-08,Cuota agosto,2026-08-10,88000,0,2026-08-02,Debito automatico,pagado
+0469,"Salas, Franco",POR-A1-N-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-03,Mercado Pago,pagado
+0470,"Farias, Bianca",POR-A1-N-N,2026-03,Matricula anual,2026-03-10,30000,0,2026-03-05,Debito automatico,pagado
+0470,"Farias, Bianca",POR-A1-N-N,2026-03,Cuota marzo,2026-03-10,88000,0,2026-03-03,Efectivo,pagado
+0470,"Farias, Bianca",POR-A1-N-N,2026-04,Cuota abril,2026-04-10,88000,4400,2026-04-18,Transferencia,pagado
+0470,"Farias, Bianca",POR-A1-N-N,2026-05,Cuota mayo,2026-05-10,88000,0,2026-05-07,Mercado Pago,pagado
+0470,"Farias, Bianca",POR-A1-N-N,2026-06,Cuota junio,2026-06-10,88000,0,2026-06-07,Debito automatico,pagado
+0470,"Farias, Bianca",POR-A1-N-N,2026-07,Cuota julio,2026-07-10,88000,0,2026-07-10,Efectivo,pagado
+0470,"Farias, Bianca",POR-A1-N-N,2026-08,Cuota agosto,2026-08-10,88000,4400,2026-08-19,Transferencia,pagado
+0470,"Farias, Bianca",POR-A1-N-N,2026-09,Cuota septiembre,2026-09-10,88000,0,2026-09-03,Debito automatico,pagado
+0471,"Aguirre, Pilar",ING-K1-N-T,2026-03,Matricula anual,2026-03-10,42000,0,2026-03-03,Transferencia,pagado
+0471,"Aguirre, Pilar",ING-K1-N-T,2026-03,Cuota marzo,2026-03-10,68000,0,2026-03-05,Mercado Pago,pagado
+0471,"Aguirre, Pilar",ING-K1-N-T,2026-04,Cuota abril,2026-04-10,68000,0,2026-04-02,Transferencia,pagado
+0471,"Aguirre, Pilar",ING-K1-N-T,2026-05,Cuota mayo,2026-05-10,68000,0,2026-05-09,Efectivo,pagado
+0471,"Aguirre, Pilar",ING-K1-N-T,2026-06,Cuota junio,2026-06-10,68000,3400,2026-06-16,Mercado Pago,pagado
+0471,"Aguirre, Pilar",ING-K1-N-T,2026-07,Cuota julio,2026-07-10,68000,3400,2026-07-22,Transferencia,pagado
+0471,"Aguirre, Pilar",ING-K1-N-T,2026-08,Cuota agosto,2026-08-10,68000,0,2026-08-04,Debito automatico,pagado
+0471,"Aguirre, Pilar",ING-K1-N-T,2026-09,Cuota septiembre,2026-09-10,68000,3400,2026-09-20,Debito automatico,pagado
+0472,"Maldonado, Manuela",ING-CONV,2026-03,Matricula anual,2026-03-10,48000,0,2026-03-09,Efectivo,pagado
+0472,"Maldonado, Manuela",ING-CONV,2026-03,Cuota marzo,2026-03-10,56000,0,2026-03-06,Efectivo,pagado
+0472,"Maldonado, Manuela",ING-CONV,2026-04,Cuota abril,2026-04-10,56000,2800,2026-04-13,Debito automatico,pagado
+0472,"Maldonado, Manuela",ING-CONV,2026-05,Cuota mayo,2026-05-10,56000,0,2026-05-10,Transferencia,pagado
+0472,"Maldonado, Manuela",ING-CONV,2026-06,Cuota junio,2026-06-10,56000,0,2026-06-10,Mercado Pago,pagado
+0472,"Maldonado, Manuela",ING-CONV,2026-07,Cuota julio,2026-07-10,56000,0,2026-07-09,Mercado Pago,pagado
+0472,"Maldonado, Manuela",ING-CONV,2026-08,Cuota agosto,2026-08-10,56000,0,2026-08-09,Transferencia,pagado
+0472,"Maldonado, Manuela",ING-CONV,2026-09,Cuota septiembre,2026-09-10,56000,0,2026-09-04,Efectivo,pagado
+0999,(sin identificar),,2026-08,Cuota agosto,2026-08-10,92000,0,2026-08-07,Transferencia,pagado

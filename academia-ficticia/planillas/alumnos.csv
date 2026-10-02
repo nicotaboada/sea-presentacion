@@ -1,0 +1,174 @@
+legajo,apellido_y_nombre,fecha_nacimiento,edad,responsable,telefono,email,sede,idioma,nivel,comision,docente,plan,arancel_mensual,descuento,estado,fecha_inscripcion,fecha_baja,antiguedad_anios
+0301,"Coronel, Milagros",2018-07-23,8,"Coronel, Agostina",11-6951-4409,milagros.coronel@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,,activo,2026-03-12,,2
+0302,"Coronel, Renata",2018-01-22,8,"Coronel, Agostina",11-6951-4409,renata.valdez@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,Hermanos 15%,activo,2026-03-11,,3
+0303,"Ortiz, Rocio",2020-01-25,6,"Ortiz, Luna",11-6630-2793,rocio.ortiz@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,,activo,2026-03-06,,1
+0304,"Sosa, Alma",2019-10-15,7,"Sosa, Benicio",11-6810-4197,alma.sosa@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,,activo,2026-03-17,,2
+0305,"Sosa, Valentin",2017-07-06,9,"Sosa, Benicio",11-6810-4197,valentin.ojeda@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,Hermanos 15%,activo,2026-03-03,,1
+0306,"Figueroa, Maximo",2018-01-22,8,"Figueroa, Mia",11-4600-7585,maximo.figueroa@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,,activo,2026-03-03,,2
+0307,"Perez, Facundo",2020-04-09,6,"Perez, Victoria",11-6602-2248,facundo.perez@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,,activo,2026-03-15,,1
+0308,"Perez, Simon",2017-08-03,9,"Perez, Victoria",11-6602-2248,simon.escobar@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,Hermanos 15%,activo,2026-03-04,,1
+0309,"Sosa, Nicolas",2015-01-05,11,"Sosa, Martina",11-4238-9363,nicolas.sosa@mail.com,Centro,Ingles,Kids 1,ING-K1-T,Laura Beltran,Kids,68000,,activo,2026-03-04,,2
+0310,"Coronel, Leonardo",2020-06-13,6,"Coronel, Dylan",11-5558-5252,leonardo.coronel@mail.com,Centro,Ingles,Kids 2,ING-K2-T,Laura Beltran,Kids,68000,,activo,2026-03-14,,1
+0311,"Coronel, Mora",2019-07-13,7,"Coronel, Dylan",11-5558-5252,mora.rosales@mail.com,Centro,Ingles,Kids 2,ING-K2-T,Laura Beltran,Kids,68000,Hermanos 15%,activo,2026-03-15,,2
+0312,"Orellana, Josefina",2017-11-28,9,"Orellana, Aitana",11-6174-3772,josefina.orellana@mail.com,Centro,Ingles,Kids 2,ING-K2-T,Laura Beltran,Kids,68000,,activo,2026-03-18,,3
+0313,"Andrade, Emma",2013-07-19,13,"Andrade, Luna",11-4610-1185,emma.andrade@mail.com,Centro,Ingles,Teens 1,ING-T1-T,Diego Ferrari,Teens,84000,,activo,2026-03-06,,3
+0314,"Andrade, Ciro",2011-01-20,15,"Andrade, Luna",11-4610-1185,ciro.sandoval@mail.com,Centro,Ingles,Teens 1,ING-T1-T,Diego Ferrari,Teens,84000,Hermanos 15%,activo,2026-03-16,,3
+0315,"Vega, Julia",2011-05-27,15,"Vega, Pedro",11-4633-7800,julia.vega@mail.com,Centro,Ingles,Teens 1,ING-T1-T,Diego Ferrari,Teens,84000,,activo,2026-03-12,,2
+0316,"Saavedra, Liam",2009-10-12,17,"Saavedra, Alan",11-5455-5480,liam.saavedra@mail.com,Centro,Ingles,Teens 1,ING-T1-T,Diego Ferrari,Teens,84000,,activo,2026-03-03,,1
+0317,"Saavedra, Juan",2012-11-05,14,"Saavedra, Alan",11-5455-5480,juan.vera@mail.com,Centro,Ingles,Teens 1,ING-T1-T,Diego Ferrari,Teens,84000,Hermanos 15%,activo,2026-03-14,,3
+0318,"Ledesma, Dante",2011-11-08,15,"Ledesma, Rodrigo",11-6615-5289,dante.ledesma@mail.com,Centro,Ingles,Teens 1,ING-T1-T,Diego Ferrari,,,,activo,2026-03-11,,3
+0319,"Coronel, Mia",2012-10-03,14,"Coronel, Pilar",11-4115-1874,mia.coronel@mail.com,Centro,Ingles,Teens 1,ING-T1-T,Diego Ferrari,Teens,84000,,activo,2026-03-05,,3
+0320,"Ibarra, Manuela",2012-12-24,14,"Ibarra, Maximo",11-6558-4609,manuela.ibarra@mail.com,Centro,Ingles,Teens 1,ING-T1-T,Diego Ferrari,Teens,84000,,activo,2026-03-18,,8
+0321,"Miranda, Renata",1988-05-09,38,,11-5868-5461,renata.miranda@mail.com,Centro,Ingles,A1 Adultos,ING-A1-M,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-18,,1
+0322,"Galvan, Maria",1989-09-10,37,,11-4034-6711,maria.galvan@mail.com,Centro,Ingles,A1 Adultos,ING-A1-M,Carla Ruiz,Adultos Regular,92000,,baja,2026-03-02,2026-05-17,2
+0323,"Martinez, Lautaro",1979-12-14,47,,11-6008-6824,lautaro.martinez@mail.com,Centro,Ingles,A1 Adultos,ING-A1-M,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-13,,1
+0324,"Rivero, Agustin",1985-08-28,41,,11-4261-6558,agustin.rivero@mail.com,Centro,Ingles,A1 Adultos,ING-A1-M,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-09,,3
+0325,"Acosta, Lautaro",1975-11-25,51,,11-5427-6918,lautaro.acosta@mail.com,Centro,Ingles,A1 Adultos,ING-A1-M,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-05,,1
+0326,"Paez, Bruno",1974-07-15,52,,11-4002-5137,bruno.paez@mail.com,Centro,Ingles,A1 Adultos,ING-A1-M,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-20,,2
+0327,"Torres, Jazmin",2004-06-06,22,,11-5358-8878,jazmin.torres@mail.com,Centro,Ingles,A1 Adultos,ING-A1-M,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-19,,1
+0328,"Lucero, Maximo",1998-03-05,28,,11-5919-1852,maximo.lucero@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-18,,2
+0329,"Acosta, Luna",2004-08-01,22,,11-5748-6164,luna.acosta@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-20,,2
+0330,"Suarez, Jazmin",2007-12-07,19,,11-5876-9900,jazmin.suarez@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-13,,3
+0331,"Andrade, Gonzalo",1993-08-27,33,,11-4824-2842,gonzalo.andrade@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-03,,5
+0332,"Olivera, Renata",1984-01-14,42,,11-6918-6673,renata.olivera@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-16,,1
+0333,"Galvan, Abril",1975-07-16,51,,11-6843-7000,abril.galvan@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-08,,3
+0334,"Nuñez, Tomas",2006-09-21,20,,11-6105-2281,tomas.nuñez@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-04,,2
+0335,"Lamas, Paula",2007-12-03,19,,11-5730-1404,paula.lamas@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,Pago anual 10%,activo,2026-03-14,,8
+0336,"Arias, Luca",1994-09-16,32,,11-4069-3142,luca.arias@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-11,,2
+0337,"Rios, Milagros",1986-05-04,40,,11-5947-9449,milagros.rios@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-03,,8
+0338,"Vargas, Rodrigo",2004-07-21,22,,11-5135-7458,rodrigo.vargas@mail.com,Centro,Ingles,A2 Adultos,ING-A2-N,Carla Ruiz,Adultos Regular,92000,,activo,2026-03-15,,4
+0339,"Roldan, Zoe",2002-04-03,24,,11-6022-3590,zoe.roldan@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,activo,2026-03-13,,5
+0340,"Gonzalez, Constanza",1970-04-04,56,,11-4140-2526,constanza.gonzalez@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,Pago anual 10%,activo,2026-03-05,,2
+0341,"Ramos, Alma",1976-08-18,50,,11-5033-8908,alma.ramos@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,activo,2026-03-06,,6
+0342,"Ruiz, Dylan",1989-03-12,37,,11-4806-2400,dylan.ruiz@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,activo,2026-03-13,,5
+0343,"Quiroga, Rodrigo",1971-08-22,55,,11-6835-7478,rodrigo.quiroga@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,activo,2026-03-03,,3
+0344,"Perez, Delfina",1995-01-17,31,,11-6934-3870,delfina.perez@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,baja,2026-03-13,2026-05-10,1
+0345,"Villalba, Isabella",1968-03-21,58,,11-4267-8590,isabella.villalba@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,activo,2026-03-16,,2
+0346,"Martinez, Valentina",1973-11-22,53,,11-6710-9694,valentina.martinez@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,baja,2026-03-05,2026-08-09,1
+0347,"Martinez, Tomas",1996-06-12,30,,11-6689-8508,tomas.martinez@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,activo,2026-03-11,,1
+0348,"Caceres, Manuela",2006-08-18,20,,11-6334-2231,manuela.caceres@mail.com,Centro,Ingles,B1 Adultos,ING-B1-N,Diego Ferrari,Adultos Regular,92000,,activo,2026-03-15,,6
+0349,"Palacios, Paula",1972-05-20,54,,11-5032-2820,paula.palacios@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-04,,5
+0350,"Marino, Josefina",1990-11-19,36,,11-5645-9657,josefina.marino@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-07,,8
+0351,"Ortiz, Trinidad",1976-08-04,50,,11-6054-4260,trinidad.ortiz@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-10,,2
+0352,"Ayala, Delfina",1988-06-02,38,,11-5058-5939,delfina.ayala@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-20,,6
+0353,"Caceres, Simon",1969-06-28,57,,11-6057-4026,simon.caceres@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,baja,2026-03-10,2026-08-11,3
+0354,"Vega, Alvaro",1971-02-13,55,,11-4517-4983,alvaro.vega@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-02,,2
+0355,"Ortiz, Luna",1988-01-06,38,,11-4189-1160,luna.ortiz@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-09,,3
+0356,"Arias, Antonella",2006-01-01,20,,11-4475-5201,antonella.arias@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-12,,3
+0357,"Castro, Simon",1968-11-11,58,,11-4359-3689,simon.castro@mail.com,Centro,Ingles,B2 Adultos,ING-B2-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-10,,8
+0358,"Molina, Dante",1986-07-15,40,,11-6209-1933,dante.molina@mail.com,Centro,Ingles,C1 Adultos,ING-C1-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-09,,1
+0359,"Lamas, Camila",1989-07-15,37,,11-6030-1427,camila.lamas@mail.com,Centro,Ingles,C1 Adultos,ING-C1-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-02,,3
+0360,"Palacios, Noah",1974-11-08,52,,11-5050-6063,noah.palacios@mail.com,Centro,Ingles,C1 Adultos,ING-C1-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-14,,1
+0361,"Orellana, Marcos",1997-07-24,29,,11-6596-8074,marcos.orellana@mail.com,Centro,Ingles,C1 Adultos,ING-C1-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-17,,2
+0362,"Franco, Julian",1981-06-02,45,,11-4123-9659,julian.franco@mail.com,Centro,Ingles,C1 Adultos,ING-C1-N,Martin Sosa,Adultos Regular,92000,,activo,2026-03-08,,1
+0363,"Mendez, Gael",2004-07-02,22,,11-5738-5797,gael.mendez@mail.com,Centro,Ingles,C1 Adultos,ING-C1-N,Martin Sosa,Adultos Regular,92000,,baja,2026-03-12,2026-08-03,1
+0364,"Ojeda, Mora",2002-12-07,24,,11-4425-8551,mora.ojeda@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-09,,1
+0365,"Rivero, Jazmin",1975-01-25,51,,11-4885-9498,jazmin.rivero@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-09,,2
+0366,"Carrizo, Alan",1982-11-12,44,,11-6864-5403,alan.carrizo@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-09,,2
+0367,"Ramos, Emma",1979-10-24,47,,11-5103-6763,emma.ramos@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-07,,2
+0368,"Vera, Agostina",1994-01-25,32,,11-4092-3066,agostina.vera@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,congelado,2026-03-10,,2
+0369,"Franco, Camila",1978-04-05,48,,11-5039-4829,camila.franco@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-03,,1
+0370,"Fernandez, Catalina",2005-08-28,21,,11-5216-3392,catalina.fernandez@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-02,,3
+0371,"Blanco, Camila",1968-01-12,58,,11-4674-1510,camila.blanco@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-20,,1
+0372,"Garcia, Bruno",2002-04-13,24,,11-4510-9549,bruno.garcia@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-03,,3
+0373,"Maldonado, Manuela",1998-12-17,28,,11-5398-6094,manuela.maldonado@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-13,,1
+0374,"Carrizo, Leonardo",1985-12-18,41,,11-6557-2494,leonardo.carrizo@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-05,,3
+0375,"Cruz, Julia",1995-08-01,31,,11-5048-2189,julia.cruz@mail.com,Centro,Ingles,Preparacion FCE,ING-FCE,Paula Ocampo,Preparacion examenes,105000,,activo,2026-03-12,,3
+0376,"Acosta, Micaela",2004-05-05,22,,11-4454-4702,micaela.acosta@mail.com,Centro,Ingles,Preparacion FCE,ING-FCE,Paula Ocampo,Preparacion examenes,105000,,activo,2026-03-11,,1
+0377,"Ponce, Mateo",1974-08-11,52,,11-4442-8863,mateo.ponce@mail.com,Centro,Ingles,Preparacion FCE,ING-FCE,Paula Ocampo,Preparacion examenes,105000,,baja,2026-03-17,2026-06-19,4
+0378,"Olivera, Pedro",1974-12-13,52,,11-6265-1155,pedro.olivera@mail.com,Centro,Ingles,Preparacion FCE,ING-FCE,Paula Ocampo,Preparacion examenes,105000,,activo,2026-03-14,,4
+0379,"Salas, Noah",1984-01-20,42,,11-5944-5877,noah.salas@mail.com,Centro,Ingles,Preparacion FCE,ING-FCE,Paula Ocampo,Preparacion examenes,105000,Pago anual 10%,activo,2026-03-07,,1
+0380,"Lopez, Emilia",1980-07-25,46,,11-6946-6827,emilia.lopez@mail.com,Centro,Ingles,Preparacion FCE,ING-FCE,Paula Ocampo,Preparacion examenes,105000,,baja,2026-03-06,2026-06-26,1
+0381,"Vega, Catalina",2006-10-07,20,,11-4592-9781,catalina.vega@mail.com,Centro,Ingles,Preparacion FCE,ING-FCE,Paula Ocampo,Preparacion examenes,105000,,activo,2026-03-19,,5
+0382,"Garcia, Juana",2001-02-08,25,,11-6275-6321,juana.garcia@mail.com,Centro,Ingles,Preparacion FCE,ING-FCE,Paula Ocampo,Preparacion examenes,105000,,activo,2026-03-10,,1
+0383,"Mercado, Milagros",1975-07-06,51,,11-4884-6837,milagros.mercado@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-15,,1
+0384,"Rios, Martina",1973-12-06,53,,11-4670-1838,martina.rios@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,Portugues Regular,88000,Pago anual 10%,activo,2026-03-12,,4
+0385,"Sarmiento, Ana",1968-08-04,58,,11-4346-8344,ana.sarmiento@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,,,,activo,2026-03-05,,3
+0386,"Herrera, Santino",1998-08-28,28,,11-4114-6076,santino.herrera@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,Portugues Regular,88000,Convenio institucional 15%,activo,2026-03-05,,1
+0387,"Caceres, Rocio",1975-08-14,51,,11-6072-4923,rocio.caceres@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-18,,3
+0388,"Calvo, Trinidad",1981-12-11,45,,11-6857-7823,trinidad.calvo@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-08,,1
+0389,"Figueroa, Mora",1972-10-11,54,,11-4120-4615,mora.figueroa@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-02,,2
+0390,"Garcia, Josefina",1977-07-17,49,,11-5003-4310,josefina.garcia@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-15,,6
+0391,"Romero, Maite",1992-03-16,34,,11-6698-5736,maite.romero@mail.com,Centro,Portugues,A1 Adultos,POR-A1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-11,,8
+0392,"Arias, Julia",1981-04-23,45,,11-4679-3776,julia.arias@mail.com,Centro,Portugues,B1 Adultos,POR-B1-N,Renata Lima,Portugues Regular,88000,,baja,2026-03-15,2026-08-09,3
+0393,"Giménez, Enzo",1999-03-10,27,,11-6328-8394,enzo.giménez@mail.com,Centro,Portugues,B1 Adultos,POR-B1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-11,,2
+0394,"Silva, Florencia",2004-06-09,22,,11-6694-2874,florencia.silva@mail.com,Centro,Portugues,B1 Adultos,POR-B1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-09,,3
+0395,"Silva, Guadalupe",1991-10-19,35,,11-4016-9092,guadalupe.silva@mail.com,Centro,Portugues,B1 Adultos,POR-B1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-19,,1
+0396,"Sandoval, Dante",1988-06-12,38,,11-5521-9744,dante.sandoval@mail.com,Centro,Portugues,B1 Adultos,POR-B1-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-18,,3
+0397,"Salas, Florencia",2020-09-26,6,"Salas, Josefina",11-6114-7141,florencia.salas@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,,activo,2026-03-06,,1
+0398,"Pereyra, Valentin",2019-03-06,7,"Pereyra, Ines",11-5759-1544,valentin.pereyra@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,Convenio institucional 15%,activo,2026-03-06,,2
+0399,"Ortiz, Martina",2018-08-10,8,"Ortiz, Celeste",11-4783-3250,martina.ortiz@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,,activo,2026-03-15,,3
+0400,"Aguirre, Pilar",2020-12-24,6,"Aguirre, Delfina",11-5046-1876,pilar.aguirre@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,,activo,2026-03-11,,1
+0401,"Lopez, Bautista",2020-04-19,6,"Lopez, Aitana",11-4063-2074,bautista.lopez@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,,activo,2026-03-13,,1
+0402,"Olivera, Sofia",2019-03-02,7,"Olivera, Simon",11-5135-7806,sofia.olivera@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,,activo,2026-03-20,,1
+0403,"Pereyra, Guadalupe",2016-11-06,10,"Pereyra, Juan",11-4616-7514,guadalupe.pereyra@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,,activo,2026-03-10,,2
+0404,"Gomez, Bruno",2020-02-11,6,"Gomez, Benjamin",11-5395-4941,bruno.gomez@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,,activo,2026-03-03,,1
+0405,"Barrios, Rodrigo",2010-05-22,16,"Barrios, Maria",11-5800-6602,rodrigo.barrios@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,,activo,2026-03-15,,2
+0406,"Velazquez, Julia",2011-10-05,15,"Velazquez, Maximo",11-5581-3558,julia.velazquez@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,,activo,2026-03-14,,1
+0407,"Olivera, Dante",2011-07-13,15,"Olivera, Isabella",11-6089-2019,dante.olivera@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,,activo,2026-03-10,,1
+0408,"Herrera, Gaspar",2013-05-22,13,"Herrera, Luca",11-5875-7669,gaspar.herrera@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,Pago anual 10%,activo,2026-03-04,,1
+0409,"Herrera, Enzo",2009-04-02,17,"Herrera, Enzo",11-4443-3050,enzo.herrera@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,,activo,2026-03-03,,2
+0410,"Falcon, Alma",2010-05-21,16,"Falcon, Malena",11-4820-3110,alma.falcon@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,,activo,2026-03-03,,6
+0411,"Montenegro, Ramiro",2010-05-15,16,"Montenegro, Gaspar",11-6405-8095,ramiro.montenegro@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,,activo,2026-03-06,,1
+0412,"Gomez, Abril",2012-01-28,14,"Gomez, Aitana",11-6995-5481,abril.gomez@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,,activo,2026-03-07,,6
+0413,"Rivero, Delfina",2009-06-24,17,"Rivero, Bianca",11-6097-8205,delfina.rivero@mail.com,Norte,Ingles,Teens 1,ING-T1-N-T,Sofia Anders,Teens,84000,,activo,2026-03-02,,2
+0414,"Acosta, Mora",2013-04-13,13,"Acosta, Maximiliano",11-5832-7900,mora.acosta@mail.com,Norte,Ingles,Teens 2,ING-T2-N-T,Julian Recalde,Teens,84000,,activo,2026-03-07,,1
+0415,"Perez, Gaspar",2011-09-12,15,"Perez, Facundo",11-5038-5974,gaspar.perez@mail.com,Norte,Ingles,Teens 2,ING-T2-N-T,Julian Recalde,Teens,84000,Hermanos 15%,activo,2026-03-15,,1
+0416,"Correa, Clara",2009-03-23,17,"Correa, Camila",11-4463-1273,clara.correa@mail.com,Norte,Ingles,Teens 2,ING-T2-N-T,Julian Recalde,Teens,84000,,activo,2026-03-20,,2
+0417,"Montenegro, Brisa",2013-12-23,13,"Montenegro, Leonardo",11-6830-4345,brisa.montenegro@mail.com,Norte,Ingles,Teens 2,ING-T2-N-T,Julian Recalde,Teens,84000,,activo,2026-03-12,,3
+0418,"Andrade, Julia",2010-02-23,16,"Andrade, Emiliano",11-6890-5204,julia.andrade@mail.com,Norte,Ingles,Teens 2,ING-T2-N-T,Julian Recalde,Teens,84000,Pago anual 10%,activo,2026-03-05,,2
+0419,"Nuñez, Bianca",2012-09-01,14,"Nuñez, Gael",11-6739-7296,bianca.nuñez@mail.com,Norte,Ingles,Teens 2,ING-T2-N-T,Julian Recalde,Teens,84000,,activo,2026-03-17,,6
+0420,"Leiva, Vicente",2009-12-09,17,"Leiva, Mia",11-6540-8035,vicente.leiva@mail.com,Norte,Ingles,Teens 2,ING-T2-N-T,Julian Recalde,Teens,84000,,activo,2026-03-04,,2
+0421,"Torres, Agustin",1987-07-22,39,,11-5242-9975,agustin.torres@mail.com,Norte,Ingles,A1 Adultos,ING-A1-N-M,Veronica Paz,Adultos Regular,92000,,activo,2026-03-03,,3
+0422,"Olivera, Alma",1988-12-25,38,,11-6666-8607,alma.olivera@mail.com,Norte,Ingles,A1 Adultos,ING-A1-N-M,Veronica Paz,Adultos Regular,92000,,activo,2026-03-07,,4
+0423,"Ponce, Olivia",1979-03-18,47,,11-5599-2019,olivia.ponce@mail.com,Norte,Ingles,A1 Adultos,ING-A1-N-M,Veronica Paz,Adultos Regular,92000,,activo,2026-03-16,,3
+0424,"Giménez, Ramiro",1994-01-26,32,,11-6919-9984,ramiro.giménez@mail.com,Norte,Ingles,A1 Adultos,ING-A1-N-M,Veronica Paz,Adultos Regular,92000,,activo,2026-03-09,,2
+0425,"Romero, Bianca",1972-08-14,54,,11-6206-4832,bianca.romero@mail.com,Norte,Ingles,A1 Adultos,ING-A1-N-M,Veronica Paz,Adultos Regular,92000,,activo,2026-03-08,,3
+0426,"Orellana, Bruno",1999-07-05,27,,11-6390-2521,bruno.orellana@mail.com,Norte,Ingles,A1 Adultos,ING-A1-N-M,Veronica Paz,Adultos Regular,92000,,activo,2026-03-12,,1
+0427,"Acosta, Maria",1976-06-15,50,,11-6261-2076,maria.acosta@mail.com,Norte,Ingles,A1 Adultos,ING-A1-N-M,Veronica Paz,Adultos Regular,92000,Pago anual 10%,activo,2026-03-07,,1
+0428,"Calvo, Bruno",1973-10-17,53,,11-6501-7871,bruno.calvo@mail.com,Norte,Ingles,A1 Adultos,ING-A1-N-M,Veronica Paz,Adultos Regular,92000,,activo,2026-03-19,,8
+0429,"Chaves, Isabella",2001-07-18,25,,11-6422-2786,isabella.chaves@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-02,,1
+0430,"Aguirre, Franco",1996-12-18,30,,11-5168-5770,franco.aguirre@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-16,,6
+0431,"Saavedra, Leonardo",1974-01-27,52,,11-5449-6896,leonardo.saavedra@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-13,,2
+0432,"Muñoz, Camila",1971-03-15,55,,11-4801-4090,camila.muñoz@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,Convenio institucional 15%,activo,2026-03-07,,1
+0433,"Correa, Julia",1998-06-09,28,,11-5811-2685,julia.correa@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-16,,1
+0434,"Vega, Sofia",1994-08-08,32,,11-5997-2854,sofia.vega@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-11,,1
+0435,"Toledo, Ian",1989-11-25,37,,11-4756-6736,ian.toledo@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-17,,4
+0436,"Campos, Candela",1980-08-25,46,,11-4993-8362,candela.campos@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-07,,3
+0437,"Palacios, Trinidad",1980-01-02,46,,11-5787-7263,trinidad.palacios@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-13,,6
+0438,"Godoy, Guadalupe",1980-02-25,46,,11-6542-3360,guadalupe.godoy@mail.com,Norte,Ingles,A2 Adultos,ING-A2-N-N,Veronica Paz,Adultos Regular,92000,,activo,2026-03-07,,6
+0439,"Muñoz, Paula",2002-01-19,24,,11-6022-1833,paula.muñoz@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,activo,2026-03-08,,3
+0440,"Sanchez, Lucia",1971-06-23,55,,11-5575-5918,lucia.sanchez@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,activo,2026-03-13,,3
+0441,"Lucero, Sofia",1992-02-09,34,,11-5917-4078,sofia.lucero@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,activo,2026-03-11,,5
+0442,"Saavedra, Gaspar",2004-11-07,22,,11-6404-3166,gaspar.saavedra@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,activo,2026-03-15,,5
+0443,"Cruz, Dylan",1986-12-23,40,,11-5208-9803,dylan.cruz@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,activo,2026-03-05,,3
+0444,"Galvan, Isabella",1980-02-07,46,,11-5437-5347,isabella.galvan@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,activo,2026-03-18,,8
+0445,"Cruz, Ian",1981-08-21,45,,11-4467-8129,ian.cruz@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,congelado,2026-03-13,,3
+0446,"Sanchez, Valentina",1999-01-18,27,,11-5488-8935,valentina.sanchez@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,activo,2026-03-04,,5
+0447,"Juarez, Martina",1992-03-27,34,,11-5838-7168,martina.juarez@mail.com,Norte,Ingles,B1 Adultos,ING-B1-N-N,Julian Recalde,Adultos Regular,92000,,activo,2026-03-09,,1
+0448,"Sosa, Zoe",1977-10-22,49,,11-4555-4057,zoe.sosa@mail.com,Norte,Ingles,B2 Adultos,ING-B2-N-N,Gaston Herrera,Adultos Regular,92000,,activo,2026-03-13,,5
+0449,"Silva, Maite",1976-07-17,50,,11-6609-5281,maite.silva@mail.com,Norte,Ingles,B2 Adultos,ING-B2-N-N,Gaston Herrera,Adultos Regular,92000,Pago anual 10%,activo,2026-03-14,,1
+0450,"Andrade, Enzo",2004-10-01,22,,11-4427-4976,enzo.andrade@mail.com,Norte,Ingles,B2 Adultos,ING-B2-N-N,Gaston Herrera,Adultos Regular,92000,,activo,2026-03-20,,1
+0451,"Blanco, Valentina",1975-02-28,51,,11-6623-8248,valentina.blanco@mail.com,Norte,Ingles,B2 Adultos,ING-B2-N-N,Gaston Herrera,Adultos Regular,92000,,activo,2026-03-06,,2
+0452,"Toledo, Ambar",1995-11-09,31,,11-6833-4078,ambar.toledo@mail.com,Norte,Ingles,B2 Adultos,ING-B2-N-N,Gaston Herrera,Adultos Regular,92000,,activo,2026-03-16,,2
+0453,"Alvarez, Ciro",2002-04-17,24,,11-5161-6867,ciro.alvarez@mail.com,Norte,Ingles,B2 Adultos,ING-B2-N-N,Gaston Herrera,Adultos Regular,92000,,activo,2026-03-15,,3
+0454,"Salas, Sofia",1989-11-20,37,,11-4703-4785,sofia.salas@mail.com,Norte,Ingles,B2 Adultos,ING-B2-N-N,Gaston Herrera,Adultos Regular,92000,,activo,2026-03-08,,4
+0454,"Salas, Sofia",1989-11-20,37,,11-4703-4785,sofia.salas@mail.com,Norte,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-03-08,,4
+0455,"Salas, Benjamin",1989-06-02,37,,11-6522-2677,benjamin.salas@mail.com,Norte,Ingles,B2 Adultos,ING-B2-N-N,Gaston Herrera,Adultos Regular,92000,,activo,2026-03-16,,6
+0456,"Molina, Luca",1968-04-27,58,,11-6111-6241,luca.molina@mail.com,Norte,Ingles,Intensivo,ING-INT-N,Gaston Herrera,Intensivo,148000,,activo,2026-03-04,2026-07-14,2
+0457,"Godoy, Rodrigo",1971-02-21,55,,11-4204-4332,rodrigo.godoy@mail.com,Norte,Ingles,Intensivo,ING-INT-N,Gaston Herrera,Intensivo,148000,,activo,2026-03-12,,1
+0458,"Cruz, Federico",1968-10-20,58,,11-6782-3970,federico.cruz@mail.com,Norte,Ingles,Intensivo,ING-INT-N,Gaston Herrera,Intensivo,148000,,activo,2026-03-16,,6
+0459,"Fernandez, Ciro",1977-01-27,49,,11-5569-1677,ciro.fernandez@mail.com,Norte,Ingles,Intensivo,ING-INT-N,Gaston Herrera,Intensivo,148000,,activo,2026-03-19,,2
+0460,"Suarez, Luca",2005-11-13,21,,11-5681-1253,luca.suarez@mail.com,Norte,Ingles,Intensivo,ING-INT-N,Gaston Herrera,Intensivo,148000,,activo,2026-03-07,,6
+0461,"Sanchez, Federico",1976-01-28,50,,11-5495-2909,federico.sanchez@mail.com,Norte,Ingles,Intensivo,ING-INT-N,Gaston Herrera,Intensivo,148000,,activo,2026-03-14,,8
+0462,"Ferreyra, Antonella",1997-03-20,29,,11-4522-2624,antonella.ferreyra@mail.com,Norte,Ingles,Intensivo,ING-INT-N,Gaston Herrera,Intensivo,148000,,activo,2026-03-09,,1
+0463,"Mendez, Vicente",1995-11-17,31,,11-6658-2784,vicente.mendez@mail.com,Norte,Portugues,A1 Adultos,POR-A1-N-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-18,,2
+0464,"Ledesma, Ciro",1989-07-05,37,,11-5322-1157,ciro.ledesma@mail.com,Norte,Portugues,A1 Adultos,POR-A1-N-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-02,,6
+0465,"Rivero, Valentina",1995-11-08,31,,11-5266-5371,valentina.rivero@mail.com,Norte,Portugues,A1 Adultos,POR-A1-N-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-08,,2
+0466,"Perez, Valentina",1987-01-01,39,,11-5847-2673,valentina.perez@mail.com,Norte,Portugues,A1 Adultos,POR-A1-N-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-19,,1
+0467,"Santillan, Julian",1974-04-14,52,,11-6036-2920,julian.santillan@mail.com,Norte,Portugues,A1 Adultos,POR-A1-N-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-10,,1
+0468,"Maldonado, Martina",1986-03-04,40,,11-5860-1276,martina.maldonado@mail.com,Norte,Portugues,A1 Adultos,POR-A1-N-N,Renata Lima,Portugues Regular,88000,Pago anual 10%,activo,2026-03-06,,1
+0469,"Salas, Franco",2004-07-04,22,,11-6991-4607,franco.salas@mail.com,Norte,Portugues,A1 Adultos,POR-A1-N-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-08,,6
+0470,"Farias, Bianca",1999-10-18,27,,11-5956-3657,bianca.farias@mail.com,Norte,Portugues,A1 Adultos,POR-A1-N-N,Renata Lima,Portugues Regular,88000,,activo,2026-03-18,,5
+0471,"Aguirre, Pilar",2020-12-24,6,"Aguirre, Delfina",11-5046-1876,pilar.aguirre1@mail.com,Norte,Ingles,Kids 1,ING-K1-N-T,Sofia Anders,Kids,68000,,activo,2026-04-24,,1
+0472,"Maldonado, Manuela",1998-12-17,28,,11-5398-6094,manuela.maldonado1@mail.com,Centro,Ingles,Conversacion,ING-CONV,Paula Ocampo,Conversacion,56000,,activo,2026-04-13,,1

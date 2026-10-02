@@ -1,0 +1,237 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Caveat:wght@500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 4%;
+    --foreground: 0 0% 100%;
+
+    --card: 0 0% 7%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 0 0% 7%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 0 0% 100%;
+    --primary-foreground: 0 0% 4%;
+
+    --secondary: 0 0% 12%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 63%;
+
+    --accent: 0 0% 85%;
+    --accent-foreground: 0 0% 4%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 15%;
+    --input: 0 0% 15%;
+    --ring: 0 0% 100%;
+
+    --radius: 0.5rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: "DM Sans", sans-serif;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Syne", sans-serif;
+  }
+}
+
+@layer utilities {
+  .font-heading {
+    font-family: "Syne", sans-serif;
+  }
+
+  .font-mano {
+    font-family: "Caveat", cursive;
+  }
+
+  .noise-overlay::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    pointer-events: none;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-repeat: repeat;
+    background-size: 256px 256px;
+  }
+
+  .proposal-card {
+    border-radius: 0.75rem;
+    border-width: 1px;
+    border-color: hsla(0, 0%, 100%, 0.08);
+    background-color: hsla(0, 0%, 100%, 0.03);
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.3s;
+    animation-duration: 0.3s;
+  }
+
+  .proposal-card:hover {
+    border-color: hsla(0, 0%, 100%, 0.18);
+    transform: scale(1.01);
+  }
+
+  .proposal-section {
+    padding: 5rem 1.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .proposal-section {
+      padding: 120px 4rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .proposal-section {
+      padding-left: 6rem;
+      padding-right: 6rem;
+    }
+  }
+}
+
+/* ---------------------------------------------------------------
+   Impresión / exportación a PDF
+   Las animaciones de entrada dejan los elementos en opacity:0 hasta
+   que entran en viewport, así que al imprimir hay que forzarlos.
+   --------------------------------------------------------------- */
+@media print {
+  @page {
+    size: 1280px 900px;
+    margin: 0;
+  }
+
+  html,
+  body {
+    background: hsl(var(--background)) !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Anula las animaciones de framer-motion */
+  *,
+  *::before,
+  *::after {
+    opacity: 1 !important;
+    transform: none !important;
+    animation: none !important;
+    transition: none !important;
+    filter: none !important;
+  }
+
+  /* El overlay de ruido es position:fixed y se repetiría en cada página */
+  .noise-overlay::before {
+    display: none !important;
+  }
+
+  /* La nav lateral no va al PDF */
+  nav {
+    display: none !important;
+  }
+
+  /* Una sección por página */
+  section {
+    min-height: 0 !important;
+    height: auto !important;
+    page-break-after: always;
+    break-after: page;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    padding: 48px 56px !important;
+    justify-content: flex-start !important;
+  }
+
+  section:last-of-type {
+    page-break-after: auto;
+    break-after: auto;
+  }
+
+  /* La portada sí va centrada y a página completa */
+  #cover {
+    height: 100vh !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  /* Botones interactivos no van al PDF */
+  button {
+    display: none !important;
+  }
+
+  /* El indicador de scroll no tiene sentido en papel */
+  #cover > div:last-of-type,
+  #cover > div:nth-last-of-type(2) {
+    display: none !important;
+  }
+
+  /* Evita cortar tarjetas al medio */
+  .proposal-card,
+  li {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}
+
+/* ---------------------------------------------------------------
+   Deck: placas de 1920×1080 escaladas al viewport
+   --------------------------------------------------------------- */
+@layer utilities {
+  /* El noise-overlay original es position:fixed (cubre el viewport).
+     Dentro de una placa tiene que ser absolute, acotado a la placa. */
+  .noise-overlay::before {
+    position: absolute;
+  }
+
+  .deck-stage {
+    transform-origin: top left;
+  }
+}
+
+@media print {
+  /* Una placa por página, a tamaño completo */
+  @page {
+    size: 1920px 1080px;
+    margin: 0;
+  }
+
+  .deck-chrome {
+    display: none !important;
+  }
+
+  .deck-print-page {
+    page-break-after: always;
+    break-after: page;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .deck-print-page:last-child {
+    page-break-after: auto;
+    break-after: auto;
+  }
+}

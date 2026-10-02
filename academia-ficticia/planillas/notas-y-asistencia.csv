@@ -1,0 +1,166 @@
+legajo,apellido_y_nombre,comision,idioma,nivel,docente,sede,parcial_1,parcial_2,oral,promedio,clases_dictadas,ausencias,asistencia_pct,resultado_preliminar,cuotas_impagas
+0301,"Coronel, Milagros",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,8.0,9.2,8.7,8.63,28,3,89.3,promociona,1
+0302,"Coronel, Renata",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,9.3,8.8,8.8,8.97,28,1,96.4,promociona,0
+0303,"Ortiz, Rocio",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,6.7,6.4,6.9,6.67,28,6,78.6,recuperatorio,1
+0304,"Sosa, Alma",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,8.1,8.9,8.7,8.57,28,1,96.4,promociona,0
+0305,"Sosa, Valentin",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,7.3,7.1,7.1,7.17,28,3,89.3,promociona,0
+0306,"Figueroa, Maximo",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,9.1,8.6,8.5,8.73,28,2,92.9,promociona,0
+0307,"Perez, Facundo",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,8.4,9.6,10.0,9.33,28,3,89.3,promociona,0
+0308,"Perez, Simon",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,8.1,9.0,7.9,8.33,28,1,96.4,promociona,0
+0309,"Sosa, Nicolas",ING-K1-T,Ingles,Kids 1,Laura Beltran,Centro,9.6,8.0,8.6,8.73,28,3,89.3,promociona,0
+0310,"Coronel, Leonardo",ING-K2-T,Ingles,Kids 2,Laura Beltran,Centro,7.7,7.7,9.0,8.13,28,2,92.9,promociona,3
+0311,"Coronel, Mora",ING-K2-T,Ingles,Kids 2,Laura Beltran,Centro,5.8,5.6,4.6,5.33,28,8,71.4,recursa,0
+0312,"Orellana, Josefina",ING-K2-T,Ingles,Kids 2,Laura Beltran,Centro,6.3,6.5,6.6,6.47,28,4,85.7,recuperatorio,0
+0313,"Andrade, Emma",ING-T1-T,Ingles,Teens 1,Diego Ferrari,Centro,8.0,7.4,9.7,8.37,56,9,83.9,promociona,0
+0314,"Andrade, Ciro",ING-T1-T,Ingles,Teens 1,Diego Ferrari,Centro,8.2,7.9,8.2,8.1,56,3,94.6,promociona,0
+0315,"Vega, Julia",ING-T1-T,Ingles,Teens 1,Diego Ferrari,Centro,9.8,8.7,8.9,9.13,56,8,85.7,promociona,0
+0316,"Saavedra, Liam",ING-T1-T,Ingles,Teens 1,Diego Ferrari,Centro,9.8,9.2,9.7,9.57,56,2,96.4,promociona,0
+0317,"Saavedra, Juan",ING-T1-T,Ingles,Teens 1,Diego Ferrari,Centro,7.9,8.4,7.7,8.0,56,7,87.5,promociona,0
+0318,"Ledesma, Dante",ING-T1-T,Ingles,Teens 1,Diego Ferrari,Centro,7.5,9.4,9.6,8.83,56,3,94.6,promociona,0
+0319,"Coronel, Mia",ING-T1-T,Ingles,Teens 1,Diego Ferrari,Centro,6.4,6.7,6.5,6.53,56,9,83.9,recuperatorio,0
+0320,"Ibarra, Manuela",ING-T1-T,Ingles,Teens 1,Diego Ferrari,Centro,7.9,8.8,7.4,8.03,56,8,85.7,promociona,0
+0321,"Miranda, Renata",ING-A1-M,Ingles,A1 Adultos,Carla Ruiz,Centro,8.9,8.1,9.9,8.97,56,9,83.9,promociona,0
+0323,"Martinez, Lautaro",ING-A1-M,Ingles,A1 Adultos,Carla Ruiz,Centro,8.4,9.0,7.5,8.3,56,7,87.5,promociona,0
+0324,"Rivero, Agustin",ING-A1-M,Ingles,A1 Adultos,Carla Ruiz,Centro,9.4,9.7,8.5,9.2,56,5,91.1,promociona,0
+0325,"Acosta, Lautaro",ING-A1-M,Ingles,A1 Adultos,Carla Ruiz,Centro,8.4,8.5,9.5,8.8,56,4,92.9,promociona,0
+0326,"Paez, Bruno",ING-A1-M,Ingles,A1 Adultos,Carla Ruiz,Centro,8.5,8.2,8.9,8.53,56,7,87.5,promociona,0
+0327,"Torres, Jazmin",ING-A1-M,Ingles,A1 Adultos,Carla Ruiz,Centro,5.6,5.8,5.7,5.7,56,16,71.4,recursa,0
+0328,"Lucero, Maximo",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,5.6,,,5.6,56,30,46.4,recursa,4
+0329,"Acosta, Luna",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,7.7,9.7,8.3,8.57,56,8,85.7,promociona,0
+0330,"Suarez, Jazmin",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,8.2,9.3,8.9,8.8,56,4,92.9,promociona,2
+0331,"Andrade, Gonzalo",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,7.5,9.3,7.6,8.13,56,8,85.7,promociona,0
+0332,"Olivera, Renata",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,5.1,5.2,5.3,5.2,56,18,67.9,recursa,0
+0333,"Galvan, Abril",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,10.0,7.7,9.9,9.2,56,5,91.1,promociona,0
+0334,"Nuñez, Tomas",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,8.9,8.8,9.6,9.1,56,4,92.9,promociona,0
+0335,"Lamas, Paula",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,9.6,8.5,9.6,9.23,56,3,94.6,promociona,0
+0336,"Arias, Luca",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,8.0,9.5,7.7,8.4,56,6,89.3,promociona,0
+0337,"Rios, Milagros",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,7.2,6.9,7.4,7.17,56,9,83.9,promociona,0
+0338,"Vargas, Rodrigo",ING-A2-N,Ingles,A2 Adultos,Carla Ruiz,Centro,8.1,7.9,8.1,8.03,56,8,85.7,promociona,0
+0339,"Roldan, Zoe",ING-B1-N,Ingles,B1 Adultos,Diego Ferrari,Centro,8.8,8.7,9.1,8.87,56,5,91.1,promociona,0
+0340,"Gonzalez, Constanza",ING-B1-N,Ingles,B1 Adultos,Diego Ferrari,Centro,9.1,8.5,7.4,8.33,56,5,91.1,promociona,0
+0341,"Ramos, Alma",ING-B1-N,Ingles,B1 Adultos,Diego Ferrari,Centro,9.3,10.0,8.2,9.17,56,5,91.1,promociona,0
+0342,"Ruiz, Dylan",ING-B1-N,Ingles,B1 Adultos,Diego Ferrari,Centro,9.2,8.5,8.3,8.67,56,3,94.6,promociona,0
+0343,"Quiroga, Rodrigo",ING-B1-N,Ingles,B1 Adultos,Diego Ferrari,Centro,4.8,3.9,5.5,4.73,56,17,69.6,recursa,0
+0345,"Villalba, Isabella",ING-B1-N,Ingles,B1 Adultos,Diego Ferrari,Centro,9.7,8.3,9.2,9.07,56,6,89.3,promociona,0
+0347,"Martinez, Tomas",ING-B1-N,Ingles,B1 Adultos,Diego Ferrari,Centro,8.0,9.9,9.5,9.13,56,4,92.9,promociona,0
+0348,"Caceres, Manuela",ING-B1-N,Ingles,B1 Adultos,Diego Ferrari,Centro,6.4,6.2,6.4,6.33,56,12,78.6,recuperatorio,0
+0349,"Palacios, Paula",ING-B2-N,Ingles,B2 Adultos,Martin Sosa,Centro,8.5,9.0,8.8,8.77,56,4,92.9,promociona,0
+0350,"Marino, Josefina",ING-B2-N,Ingles,B2 Adultos,Martin Sosa,Centro,9.6,9.5,9.5,9.53,56,9,83.9,promociona,0
+0351,"Ortiz, Trinidad",ING-B2-N,Ingles,B2 Adultos,Martin Sosa,Centro,9.4,9.4,8.2,9.0,56,6,89.3,promociona,1
+0352,"Ayala, Delfina",ING-B2-N,Ingles,B2 Adultos,Martin Sosa,Centro,9.5,7.8,8.9,8.73,56,8,85.7,promociona,0
+0354,"Vega, Alvaro",ING-B2-N,Ingles,B2 Adultos,Martin Sosa,Centro,8.2,9.1,9.0,8.77,56,3,94.6,promociona,0
+0355,"Ortiz, Luna",ING-B2-N,Ingles,B2 Adultos,Martin Sosa,Centro,9.5,7.9,8.8,8.73,56,7,87.5,promociona,0
+0356,"Arias, Antonella",ING-B2-N,Ingles,B2 Adultos,Martin Sosa,Centro,8.4,8.1,7.5,8.0,56,3,94.6,promociona,1
+0357,"Castro, Simon",ING-B2-N,Ingles,B2 Adultos,Martin Sosa,Centro,9.7,9.4,8.0,9.03,56,7,87.5,promociona,0
+0358,"Molina, Dante",ING-C1-N,Ingles,C1 Adultos,Martin Sosa,Centro,8.2,8.4,8.4,8.33,56,7,87.5,promociona,0
+0359,"Lamas, Camila",ING-C1-N,Ingles,C1 Adultos,Martin Sosa,Centro,9.1,8.2,8.1,8.47,56,15,73.2,revisar - asistencia entre 70% y 75%,2
+0360,"Palacios, Noah",ING-C1-N,Ingles,C1 Adultos,Martin Sosa,Centro,9.7,8.9,9.1,9.23,56,3,94.6,promociona,0
+0361,"Orellana, Marcos",ING-C1-N,Ingles,C1 Adultos,Martin Sosa,Centro,9.4,8.5,8.6,8.83,56,2,96.4,promociona,0
+0362,"Franco, Julian",ING-C1-N,Ingles,C1 Adultos,Martin Sosa,Centro,9.5,9.4,8.2,9.03,56,2,96.4,promociona,0
+0364,"Ojeda, Mora",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,8.0,9.6,7.7,8.43,28,3,89.3,curso complementario - sin promocion,0
+0365,"Rivero, Jazmin",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,9.2,7.9,8.3,8.47,28,4,85.7,curso complementario - sin promocion,0
+0366,"Carrizo, Alan",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,9.0,9.7,7.8,8.83,28,1,96.4,curso complementario - sin promocion,0
+0367,"Ramos, Emma",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,8.4,9.3,7.5,8.4,28,1,96.4,curso complementario - sin promocion,0
+0368,"Vera, Agostina",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,9.6,9.1,9.8,9.5,28,3,89.3,curso complementario - sin promocion,0
+0369,"Franco, Camila",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,9.2,7.9,9.9,9.0,28,4,85.7,curso complementario - sin promocion,0
+0370,"Fernandez, Catalina",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,9.3,7.9,7.9,8.37,28,4,85.7,curso complementario - sin promocion,0
+0371,"Blanco, Camila",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,10.0,9.8,10.0,9.93,28,2,92.9,curso complementario - sin promocion,0
+0372,"Garcia, Bruno",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,8.3,10.0,8.7,9.0,28,3,89.3,curso complementario - sin promocion,0
+0373,"Maldonado, Manuela",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,9.0,8.6,7.5,8.37,28,2,92.9,curso complementario - sin promocion,0
+0374,"Carrizo, Leonardo",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,8.0,7.6,9.0,8.2,28,4,85.7,curso complementario - sin promocion,0
+0375,"Cruz, Julia",ING-FCE,Ingles,Preparacion FCE,Paula Ocampo,Centro,8.6,8.0,9.5,8.7,56,5,91.1,curso complementario - sin promocion,0
+0376,"Acosta, Micaela",ING-FCE,Ingles,Preparacion FCE,Paula Ocampo,Centro,5.6,,,5.6,56,30,46.4,curso complementario - sin promocion,4
+0378,"Olivera, Pedro",ING-FCE,Ingles,Preparacion FCE,Paula Ocampo,Centro,8.6,7.5,7.8,7.97,56,6,89.3,curso complementario - sin promocion,0
+0379,"Salas, Noah",ING-FCE,Ingles,Preparacion FCE,Paula Ocampo,Centro,9.4,9.2,8.1,8.9,56,7,87.5,curso complementario - sin promocion,0
+0381,"Vega, Catalina",ING-FCE,Ingles,Preparacion FCE,Paula Ocampo,Centro,8.4,9.1,9.8,9.1,56,4,92.9,curso complementario - sin promocion,0
+0382,"Garcia, Juana",ING-FCE,Ingles,Preparacion FCE,Paula Ocampo,Centro,8.3,8.1,7.8,8.07,56,3,94.6,curso complementario - sin promocion,0
+0383,"Mercado, Milagros",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,5.5,,,5.5,56,30,46.4,recursa,4
+0384,"Rios, Martina",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,6.6,6.2,6.2,6.33,56,6,89.3,recuperatorio,0
+0385,"Sarmiento, Ana",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,8.3,8.3,9.5,8.7,56,7,87.5,promociona,0
+0386,"Herrera, Santino",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,7.4,7.7,9.3,8.13,56,4,92.9,promociona,0
+0387,"Caceres, Rocio",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,7.6,7.3,7.5,7.47,56,8,85.7,promociona,0
+0388,"Calvo, Trinidad",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,8.3,9.6,9.0,8.97,56,4,92.9,promociona,3
+0389,"Figueroa, Mora",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,6.9,,,6.9,56,30,46.4,recuperatorio,4
+0390,"Garcia, Josefina",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,8.3,9.5,8.1,8.63,56,4,92.9,promociona,0
+0391,"Romero, Maite",POR-A1-N,Portugues,A1 Adultos,Renata Lima,Centro,9.4,8.4,7.9,8.57,56,2,96.4,promociona,0
+0393,"Giménez, Enzo",POR-B1-N,Portugues,B1 Adultos,Renata Lima,Centro,8.4,9.1,9.6,9.03,56,4,92.9,promociona,0
+0394,"Silva, Florencia",POR-B1-N,Portugues,B1 Adultos,Renata Lima,Centro,7.6,8.3,7.5,7.8,56,6,89.3,promociona,0
+0395,"Silva, Guadalupe",POR-B1-N,Portugues,B1 Adultos,Renata Lima,Centro,9.5,8.6,9.1,9.07,56,4,92.9,promociona,0
+0396,"Sandoval, Dante",POR-B1-N,Portugues,B1 Adultos,Renata Lima,Centro,9.0,9.9,8.4,9.1,56,3,94.6,promociona,0
+0397,"Salas, Florencia",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,9.6,8.9,8.0,8.83,28,4,85.7,promociona,0
+0398,"Pereyra, Valentin",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,8.5,7.7,9.8,8.67,28,4,85.7,promociona,0
+0399,"Ortiz, Martina",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,8.5,9.5,8.3,8.77,28,3,89.3,promociona,0
+0400,"Aguirre, Pilar",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,8.3,9.9,9.0,9.07,28,4,85.7,promociona,0
+0401,"Lopez, Bautista",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,9.9,8.0,9.4,9.1,28,1,96.4,promociona,0
+0402,"Olivera, Sofia",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,8.2,9.1,9.4,8.9,28,3,89.3,promociona,0
+0403,"Pereyra, Guadalupe",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,8.1,8.6,8.3,8.33,28,4,85.7,promociona,0
+0404,"Gomez, Bruno",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,9.0,9.6,8.3,8.97,28,1,96.4,promociona,0
+0405,"Barrios, Rodrigo",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,9.9,9.5,9.7,9.7,56,1,98.2,promociona,2
+0406,"Velazquez, Julia",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,8.9,7.9,7.9,8.23,56,7,87.5,promociona,0
+0407,"Olivera, Dante",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,7.5,8.2,9.6,8.43,56,5,91.1,promociona,0
+0408,"Herrera, Gaspar",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,8.6,9.7,9.4,9.23,56,7,87.5,promociona,0
+0409,"Herrera, Enzo",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,9.2,8.0,7.5,8.23,56,3,94.6,promociona,0
+0410,"Falcon, Alma",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,8.6,9.6,8.3,8.83,56,4,92.9,promociona,0
+0411,"Montenegro, Ramiro",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,4.1,3.9,5.7,4.57,56,18,67.9,recursa,0
+0412,"Gomez, Abril",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,7.8,9.0,9.8,8.87,56,2,96.4,promociona,0
+0413,"Rivero, Delfina",ING-T1-N-T,Ingles,Teens 1,Sofia Anders,Norte,9.0,8.6,7.6,8.4,56,6,89.3,promociona,0
+0414,"Acosta, Mora",ING-T2-N-T,Ingles,Teens 2,Julian Recalde,Norte,7.6,8.0,9.3,8.3,56,5,91.1,promociona,0
+0415,"Perez, Gaspar",ING-T2-N-T,Ingles,Teens 2,Julian Recalde,Norte,5.1,4.8,4.3,4.73,56,17,69.6,recursa,1
+0416,"Correa, Clara",ING-T2-N-T,Ingles,Teens 2,Julian Recalde,Norte,8.8,8.9,8.2,8.63,56,8,85.7,promociona,0
+0417,"Montenegro, Brisa",ING-T2-N-T,Ingles,Teens 2,Julian Recalde,Norte,7.0,7.4,7.3,7.23,56,6,89.3,promociona,0
+0418,"Andrade, Julia",ING-T2-N-T,Ingles,Teens 2,Julian Recalde,Norte,7.4,8.2,9.2,8.27,56,2,96.4,promociona,0
+0419,"Nuñez, Bianca",ING-T2-N-T,Ingles,Teens 2,Julian Recalde,Norte,7.0,7.1,7.2,7.1,56,5,91.1,promociona,0
+0420,"Leiva, Vicente",ING-T2-N-T,Ingles,Teens 2,Julian Recalde,Norte,8.7,10.0,7.7,8.8,56,6,89.3,promociona,0
+0421,"Torres, Agustin",ING-A1-N-M,Ingles,A1 Adultos,Veronica Paz,Norte,8.6,9.4,7.4,8.47,56,3,94.6,promociona,0
+0422,"Olivera, Alma",ING-A1-N-M,Ingles,A1 Adultos,Veronica Paz,Norte,9.6,8.2,9.0,8.93,56,7,87.5,promociona,0
+0423,"Ponce, Olivia",ING-A1-N-M,Ingles,A1 Adultos,Veronica Paz,Norte,8.5,9.5,7.8,8.6,56,7,87.5,promociona,0
+0424,"Giménez, Ramiro",ING-A1-N-M,Ingles,A1 Adultos,Veronica Paz,Norte,5.0,5.1,4.4,4.83,56,13,76.8,recursa,0
+0425,"Romero, Bianca",ING-A1-N-M,Ingles,A1 Adultos,Veronica Paz,Norte,7.8,7.5,8.5,7.93,56,2,96.4,promociona,0
+0426,"Orellana, Bruno",ING-A1-N-M,Ingles,A1 Adultos,Veronica Paz,Norte,9.7,8.2,8.7,8.87,56,4,92.9,promociona,0
+0427,"Acosta, Maria",ING-A1-N-M,Ingles,A1 Adultos,Veronica Paz,Norte,8.7,7.6,10.0,8.77,56,8,85.7,promociona,1
+0428,"Calvo, Bruno",ING-A1-N-M,Ingles,A1 Adultos,Veronica Paz,Norte,8.9,8.7,7.6,8.4,56,6,89.3,promociona,0
+0429,"Chaves, Isabella",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,7.7,7.7,8.1,7.83,56,16,71.4,revisar - asistencia entre 70% y 75%,2
+0430,"Aguirre, Franco",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,9.3,8.5,7.6,8.47,56,5,91.1,promociona,0
+0431,"Saavedra, Leonardo",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,8.7,9.5,8.0,8.73,56,6,89.3,promociona,0
+0432,"Muñoz, Camila",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,8.1,9.9,8.2,8.73,56,4,92.9,promociona,0
+0433,"Correa, Julia",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,7.8,8.5,9.6,8.63,56,3,94.6,promociona,0
+0434,"Vega, Sofia",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,9.0,8.3,8.6,8.63,56,2,96.4,promociona,0
+0435,"Toledo, Ian",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,9.0,9.5,7.9,8.8,56,4,92.9,promociona,0
+0436,"Campos, Candela",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,8.1,8.2,7.9,8.07,56,3,94.6,promociona,0
+0437,"Palacios, Trinidad",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,9.1,9.9,7.6,8.87,56,7,87.5,promociona,0
+0438,"Godoy, Guadalupe",ING-A2-N-N,Ingles,A2 Adultos,Veronica Paz,Norte,8.3,9.0,8.9,8.73,56,15,73.2,revisar - asistencia entre 70% y 75%,0
+0439,"Muñoz, Paula",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,9.5,7.9,8.6,8.67,56,8,85.7,promociona,2
+0440,"Sanchez, Lucia",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,9.2,9.3,9.4,9.3,56,9,83.9,promociona,0
+0441,"Lucero, Sofia",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,7.6,8.2,9.3,8.37,56,8,85.7,promociona,0
+0442,"Saavedra, Gaspar",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,7.5,7.2,7.6,7.43,56,8,85.7,promociona,0
+0443,"Cruz, Dylan",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,6.0,6.9,6.2,6.37,56,6,89.3,recuperatorio,0
+0444,"Galvan, Isabella",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,9.4,8.7,9.4,9.17,56,16,71.4,revisar - asistencia entre 70% y 75%,0
+0445,"Cruz, Ian",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,9.3,8.5,9.2,9.0,56,3,94.6,promociona,0
+0446,"Sanchez, Valentina",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,7.7,9.9,9.1,8.9,56,7,87.5,promociona,3
+0447,"Juarez, Martina",ING-B1-N-N,Ingles,B1 Adultos,Julian Recalde,Norte,8.6,8.8,8.9,8.77,56,7,87.5,promociona,0
+0448,"Sosa, Zoe",ING-B2-N-N,Ingles,B2 Adultos,Gaston Herrera,Norte,8.2,7.6,7.9,7.9,56,6,89.3,promociona,0
+0449,"Silva, Maite",ING-B2-N-N,Ingles,B2 Adultos,Gaston Herrera,Norte,9.8,9.7,9.1,9.53,56,2,96.4,promociona,0
+0450,"Andrade, Enzo",ING-B2-N-N,Ingles,B2 Adultos,Gaston Herrera,Norte,9.5,9.3,8.0,8.93,56,5,91.1,promociona,0
+0451,"Blanco, Valentina",ING-B2-N-N,Ingles,B2 Adultos,Gaston Herrera,Norte,9.8,7.5,7.5,8.27,56,2,96.4,promociona,0
+0452,"Toledo, Ambar",ING-B2-N-N,Ingles,B2 Adultos,Gaston Herrera,Norte,9.1,9.1,8.3,8.83,56,3,94.6,promociona,0
+0453,"Alvarez, Ciro",ING-B2-N-N,Ingles,B2 Adultos,Gaston Herrera,Norte,9.0,9.6,7.7,8.77,56,8,85.7,promociona,0
+0454,"Salas, Sofia",ING-B2-N-N,Ingles,B2 Adultos,Gaston Herrera,Norte,6.3,,,6.3,56,30,46.4,recuperatorio,8
+0454,"Salas, Sofia",ING-CONV,Ingles,Conversacion,Paula Ocampo,Norte,6.8,,,6.8,28,15,46.4,curso complementario - sin promocion,8
+0455,"Salas, Benjamin",ING-B2-N-N,Ingles,B2 Adultos,Gaston Herrera,Norte,5.4,5.2,3.9,4.83,56,15,73.2,recursa,0
+0456,"Molina, Luca",ING-INT-N,Ingles,Intensivo,Gaston Herrera,Norte,9.2,8.8,7.7,8.57,56,4,92.9,curso complementario - sin promocion,0
+0457,"Godoy, Rodrigo",ING-INT-N,Ingles,Intensivo,Gaston Herrera,Norte,8.7,8.1,9.5,8.77,56,2,96.4,curso complementario - sin promocion,0
+0458,"Cruz, Federico",ING-INT-N,Ingles,Intensivo,Gaston Herrera,Norte,8.8,8.6,7.6,8.33,56,8,85.7,curso complementario - sin promocion,0
+0459,"Fernandez, Ciro",ING-INT-N,Ingles,Intensivo,Gaston Herrera,Norte,8.5,9.8,9.7,9.33,56,1,98.2,curso complementario - sin promocion,0
+0460,"Suarez, Luca",ING-INT-N,Ingles,Intensivo,Gaston Herrera,Norte,7.8,9.8,9.4,9.0,56,2,96.4,curso complementario - sin promocion,0
+0461,"Sanchez, Federico",ING-INT-N,Ingles,Intensivo,Gaston Herrera,Norte,8.1,8.5,8.1,8.23,56,2,96.4,curso complementario - sin promocion,0
+0462,"Ferreyra, Antonella",ING-INT-N,Ingles,Intensivo,Gaston Herrera,Norte,9.8,9.2,9.0,9.33,56,4,92.9,curso complementario - sin promocion,0
+0463,"Mendez, Vicente",POR-A1-N-N,Portugues,A1 Adultos,Renata Lima,Norte,8.9,9.7,9.4,9.33,56,9,83.9,promociona,0
+0464,"Ledesma, Ciro",POR-A1-N-N,Portugues,A1 Adultos,Renata Lima,Norte,8.6,7.9,8.3,8.27,56,1,98.2,promociona,0
+0465,"Rivero, Valentina",POR-A1-N-N,Portugues,A1 Adultos,Renata Lima,Norte,7.9,8.4,9.4,8.57,56,2,96.4,promociona,0
+0466,"Perez, Valentina",POR-A1-N-N,Portugues,A1 Adultos,Renata Lima,Norte,9.0,9.3,8.8,9.03,56,15,73.2,revisar - asistencia entre 70% y 75%,0
+0467,"Santillan, Julian",POR-A1-N-N,Portugues,A1 Adultos,Renata Lima,Norte,8.9,9.7,8.9,9.17,56,8,85.7,promociona,0
+0468,"Maldonado, Martina",POR-A1-N-N,Portugues,A1 Adultos,Renata Lima,Norte,6.0,6.9,6.8,6.57,56,9,83.9,recuperatorio,0
+0469,"Salas, Franco",POR-A1-N-N,Portugues,A1 Adultos,Renata Lima,Norte,8.2,9.3,9.1,8.87,56,3,94.6,promociona,0
+0470,"Farias, Bianca",POR-A1-N-N,Portugues,A1 Adultos,Renata Lima,Norte,10.0,9.7,8.7,9.47,56,8,85.7,promociona,0
+0471,"Aguirre, Pilar",ING-K1-N-T,Ingles,Kids 1,Sofia Anders,Norte,9.5,7.4,9.8,8.9,28,3,89.3,promociona,0
+0472,"Maldonado, Manuela",ING-CONV,Ingles,Conversacion,Paula Ocampo,Centro,9.9,8.8,9.2,9.3,28,4,85.7,curso complementario - sin promocion,0

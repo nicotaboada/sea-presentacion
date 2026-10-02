@@ -1,0 +1,790 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Caveat:wght@500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 4%;
+    --foreground: 0 0% 100%;
+
+    --card: 0 0% 7%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 0 0% 7%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 0 0% 100%;
+    --primary-foreground: 0 0% 4%;
+
+    --secondary: 0 0% 12%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 63%;
+
+    --accent: 0 0% 85%;
+    --accent-foreground: 0 0% 4%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 15%;
+    --input: 0 0% 15%;
+    --ring: 0 0% 100%;
+
+    --radius: 0.5rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: "DM Sans", sans-serif;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Syne", sans-serif;
+  }
+}
+
+@layer utilities {
+  .font-heading {
+    font-family: "Syne", sans-serif;
+  }
+
+  .font-mano {
+    font-family: "Caveat", cursive;
+  }
+
+  .noise-overlay::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    pointer-events: none;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-repeat: repeat;
+    background-size: 256px 256px;
+  }
+
+  .proposal-card {
+    border-radius: 0.75rem;
+    border-width: 1px;
+    border-color: hsla(0, 0%, 100%, 0.08);
+    background-color: hsla(0, 0%, 100%, 0.03);
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 0.3s;
+    animation-duration: 0.3s;
+  }
+
+  .proposal-card:hover {
+    border-color: hsla(0, 0%, 100%, 0.18);
+    transform: scale(1.01);
+  }
+
+  .proposal-section {
+    padding: 5rem 1.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .proposal-section {
+      padding: 120px 4rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .proposal-section {
+      padding-left: 6rem;
+      padding-right: 6rem;
+    }
+  }
+}
+
+/* ---------------------------------------------------------------
+   Impresión / exportación a PDF
+   Las animaciones de entrada dejan los elementos en opacity:0 hasta
+   que entran en viewport, así que al imprimir hay que forzarlos.
+   --------------------------------------------------------------- */
+@media print {
+  @page {
+    size: 1280px 900px;
+    margin: 0;
+  }
+
+  html,
+  body {
+    background: hsl(var(--background)) !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Anula las animaciones de framer-motion */
+  *,
+  *::before,
+  *::after {
+    opacity: 1 !important;
+    transform: none !important;
+    animation: none !important;
+    transition: none !important;
+    filter: none !important;
+  }
+
+  /* El overlay de ruido es position:fixed y se repetiría en cada página */
+  .noise-overlay::before {
+    display: none !important;
+  }
+
+  /* La nav lateral no va al PDF */
+  nav {
+    display: none !important;
+  }
+
+  /* Una sección por página */
+  section {
+    min-height: 0 !important;
+    height: auto !important;
+    page-break-after: always;
+    break-after: page;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    padding: 48px 56px !important;
+    justify-content: flex-start !important;
+  }
+
+  section:last-of-type {
+    page-break-after: auto;
+    break-after: auto;
+  }
+
+  /* La portada sí va centrada y a página completa */
+  #cover {
+    height: 100vh !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  /* Botones interactivos no van al PDF */
+  button {
+    display: none !important;
+  }
+
+  /* El indicador de scroll no tiene sentido en papel */
+  #cover > div:last-of-type,
+  #cover > div:nth-last-of-type(2) {
+    display: none !important;
+  }
+
+  /* Evita cortar tarjetas al medio */
+  .proposal-card,
+  li {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}
+
+/* ---------------------------------------------------------------
+   Deck: placas de 1920×1080 escaladas al viewport
+   --------------------------------------------------------------- */
+@layer utilities {
+  /* El noise-overlay original es position:fixed (cubre el viewport).
+     Dentro de una placa tiene que ser absolute, acotado a la placa. */
+  .noise-overlay::before {
+    position: absolute;
+  }
+
+  .deck-stage {
+    transform-origin: top left;
+  }
+}
+
+@media print {
+  /* Una placa por página, a tamaño completo */
+  @page {
+    size: 1920px 1080px;
+    margin: 0;
+  }
+
+  .deck-chrome {
+    display: none !important;
+  }
+
+  .deck-print-page {
+    page-break-after: always;
+    break-after: page;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .deck-print-page:last-child {
+    page-break-after: auto;
+    break-after: auto;
+  }
+}
+
+/* ---------------------------------------------------------------
+   Animaciones de entrada
+   ---------------------------------------------------------------
+   Las 46 placas son las mismas que en `presentacion/`: no tienen
+   nada de animación adentro. La cascada se aplica desde afuera, por
+   posición en el DOM, así cualquier placa nueva anima sola.
+
+   Tres niveles, cada uno con su propio retardo:
+     1 · los bloques de primer nivel (volanta, título, bajada, lista)
+     2 · las tarjetas de una grilla
+     3 · los ítems de una lista
+
+   El desenfoque va solo en el nivel 1, que son pocos elementos. En
+   listas largas cuesta caro y no se nota.
+   --------------------------------------------------------------- */
+
+@keyframes deck-sube {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 38px, 0);
+    filter: blur(12px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+    filter: blur(0);
+  }
+}
+
+@keyframes deck-item {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes deck-tarjeta {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 26px, 0) scale(0.975);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.escena > * > * {
+  animation: deck-sube 760ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.escena > * > *:nth-child(1) { animation-delay: 160ms; }
+.escena > * > *:nth-child(2) { animation-delay: 250ms; }
+.escena > * > *:nth-child(3) { animation-delay: 335ms; }
+.escena > * > *:nth-child(4) { animation-delay: 415ms; }
+.escena > * > *:nth-child(5) { animation-delay: 490ms; }
+.escena > * > *:nth-child(6) { animation-delay: 560ms; }
+.escena > * > *:nth-child(7) { animation-delay: 625ms; }
+.escena > * > *:nth-child(8) { animation-delay: 685ms; }
+.escena > * > *:nth-child(n + 9) { animation-delay: 740ms; }
+
+/* Tarjetas de una grilla: entran después del bloque que las contiene. */
+.escena [class*="grid-cols"] > *:not(.paso):not(.marca-ia) {
+  animation: deck-tarjeta 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.escena [class*="grid-cols"] > *:not(.paso):not(.marca-ia):nth-child(1) { animation-delay: 380ms; }
+.escena [class*="grid-cols"] > *:not(.paso):not(.marca-ia):nth-child(2) { animation-delay: 470ms; }
+.escena [class*="grid-cols"] > *:not(.paso):not(.marca-ia):nth-child(3) { animation-delay: 560ms; }
+.escena [class*="grid-cols"] > *:not(.paso):not(.marca-ia):nth-child(4) { animation-delay: 650ms; }
+.escena [class*="grid-cols"] > *:not(.paso):not(.marca-ia):nth-child(5) { animation-delay: 735ms; }
+.escena [class*="grid-cols"] > *:not(.paso):not(.marca-ia):nth-child(6) { animation-delay: 815ms; }
+.escena [class*="grid-cols"] > *:not(.paso):not(.marca-ia):nth-child(n + 7) { animation-delay: 890ms; }
+
+/* Ítems de lista: la cascada más larga, y la que más se nota. */
+.escena li {
+  animation: deck-item 620ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.escena li:nth-child(1) { animation-delay: 430ms; }
+.escena li:nth-child(2) { animation-delay: 500ms; }
+.escena li:nth-child(3) { animation-delay: 570ms; }
+.escena li:nth-child(4) { animation-delay: 640ms; }
+.escena li:nth-child(5) { animation-delay: 710ms; }
+.escena li:nth-child(6) { animation-delay: 775ms; }
+.escena li:nth-child(7) { animation-delay: 840ms; }
+.escena li:nth-child(n + 8) { animation-delay: 900ms; }
+
+/* Con la tecla R, o si el sistema pide menos movimiento, todo aparece y ya. */
+@media (prefers-reduced-motion: reduce) {
+  /* Va con !important a propósito: varias reglas de más abajo son más específicas
+     que estas, y sin el !important dejarían los elementos en opacity 0 para siempre.
+     Una placa en blanco es mucho peor que una placa sin animación. */
+  .escena > * > *,
+  .escena [class*="grid-cols"] > *,
+  .escena li {
+    animation: none !important;
+  }
+}
+
+/* ---------------------------------------------------------------
+   Animaciones propias de tres placas
+   ---------------------------------------------------------------
+   Estas no son cascada genérica: cada una cuenta algo puntual de su
+   placa, así que viven acá y no en el componente.
+   --------------------------------------------------------------- */
+
+/* Cuando una placa maneja sus propios tiempos, le sacamos la cascada general. */
+.escena > * > .sin-cascada {
+  animation: none;
+}
+
+/* --- Las facturas · entran de a una, y cada vez más rápido --- */
+
+@keyframes deck-factura {
+  from {
+    opacity: 0;
+    transform: translate3d(200px, 0, 0) scale(0.955);
+  }
+  to {
+    opacity: var(--op, 1);
+    transform: none;
+  }
+}
+
+.escena .factura {
+  animation: deck-factura 1000ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* Lento a propósito: cada comprobante tiene que durar lo que dura cargarlo.
+   Los cuatro tardan casi cinco segundos, y el contador sigue corriendo detrás. */
+.escena .factura:nth-child(1) { animation-delay: 300ms; }
+.escena .factura:nth-child(2) { animation-delay: 1600ms; }
+.escena .factura:nth-child(3) { animation-delay: 2900ms; }
+.escena .factura:nth-child(4) { animation-delay: 4100ms; }
+
+/* --- La doble carga · el papel se marca, la planilla se llena --- */
+
+@keyframes deck-marca {
+  0%, 100% { background-color: transparent; }
+  30%, 65% { background-color: rgba(232, 211, 106, 0.32); }
+}
+
+@keyframes deck-fila {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes deck-punto {
+  from { transform: translateX(0); opacity: 0; }
+  18% { opacity: 1; }
+  82% { opacity: 1; }
+  to { transform: translateX(126px); opacity: 0; }
+}
+
+/* Los retardos van inline en el componente, porque son treinta y cinco casilleros
+   y la cuenta —columna por columna— se lee mejor en TypeScript que en CSS. */
+.escena .celda-papel {
+  animation: deck-marca 620ms ease-in-out both;
+}
+
+.escena .marca {
+  display: inline-block;
+  animation: deck-fila 260ms ease-out both;
+}
+
+/* El punto cruza una vez por columna: cinco fechas, cinco viajes. */
+.escena .punto-viaje {
+  animation: deck-punto 595ms linear 700ms 5 both;
+}
+
+/* --- Las fuentes dispersas · nunca quedan quietas --- */
+
+@keyframes deck-deriva {
+  0%, 100% { transform: rotate(var(--rot, 0deg)) translate3d(0, 0, 0); }
+  50% { transform: rotate(var(--rot, 0deg)) translate3d(var(--dx, 0), var(--dy, 0), 0); }
+}
+
+@keyframes deck-aparece {
+  from { opacity: 0; transform: scale(0.9) translate3d(0, 16px, 0); }
+  to { opacity: 1; transform: none; }
+}
+
+.escena .deriva {
+  animation: deck-deriva var(--dur, 9s) ease-in-out infinite;
+}
+
+.escena .aparece {
+  animation: deck-aparece 560ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .factura,
+  .escena .celda-papel,
+  .escena .marca,
+  .escena .punto-viaje,
+  .escena .deriva,
+  .escena .aparece {
+    animation: none !important;
+  }
+  .escena .factura { opacity: var(--op, 1); }
+  .escena .deriva { transform: rotate(var(--rot, 0deg)); }
+}
+
+/* --- La forma del trabajo · un verbo por vez, y el rombo que se cierra --- */
+
+@keyframes deck-verbo {
+  from {
+    opacity: 0;
+    transform: translate3d(-30px, 0, 0);
+    filter: blur(9px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+    filter: blur(0);
+  }
+}
+
+/* Las caras crecen desde el centro del rombo, que es el origen del viewBox. */
+@keyframes deck-cara {
+  from { opacity: 0; transform: scale(0.55); }
+  to { opacity: 1; transform: none; }
+}
+
+/* Gana sobre la cascada general de `.escena li`; el retardo va inline, por verbo. */
+.escena .verbo {
+  animation: deck-verbo 900ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.escena .cara {
+  transform-box: view-box;
+  transform-origin: center;
+  animation: deck-cara 760ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .verbo,
+  .escena .cara {
+    animation: none !important;
+  }
+}
+
+/* --- Las placas de conversación --- */
+
+@keyframes deck-burbuja {
+  from { opacity: 0; transform: translate3d(0, 24px, 0); }
+  to { opacity: 1; transform: none; }
+}
+
+/* Aparece, se queda mientras "piensa", y se va cuando llega la respuesta. */
+@keyframes deck-pensando {
+  0% { opacity: 0; }
+  12%, 82% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@keyframes deck-punto-pensando {
+  0%, 100% { opacity: 0.3; transform: translateY(0); }
+  50% { opacity: 1; transform: translateY(-6px); }
+}
+
+.escena .burbuja {
+  animation: deck-burbuja 560ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.escena .pensando {
+  animation-name: deck-pensando;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: both;
+}
+
+.escena .punto-pensando {
+  animation: deck-punto-pensando 1s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .burbuja,
+  .escena .punto-pensando {
+    animation: none !important;
+  }
+  .escena .pensando { display: none; }
+}
+
+/* --- El método · los cuatro pasos, de a uno y lento --- */
+
+.escena .paso {
+  animation: deck-tarjeta 780ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .paso { animation: none !important; }
+}
+
+/* --- "Acá entra la IA" · destello al entrar y latido después ---
+   El retardo viaja en --t desde Metodo.tsx, así sigue sincronizada con las
+   tarjetas aunque se cambie el ritmo de los cuatro pasos. */
+
+@keyframes deck-ia-entra {
+  0% { opacity: 0; transform: scale(0.94); box-shadow: 0 0 0 0 rgba(232, 211, 106, 0); }
+  55% { opacity: 1; transform: scale(1.035); box-shadow: 0 0 60px 6px rgba(232, 211, 106, 0.42); }
+  100% { opacity: 1; transform: scale(1); box-shadow: 0 0 34px 0 rgba(232, 211, 106, 0.18); }
+}
+
+@keyframes deck-ia-late {
+  0%, 100% { box-shadow: 0 0 30px 0 rgba(232, 211, 106, 0.16); }
+  50% { box-shadow: 0 0 54px 3px rgba(232, 211, 106, 0.36); }
+}
+
+.escena .marca-ia {
+  animation:
+    deck-ia-entra 900ms cubic-bezier(0.16, 1, 0.3, 1) var(--t, 5s) both,
+    deck-ia-late 3s ease-in-out calc(var(--t, 5s) + 0.9s) infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .marca-ia { animation: none !important; }
+}
+
+/* --- Los dibujos de las portadas de paso ---
+   Van en bucle: la portada se queda en pantalla y tiene que seguir viva. */
+
+/* 01 · el marcador baja por la lista y se queda en el proceso elegido */
+@keyframes ico-marcador {
+  0%, 6% { transform: translateY(0); opacity: 0; }
+  10%, 24% { transform: translateY(0); opacity: 1; }
+  30%, 44% { transform: translateY(56px); opacity: 1; }
+  50%, 88% { transform: translateY(112px); opacity: 1; }
+  96%, 100% { transform: translateY(112px); opacity: 0; }
+}
+
+@keyframes ico-fila-elegida {
+  0%, 48% { fill: hsla(0, 0%, 100%, 0.07); }
+  56%, 88% { fill: rgba(232, 211, 106, 0.22); }
+  96%, 100% { fill: hsla(0, 0%, 100%, 0.07); }
+}
+
+.ico-marcador { animation: ico-marcador 7s ease-in-out infinite; }
+.ico-fila-elegida { animation: ico-fila-elegida 7s ease-in-out infinite; }
+
+/* 02 · los papeles de la academia entran al modelo, de a uno */
+@keyframes ico-papel {
+  0% { transform: translateY(-40px) scale(1); opacity: 0; }
+  10%, 40% { transform: translateY(0) scale(1); opacity: 1; }
+  72%, 100% { transform: translateY(168px) scale(0.12); opacity: 0; }
+}
+
+/* el núcleo late una vez por papel */
+@keyframes ico-nucleo {
+  0%, 100% { r: 11; fill-opacity: 1; }
+  50% { r: 17; fill-opacity: 0.75; }
+}
+
+.ico-papel {
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+  animation: ico-papel 6s ease-in infinite both;
+}
+
+.ico-nucleo { animation: ico-nucleo 1.5s ease-in-out infinite; }
+
+/* 03 · se escribe, se manda, y vuelve con algo hecho */
+@keyframes ico-tipeo {
+  0% { width: 0; }
+  38%, 100% { width: 196px; }
+}
+
+@keyframes ico-cursor {
+  0% { transform: translateX(0); }
+  38%, 100% { transform: translateX(196px); }
+}
+
+@keyframes ico-cursor-parpadeo {
+  0%, 45% { opacity: 1; }
+  50%, 70% { opacity: 0; }
+  75%, 100% { opacity: 0; }
+}
+
+@keyframes ico-enviar {
+  0%, 40% { opacity: 0.35; transform: scale(1); }
+  48% { opacity: 1; transform: scale(1.18); }
+  56%, 100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes ico-respuesta {
+  0%, 52% { opacity: 0; transform: translateY(14px); }
+  64%, 92% { opacity: 1; transform: none; }
+  100% { opacity: 0; transform: translateY(14px); }
+}
+
+.ico-tipeo { animation: ico-tipeo 6s ease-in-out infinite; }
+.ico-cursor { animation: ico-cursor 6s ease-in-out infinite, ico-cursor-parpadeo 0.9s steps(1) infinite; }
+.ico-enviar { transform-box: fill-box; transform-origin: center; animation: ico-enviar 6s ease-in-out infinite; }
+.ico-respuesta { animation: ico-respuesta 6s ease-in-out infinite; }
+
+/* 04 · vuelve a pasar, y lo ejecuta alguien */
+@keyframes ico-orbita {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes ico-hito {
+  0%, 70% { opacity: 0.2; }
+  8%, 20% { opacity: 1; }
+}
+
+.ico-orbita {
+  transform-box: view-box;
+  transform-origin: 180px 180px;
+  animation: ico-orbita 8s linear infinite;
+}
+
+.ico-hito { animation: ico-hito 8s linear infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ico-marcador, .ico-fila-elegida, .ico-papel, .ico-nucleo,
+  .ico-tipeo, .ico-cursor, .ico-enviar, .ico-respuesta,
+  .ico-orbita, .ico-hito {
+    animation: none !important;
+  }
+  .ico-tipeo { width: 196px; }
+}
+
+/* El contorno dorado que se enciende sobre Enseñar y Usar, al mismo tiempo que
+   la barra: esos dos son los pasos donde entra la IA. */
+@keyframes deck-ia-borde {
+  0% { opacity: 0; transform: scale(1.03); }
+  100% { opacity: 1; transform: none; }
+}
+
+.escena .marca-ia-borde {
+  animation: deck-ia-borde 900ms cubic-bezier(0.16, 1, 0.3, 1) var(--t, 5s) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .marca-ia-borde { animation: none !important; }
+}
+
+/* --- La placa del regalo · el QR entra solo y se queda --- */
+
+@keyframes deck-qr {
+  from { opacity: 0; transform: scale(0.88); }
+  to { opacity: 1; transform: none; }
+}
+
+.escena .qr-regalo {
+  animation: deck-qr 820ms cubic-bezier(0.16, 1, 0.3, 1) 0.3s both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .qr-regalo { animation: none !important; }
+}
+
+/* --- El dibujo de la portada · el robot y la planilla ---
+   Seis segundos de vuelta, una fila por tilde. Lento a propósito: no tiene que
+   robarle atención a la escena de apertura. La tecla R lo apaga. */
+
+/* El tilde se dibuja solo, como si lo estuviera escribiendo. */
+@keyframes robot-tilde {
+  0%, 2% { stroke-dashoffset: 26; opacity: 0; }
+  4% { opacity: 1; }
+  14%, 88% { stroke-dashoffset: 0; opacity: 1; }
+  96%, 100% { stroke-dashoffset: 26; opacity: 0; }
+}
+
+@keyframes robot-fila {
+  0%, 2% { fill: hsla(0, 0%, 100%, 0.10); }
+  12% { fill: rgba(232, 211, 106, 0.55); }
+  30%, 88% { fill: rgba(232, 211, 106, 0.22); }
+  100% { fill: hsla(0, 0%, 100%, 0.10); }
+}
+
+/* La antena marca el pulso: una vez por fila. */
+@keyframes robot-antena {
+  0%, 100% { opacity: 0.35; r: 9; }
+  50% { opacity: 1; r: 12; }
+}
+
+/* Los ojos bajan a la planilla y vuelven. */
+@keyframes robot-ojos {
+  0%, 10% { transform: translate(0, 0); }
+  26%, 70% { transform: translate(-13px, 6px); }
+  88%, 100% { transform: translate(0, 0); }
+}
+
+@keyframes robot-parpadeo {
+  0%, 92%, 100% { transform: scaleY(1); }
+  95% { transform: scaleY(0.12); }
+}
+
+.escena .robot-tilde {
+  stroke-dasharray: 26;
+  stroke-dashoffset: 26;
+  animation: robot-tilde 5.5s ease-in-out infinite;
+}
+
+.escena .robot-fila {
+  fill: hsla(0, 0%, 100%, 0.10);
+  animation: robot-fila 5.5s ease-in-out infinite;
+}
+
+.escena .robot-antena {
+  animation: robot-antena 1.1s ease-in-out infinite;
+}
+
+.escena .robot-ojos {
+  transform-box: view-box;
+  transform-origin: center;
+  animation: robot-ojos 5.5s ease-in-out infinite, robot-parpadeo 4.3s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .robot-tilde,
+  .escena .robot-fila,
+  .escena .robot-antena,
+  .escena .robot-ojos {
+    animation: none !important;
+  }
+  .escena .robot-tilde { stroke-dashoffset: 0; }
+}
+
+/* --- El extracto · las dos tablas se llenan fila por fila --- */
+
+@keyframes conc-fila {
+  from { opacity: 0; transform: translate3d(0, 10px, 0); }
+  to { opacity: 1; transform: none; }
+}
+
+@keyframes conc-nota {
+  from { opacity: 0; transform: scale(0.85); }
+  to { opacity: 1; transform: none; }
+}
+
+.escena .fila-conc {
+  animation: conc-fila 420ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.escena .nota-conc {
+  display: inline-block;
+  animation: conc-nota 420ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .escena .fila-conc,
+  .escena .nota-conc {
+    animation: none !important;
+  }
+}

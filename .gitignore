@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+
+# Los PDF se generan con los scripts de charla/ y charla/guia/
+charla/guion.pdf
+charla/guia/guia.pdf
+charla/.guion.html
+charla/guia/.guia.html
